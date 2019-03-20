@@ -1,0 +1,3938 @@
+﻿The Project Gutenberg EBook of Ein Sommernachtstraum, by William Shakespeare
+(#17 in our series by William Shakespeare)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Ein Sommernachtstraum
+
+Author: William Shakespeare
+
+Release Date: December, 2004  [EBook #7022]
+[This file was first posted on February 23, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ISO Latin-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK, EIN SOMMERNACHTSTRAUM ***
+
+
+
+
+Thanks are given to Delphine Lettau for finding a huge collection of ancient
+German books in London.
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 8-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfьgung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+Ein Sommernachtstraum
+
+William Shakespeare
+
+(№bersetzt von August Wilhelm von Schlegel)
+
+
+Personen:
+
+Theseus, (Herzog von Athen)
+
+Egeus, (Vater der Hermia)
+
+Lysander und Demetrius, (Liebhaber der Hermia)
+
+Philostrat, (Aufseher der Lustbarkeiten am Hofe des Theseus)
+
+Squenz, (der Zimmermann)
+
+Schnock, (der Schreiner)
+
+Zettel, (der Weber)
+
+Flaut, (der Bдlgenflicker)
+
+Schnauz, (der Kesselflicker)
+
+Schlucker, (der Schneider)
+
+Hippolyta, (Kцnigin der Amazonen, mit Theseus verlobt)
+
+Hermia, (Tochter des Egeus, in Lysander verliebt)
+
+Helena, (in Demetrius verliebt)
+
+Oberon(, Kцnig der Elfen)
+
+Titania, (Kцnigin der Elfen)
+
+Droll, (ein Elf)
+
+Bohnenblьte, Spinnweb, Motte und Senfsamen, (Elfen)
+
+Pyramus, Thisbe, Wand, Mondschein und Lцwe,
+(Rollen in dem Zwischenspiel, das von den Rьpeln vorgestellt wird)
+
+(Andre Elfen, im Gefolge des Kцnigs und der Kцnigin)
+
+(Gefolge des Theseus und der Hippolyta)
+
+
+Szene: Athen und ein nahegelegener Wald
+
+
+
+
+Erster Aufzug
+
+
+
+Erste Szene
+
+Ein Saal im Palaste des Theseus
+(Theseus, Hippolyta, Philostrat und Gefolge treten auf)
+
+
+Theseus.
+Nun rьckt, Hippolyta, die Hochzeitsstunde
+Mit Eil heran; vier frohe Tage bringen
+Den neuen Mond; doch, o wie langsam nimmt
+Der alte ab!  Er hдlt mein Sehnen hin,
+Gleich einer Witwe, deren dьrres Alter
+Von ihres Stiefsohns Renten lange zehrt.
+
+Hippolyta.
+Vier Tage tauchen sich ja schnell in Nдchte,
+Vier Nдchte trдumen schnell die Zeit hinweg:
+Dann soll der Mond, gleich einem Silberbogen,
+Am Himmel neu gespannt, die Nacht beschaun
+Von unserm Fest.
+
+Theseus.
+Geh, Philostrat, berufe
+Die junge Welt Athens zu Lustbarkeiten!
+Erweck den raschen, leichten Geist der Lust,
+Den Gram verweise hin zu Leichenzьgen:
+Der bleiche Gast geziemt nicht unserm Pomp.
+
+(Philostrat ab.)
+
+Hippolyta!  ich habe mit dem Schwert
+Um dich gebuhlt, durch angetanes Leid
+Dein Herz gewonnen; doch ich stimme nun
+Aus einem andern Ton, mit Pomp, Triumph,
+Bankett und Spielen die Vermдhlung an.
+
+(Egeus, Hermia, Lysander und Demetrius treten auf.)
+
+Egeus.
+Dem groяen Theseus, unserm Herzog, Heil!
+
+Theseus.
+Mein guter Egeus, Dank!  Was bringst du Neues?
+
+Egeus.
+Verdrusses voll erschein ich und verklage
+Mein Kind hier, meine Tochter Hermia.--
+Tritt her, Demetrius.--Erlauchter Herr,
+Dem da verhieя mein Wort zum Weibe sie.
+Tritt her, Lysander.--Und, mein gnдdger Fьrst,
+Der da betцrte meines Kindes Herz.
+Ja!  Du, Lysander, du hast Liebespfдnder
+Mit ihr getauscht: du stecktest Reim ihr zu;
+Du sangst im Mondlicht unter ihrem Fenster
+Mit falscher Stimme Lieder falscher Liebe;
+Du stahlst den Abdruck ihrer Phantasie
+Mit Flechten deines Haares, buntem Tand,
+Mit Ringen, Strдuяen, Nдschereien (Boten
+Von viel Gewicht bei unbefangner Jugend);
+Entwandest meiner Tochter Herz mit List
+Verkehrtest ihren kindlichen Gehorsam
+In eigensinngen Trotz.--Und nun, mein Fьrst,
+Verspricht sie hier vor Eurer Hoheit nicht
+Sich dem Demetrius zur Eh, so fordr ich
+Das alte Bьrgervorrecht von Athen,
+Mit ihr, wie sie mein eigen ist, zu schalten.
+Dann ьbergeb ich diesem Manne sie,
+Wo nicht, dem Tode, welchen unverzьglich
+In diesem Falle das Gesetz verhдngt.
+
+Theseus.
+Was sagt Ihr, Hermia?  Laяt Euch raten, Kind.
+Der Vater sollte wie ein Gott Euch sein,
+Der Euren Reiz gebildet; ja, wie einer,
+Dem Ihr nur seid wie ein Geprдg, in Wachs
+Von seiner Hand gedrьckt, wie's ihm gefдllt,
+Es stehnzulassen oder auszulцschen.
+Demetrius ist ja ein wackrer Mann.
+
+Hermia.
+Lysander auch.
+
+Theseus.
+An sich betrachtet wohl;
+So aber, da des Vaters Stimm ihm fehlt,
+Mьяt Ihr fьr wackrer doch den andern achten.
+
+Hermia.
+O sдh mein Vater nur mit meinen Augen!
+
+Theseus.
+Eur Auge muя nach seinem Urteil sehn.
+
+Hermia.
+Ich bitt Euch, gnдdger Fьrst, mir zu verzeihn.
+Ich weiя nicht, welche Macht mir Kьhnheit gibt,
+Noch wie es meiner Sittsamkeit geziemt,
+In solcher Gegenwart das Wort zu fьhren;
+Doch dьrft ich mich zu fragen unterstehn:
+Was ist das Hдrtste, das mich treffen kann,
+Verweigr ich dem Demetrius die Hand?
+
+Theseus.
+Den Tod zu sterben oder immerdar
+Den Umgang aller Mдnner abzuschwцren.
+Drum fraget Eure Wьnsche, schцnes Kind,
+Bedenkt die Jugend, prьfet Euer Blut,
+Ob Ihr die Nonnentracht ertragen kцnnt,
+Wenn Ihr der Wahl des Vaters widerstrebt,
+Im dumpfen Kloster ewig eingesperrt
+Als unfruchtbare Schwester zu verharren,
+Den keuschen Mond mit matten Hymnen feiernd.
+O dreimal selig, die, des Bluts Beherrscher,
+So jungfrдuliche Pilgerschaft bestehn!
+Doch die gepflьckte Ros ist irdischer beglьckt,
+Als die am unberьhrten Dorne welkend
+Wдchst, lebt und stirbt in heilger Einsamkeit.
+
+Hermia.
+So will ich leben, gnдdger Herr, so sterben,
+Eh ich den Freiheitsbrief des Mдdchentums
+Der Herrschaft dessen ьberliefern will,
+Des unwillkommnem Joche mein Gemьt
+Die Huldigung versagt.
+
+Theseus.
+Nehmt Euch Bedenkzeit; auf den nдchsten Neumond,
+Den Tag, der zwischen mir und meiner Lieben
+Den ewgen Bund der Treu besiegeln wird;
+Auf diesen Tag bereitet Euch, zu sterben
+Fьr Euren Ungehorsam, oder nehmt
+Demetrius zum Gatten, oder schwцrt
+Auf ewig an Dianens Weihaltar
+Ehlosen Stand und Abgeschiedenheit.
+
+Demetrius.
+Gebt, Holde, nach; gib gegen meine Rechte,
+Lysander, deinen kahlen Anspruch auf.
+
+Lysander.
+Demetrius, Ihr habt des Vaters Liebe:
+Nehmt ihn zum Weibe; laяt mir Hermia.
+
+Egeus.
+Ganz recht, du Spцtter!  Meine Liebe hat er;
+Was mein ist, wird ihm meine Liebe geben;
+Und sie ist mein; und alle meine Rechte
+An sie verschreib ich dem Demetrius.
+
+Lysander.
+Ich bin, mein Fьrst, so edlen Stamms wie er;
+So reich an Gut; ich bin an Liebe reicher;
+Mein Glьcksstand hдlt die Waag auf alle Weise
+Dem seinigen, wo er nicht ьberwiegt;
+Und (dies gilt mehr als jeder andre Ruhm)
+Ich bin es, den die schцne Hermia liebt.
+Wie sollt ich nicht bestehn auf meinem Recht?
+Demetrius (ich will's auf seinen Kopf
+Beteuern) buhlte sonst um Helena,
+Die Tochter Nedars, und gewann ihr Herz:
+Und sie, das holde Kind, schwдrmt nun fьr ihn,
+Schwдrmt andachtsvoll, ja mit Abgцtterei
+Fьr diesen schuldgen, flatterhaften Mann.
+
+Theseus.
+Ich muя gestehn, daя ich dies auch gehцrt
+Und mit Demetrius davon zu sprechen
+Mir vorgesetzt; nur, da ich ьberhдuft
+Mit eignen Sorgen bin, entfiel es mir.
+Doch ihr, Demetrius und Egeus, kommt!
+Ihr mьяt jetzt mit mir gehn, weil ich mit euch
+Verschiednes insgeheim verhandeln will.
+Ihr, schцne Hermia, rьstet Euch, dem Sinn
+Des Vaters Eure Grillen anzupassen;
+Denn sonst bescheidet Euch Athens Gesetz,
+Das wir auf keine Weise schmдlern kцnnen,
+Tod oder ein Gelьbd des ledgen Standes.
+Wie geht's, Hippolyta?  Kommt, meine Traute!
+Ihr, Egeus und Demetrius, geht mit!
+Ich hab euch noch Geschдfte aufzutragen
+Fьr unser Fest; auch muя ich noch mit euch
+Von etwas reden, was euch nah betrifft.
+
+Egeus.
+Dienstwillig und mit Freuden folgen wir.
+
+(Theseus, Hippolyta, Egeus, Demetrius und Gefolge ab.)
+
+Lysander.
+Nun, liebes Herz?  Warum so blaя die Wange?
+Wie sind die Rosen dort so schnell verwelkt?
+
+Hermia.
+Vielleicht, weil Regen fehlt, womit gar wohl
+Sie mein umwцlktes Auge netzen kцnnte.
+
+Lysander.
+Weh mir!  Nach allem, was ich jemals las
+Und jemals hцrt in Sagen und Geschichten,
+Rann nie der Strom der treuen Liebe sanft;
+Denn bald war sie verschieden an Geburt--
+
+Hermia.
+O Qual!  zu hoch, vor Niedrigem zu knien!
+
+Lysander.
+Bald war sie in den Jahren miяgepaart--
+
+Hermia.
+O Schmerz!  zu alt, mit jung vereint zu sein!
+
+Lysander.
+Bald hing sie ab von der Verwandten Wahl--
+
+Hermia.
+O Tod!  mit fremdem Aug den Liebsten wдhlen!
+
+Lysander.
+Und war auch Sympathie in ihrer Wahl,
+So stьrmte Krieg, Tod, Krankheit auf sie ein
+Und macht' ihr Glьck gleich einem Schalle flьchtig,
+Wie Schatten wandelbar, wie Trдume kurz,
+Schnell wie der Blitz, der in geschwдrzter Nacht
+Himmel und Erd in einem Wink entfaltet;
+Doch eh ein Mensch vermag zu sagen: schaut!
+Schlingt gierig ihn die Finsternis hinab:
+So schnell verdunkelt sich des Glьckes Schein.
+
+Hermia.
+Wenn Leid denn immer treue Liebe traf,
+So steht es fest im Rate des Geschicks.
+Drum laя Geduld uns durch die Prьfung lernen,
+Weil Leid der Liebe so geeignet ist
+Wie Trдume, Seufzer, stille Wьnsche, Trдnen,
+Der armen kranken Leidenschaft Gefolge.
+
+Lysander.
+Ein guter Glaube!  Hцr denn, Hermia!
+Es liegt nur sieben Meilen von Athen
+Das Haus 'ner alten Witwe, meiner Muhme;
+Sie lebt von groяen Renten, hat kein Kind
+Und achtet mich wie ihren einzgen Sohn.
+Dort, Holde, darf ich mich mit dir vermдhlen,
+Dorthin verfolgt das grausame Gesetz
+Athens uns nicht: liebst du mich denn, so schleiche
+Aus deines Vaters Hause morgen nacht
+Und in den Wald 'ne Meile von der Stadt,
+Wo ich einmal mit Helena dich traf,
+Um einen Maienmorgen zu begehn;
+Da will ich deiner warten.
+
+Hermia.
+Mein Lysander!
+Ich schwцr es dir bei Amors stдrkstem Bogen,
+Bei seinem besten, goldgespitzten Pfeil
+Und bei der Unschuld von Cytherens Tauben;
+Bei dem, was Seelen knьpft in Lieb und Glauben;
+Bei jenem Feur, wo Dido einst verbrannt,
+Als der Trojaner falsch sich ihr entwand;
+Bei jedem Schwur, den Mдnner je gebrochen,
+Mehr an der Zahl, als Frauen je gesprochen;
+Du findest sicher morgen mitternacht
+Mich an dem Platz, wo wir es ausgemacht.
+
+Lysander.
+Halt, Liebe, Wort!  Sieh, da kommt Helena.
+
+(Helena tritt auf.)
+
+Hermia.
+Gott grья Euch, schцnes Kind!  Wohin soll's gehn?
+
+Helena.
+Schцn nennt Ihr mich?--Nein, widerruft dies Schцn!
+Euch liebt Demetrius, beglьckte Schцne!--
+Ein Angelstern ist Euer Aug; die Tцne
+Der Lippe sьяer, als der Lerche Lied
+Dem Hirten scheint, wenn alles grьnt und blьht.
+Krankheit steckt an; o tдt's Gestalt und Wesen!
+Nie wollt ich, angesteckt von Euch, genesen.
+Mein Aug lieh' Euren Blick, die Zunge lieh'
+Von Eurer Zunge Wort und Melodie.
+Wдr mein die Welt, ich lieя damit Euch schalten,
+Nur diesen Mann wollt ich mir vorbehalten.
+O lehrt mich, wie Ihr blickt!  Durch welche Kunst
+Hдngt so Demetrius an Eurer Gunst?
+
+Hermia.
+Er liebt mich stets, trotz meinen finstern Mienen.
+
+Helena.
+O lernte das mein Lдcheln doch von ihnen!
+
+Hermia.
+Ich fluch ihm, doch das nдhrt sein Feuer nur.
+
+Helena.
+Ach, hegte solche Kraft mein Liebesschwur!
+
+Hermia.
+Je mehr gehaяt, je mehr verfolgt er mich.
+
+Helena.
+Je mehr geliebt, je дrger haяt er mich.
+
+Hermia.
+Soll ich denn schuld an seiner Torheit sein?
+
+Helena.
+Nur Eure Schцnheit: wдr die Schuld doch mein!
+
+Hermia.
+Getrost!  ich werd ihm mein Gesicht entziehen.
+Lysander wird mit mir von hinnen fliehen.
+Vor jener Zeit, als ich Lysandern sah,
+Wie schien Athen ein Paradies mir da!
+Nun denn, wofьr sind Reize wohl zu achten,
+Die einen Himmel mir zur Hцlle machten?
+
+Lysander.
+Laя, Helena, dir unsern Schluя vertrauen:
+Wenn morgen Phцbe die begrьnten Auen
+Mit ihrer Perlen feuchtem Schmuck betaut
+Und ihre Stirn im Wellenspiegel schaut,
+Wann Still' und Nacht verliebten Raub verhehlen,
+Dann wollen wir zum Tor hinaus uns stehlen.
+
+Hermia.
+Und in dem Wald, wo oftmals ich und du
+Auf Veilchenbetten pflogen sanfter Ruh,
+Wo unsre Herzen schwesterlich einander
+Sich цffneten, da trifft mich mein Lysander.
+Wir suchen, von Athen hinweggewandt,
+Uns neue Freunde dann in fremdem Land.
+Leb wohl, Gespielin, bete fьr uns beide!
+Demetrius sei deines Herzens Freude!
+Lysander, halte Wort!--Was Lieb erquickt,
+Wird unserm Blick bis morgen nacht entrьckt.
+
+(Ab.)
+
+Lysander.
+Das will ich!--Lebet wohl nun, Helena!
+Der Liebe Lohn sei Eurer Liebe nah.
+
+(Ab.)
+
+Helena.
+Wie kann das Glьck so wunderlich doch schalten!
+Ich werde fьr so schцn als sie gehalten.
+Was hilft es mir, solang Demetrius
+Nicht wissen will, was jeder wissen muя?
+Wie Wahn ihn zwingt, an Hermias Blick zu hangen,
+Vergцttr ich ihn, von gleichem Wahn befangen.
+Dem schlechteren Ding an Art und an Gehalt
+Leiht Liebe dennoch Ansehn und Gestalt.
+Sie sieht mit dem Gemьt, nicht mit den Augen,
+Und ihr Gemьt kann nie zum Urteil taugen.
+Drum nennt man ja den Gott der Liebe blind.
+Auch malt man ihn geflьgelt und als Kind,
+Weil er, von Spiel zu Spielen fortgezogen,
+In seiner Wahl so hдufig wird betrogen.
+Wie Buben oft im Scherze lьgen, so
+Ist auch Cupido falscher Schwьre froh.
+Eh Hermia meinen Liebsten muяt entfьhren,
+Ergoя er mir sein Herz in tausend Schwьren;
+Doch kaum erwдrmt von jener neuen Glut,
+Verrann, versiegte diese wilde Flut.
+Jetzt geh ich, Hermias Flucht ihm mitzuteilen;
+Er wird ihr nach zum Walde morgen eilen.
+Zwar, wenn er Dank fьr den Bericht mir weiя,
+So kauf ich ihn um einen teuren Preis.
+Doch will ich, mich fьr meine Mьh zu laben,
+Hin und zurьck des Holden Anblick haben.
+
+(Ab.)
+
+
+
+Zweite Szene
+
+Eine Stube in einer Hьtte
+(Squenz, Schnock, Zettel, Flaut, Schnauz und Schlucker kommen)
+
+
+Squenz.
+Ist unsre ganze Kompanie beisammen?
+
+Zettel.
+Es wдre am besten, Ihr riefet sie auf einmal Mann fьr Mann
+auf, wie es die Liste gibt.
+
+Squenz.
+Hier ist der Zettel von jedermanns Namen, der in ganz Athen
+fьr tьchtig gehalten wird, in unserm Zwischenspiel vor dem
+Herzog und der Herzogin zu agieren, an seinem Hochzeitstag
+zu Nacht.
+
+Zettel.
+Erst, guter Peter Squenz, sag uns, wovon das Stьck handelt;
+dann lies die Namen der Akteure ab und komm so zur Sache.
+
+Squenz.
+Wetter, unser Stьck ist--die hцchst klдgliche Komцdie und
+der hцchst grausame Tod des Pyramus und der Thisbe.
+
+Zettel.
+Ein sehr gutes Stьck Arbeit, ich sag's euch!  und lustig!--
+Nun, guter Peter Squenz, ruf die Akteure nach dem Zettel
+auf.--Meister, stellt euch auseinander!
+
+Squenz.
+Antwortet, wie ich euch rufe!--Klaus Zettel, der Weber.
+
+Zettel.
+Hier!  Sagt, was ich fьr einen Part habe, und dann weiter.
+
+Squenz.
+Ihr, Klaus Zettel, seid als Pyramus angeschrieben.
+
+Zettel.
+Was ist Pyramus ?  Ein Liebhaber oder ein Tyrann?
+
+Squenz.
+Ein Liebhaber, der sich auf die honetteste Manier vor Liebe
+umbringt.
+
+Zettel.
+Das wird einige Trдnen kosten bei einer wahrhaftigen
+Vorstellung.  Wenn ich's mache, laяt die Zuhцrer nach ihren
+Augen sehn!  Ich will Sturm erregen, ich will einigermaяen
+lamentieren.  Nun zu den ьbrigen;--eigentlich habe ich noch
+das beste Genie zu einem Tyrannen; ich kцnnte einen Herkles
+kostbarlich spielen, oder eine Rolle, wo man alles kurz und
+klein schlagen muя.
+
+ Der Felsen Schoя
+Und toller Stoя
+Zerbricht das Schloя
+    Der Kerkertьr, Und Phцbus' Karrn
+Kommt angefahrn
+Und macht erstarrn
+    Des stolzen Schicksals Zier.
+ Das ging prдchtig.--Nun nennt die ьbrigen Akteure.--Dies ist
+Herklessens Natur, eines Tyrannen Natur; ein Liebhaber ist
+schon mehr lamentabel.
+
+Squenz.
+Franz Flaut, der Bдlgenflicker!
+
+Flaut.
+Hier, Peter Squenz.
+
+Squenz.
+Flaut, Ihr mьяt Thisbe ьber Euch nehmen.
+
+Flaut.
+Was ist Thisbe?  ein irrender Ritter?
+
+Squenz.
+Es ist das Frдulein, das Pyramus lieben muя.
+
+Flaut.
+Ne, meiner Seel, laяt mich keine Weiberrolle machen; ich
+kriege schon einen Bart.
+
+Squenz.
+Das ist alles eins!  Ihr sollt's in einer Maske spielen und
+kцnnt so fein sprechen, als Ihr wollt.
+
+Zettel.
+Wenn ich das Gesicht verstecken darf, so gebt mir Thisbe
+auch.  Ich will mit 'ner terribel feinen Stimme reden:
+"Thisne, Thisne!--Ach Pyramus, mein Liebster schцn!  Deine
+Thisbe schцn und Frдulein schцn!"
+
+Squenz.
+Nein, nein!  Ihr mьяt den Pyramus spielen und, Flaut, Ihr,
+die Thisbe.
+
+Zettel.
+Gut, nur weiter!
+
+Squenz.
+Matz Schlucker, der Schneider!
+
+Schlucker.
+Hier, Peter Squenz.
+
+Squenz.
+Matz Schlucker, Ihr mьяt Thisbes Mutter spielen.  Thoms
+Schnauz, der Kesselflicker!
+
+Schnauz.
+Hier, Peter Squenz.
+
+Squenz.
+Ihr, des Pyramus Vater, ich selbst Thisbes Vater; Schnock,
+der Schreiner, Ihr des Lцwen Rolle.  Und so wдre dann halt 'ne
+Komцdie in den Schick gebracht.
+
+Schnock.
+Habt Ihr des Lцwen Rolle aufgeschrieben?  Bitt Euch, wenn Ihr
+sie habt, so gebt sie mir; denn ich habe einen schwachen Kopf
+zum Lernen.
+
+Squenz.
+Ihr kцnnt sie (ex tempore) machen; es ist nichts wie brьllen.
+
+Zettel.
+Laяt mich den Lцwen auch spielen.  Ich will brьllen, daя es
+einem Menschen im Leibe wohl tun soll, mich zu hцren.  Ich
+will brьllen, daя der Herzog sagen soll: "Noch mal brьllen!
+Noch mal brьllen!"
+
+Squenz.
+Wenn Ihr es gar zu fьrchterlich machtet, so wьrdet Ihr die
+Herzogin und die Damen erschrecken, daя sie schrien, und
+das brдchte uns alle an den Galgen.
+
+Alle.
+Ja, das brдchte uns an den Galgen, wie wir da sind.
+
+Zettel.
+Zugegeben, Freunde!  wenn ihr die Damen erst so erschreckt,
+daя sie um ihre fьnf Sinne kommen, so werden sie unvernьnftig
+genug sein, uns aufzuhдngen.  Aber ich will meine Stimme
+forcieren, ich will euch so sanft brьllen wie ein saugendes
+Tдubchen:--ich will euch brьllen, als wдr es 'ne Nachtigall.
+
+Squenz.
+Ihr kцnnt keine Rolle spielen als den Pyramus.  Denn Pyramus
+ist ein Mann mit einem sьяen Gesicht, ein hьbscher Mann, wie
+man ihn nur an Festtagen verlangen kann, ein scharmanter,
+artiger Kavalier.  Derhalben mьяt Ihr platterdings den Pyramus
+spielen.
+
+Zettel.
+Gut, ich nehm's auf mich.  In was fьr einem Bart kцnnt ich ihn
+wohl am besten spielen?
+
+Squenz.
+Nu, in was fьr einem Ihr wollt.
+
+Zettel.
+Ich will ihn machen entweder in dem strohfarbenen Bart, oder
+in dem orangegelben Bart, oder in dem karmesinroten Bart, in
+dem ganz gelben.
+
+Squenz.
+Hier, Meister, sind eure Rollen, und ich muя euch bitten,
+ermahnen und ersuchen, sie bis morgen nacht auswendig zu
+wissen.  Trefft mich in dem Schloяwalde, eine Meile von der
+Stadt, bei Mondschein: da wollen wir probieren.  Denn wenn wir
+in der Stadt zusammenkommen, werden wir ausgespьrt, kriegen
+Zuhцrer, und die Sache kommt aus.  Zugleich will ich ein
+Verzeichnis von Artikeln machen, die zu unserm Spiele nцtig
+sind.  Ich bitt euch, bleibt mir nicht aus.
+
+Zettel.
+Wir wollen kommen, und da kцnnen wir recht unverschдmt und
+herzhaft probieren.  Gebt euch Mьhe!  Kцnnt eure Rollen perfekt!
+Adieu!
+
+Squenz.
+Bei des Herzogs Eiche treffen wir uns.
+
+Zettel.
+Dabei bleibt's, es mag biegen oder brechen!
+
+(Alle ab.)
+
+
+
+
+Zweiter Aufzug
+
+
+
+Erste Szene
+
+Ein Wald bei Athen
+(Eine Elfe kommt von der einen Seite, Droll von der andern)
+
+
+Droll.
+He, Geist!  Wo geht die Reise hin?
+
+Elfe.
+    №ber Tдler und Hцhn,
+    Durch Dornen und Steine,
+    №ber Grдben und Zдune,
+    Durch Flammen und Seen
+    Wandl' ich, schlьpf ich ьberall,
+    Schneller als des Mondes Ball.  Ich dien der Elfenkцnigin
+Und tau ihr Ring' aufs Grьne hin.
+Die Primeln sind ihr Hofgeleit;
+Ihr seht die Fleck' am goldnen Kleid,
+Das sind Rubinen, Feengaben,
+Wodurch sie sья mit Dьften laben.
+Nun such ich Tropfen Taus hervor
+Und hдng 'ne Perl in jeder Primel Ohr.
+Leb wohl!  ich geh, du tдppischer Geselle!
+Der Zug der Kцnigin kommt auf der Stelle.
+
+
+Droll.
+Der Kцnig will sein Wesen nachts hier treiben.
+Warnt nur die Kцnigin, entfernt zu bleiben,
+Weil Oberon vor wildem Grimme schnaubt,
+Daя sie ein indisch Fьrstenkind geraubt,
+Als Edelknabe kьnftig ihr zu dienen;
+Kein schцnres Bьbchen hat der Tag beschienen,
+Und eifersьchtig fordert Ob'ron ihn,
+Den rauhen Forst als Knappe zu durchziehn;
+Doch sie versagt durchaus den holden Knaben,
+Bekrдnzt ihn, will an ihm sich einzig laben.
+Nun treffen sie sich nie in Wies und Hain,
+Am klaren Quell, bei lustgem Sternenschein;
+So zanken sie zu aller Elfen Schrecken,
+Die sich geduckt in Eichelnдpfe stecken.
+
+Elfe.
+Wenn du nicht ganz dich zu verstellen weiяt,
+So bist du jener schlaue Poltergeist,
+Der auf dem Dorf die Dirnen zu erhaschen,
+Zu necken pflegt; den Milchtopf zu benaschen;
+Durch den der Brau miяrдt, und mit Verdruя
+Die Hausfrau atemlos sich buttern muя;
+Der oft bei Nacht den Wandrer irreleitet,
+Dann schadenfroh mit Lachen ihn begleitet.
+Doch wer dich freundlich grьяt, dir Liebes tut,
+Dem hilfst du gern, und ihm gelingt es gut.
+Bist du der Kobold nicht?
+
+Droll.
+Du hast's geraten,
+Ich schwдrme nachts umher auf solche Taten;
+Oft lacht bei meinen Scherzen Oberon.
+Ich locke wiehernd mit der Stute Ton
+Den Hengst, den Haber kitzelt in der Nase;
+Auch lausch ich wohl in der Gevatt'rin Glase
+Wie ein gebratner Apfel, klein und rund;
+Und wenn sie trinkt, fahr ich ihr an den Mund,
+Daя ihr das Bier die platte Brust betriefet.
+Zuweilen hдlt, in Trauermдr vertiefet,
+Die weise Muhme fьr den Schemel mich;
+Ich gleit ihr weg, sie setzt zur Erde sich
+Auf ihren Steiя und schreit: "Perdauz!  " und hustet;
+Der ganze Kreis hдlt sich die Seiten, prustet,
+Lacht lauter dann, bis sich die Stimm erhebt:
+Nein, solch ein Spaя sei nimmermehr erlebt!
+Mach Platz nun, Elfchen, hier kommt Oberon.
+
+Elfe.
+Hier meine Kцnigin.--O macht' er sich davon!
+
+(Oberon mit seinem Zuge von der einen Seite, Titania
+mit dem ihrigen von der andern.)
+
+Oberon.
+Schlimm treffen wir bei Mondenlicht, du stolze
+Titania!
+
+Titania.
+Wie?  Oberon ist hier,
+Der Eifersьchtge?  Elfen, schlьpft von hinnen,
+Denn ich verschwor sein Bett und sein Gesprдch.
+
+Oberon.
+Vermeяne, halt!  Bin ich nicht dein Gemahl?
+
+Titania.
+So muя ich wohl dein Weib sein; doch ich weiя
+Die Zeit, daя du dich aus dem Feenland
+Geschlichen, tagelang als Corydon
+Gesessen, spielend auf dem Haberrohr,
+Und Minne der verliebten Phyllida
+Gesungen hast.--Und warum kommst du jetzt
+Von Indiens entferntestem Gebirg,
+Als weil--ei denk doch!--weil die Amazone,
+Die strotzende, hochaufgeschьrzte Dame,
+Dein Heldenliebchen, sich vermдhlen will?
+Da kommst du denn, um ihrem Bette Heil
+Und Segen zu verleihn.
+
+Oberon.
+Titania,
+Wie kannst du dich vermessen, anzuspielen
+Auf mein Verstдndnis mit Hippolyta?
+Da du doch weiяt, ich kenne deine Liebe
+Zum Theseus?  Locktest du im Dдmmerlichte
+Der Nacht ihn nicht von Perigunen weg,
+Die er vorher geraubt?  Warst du nicht schuld,
+Daя er der schцnen ƒgle Treue brach,
+Der Ariadne und Antiopa?
+
+Titania.
+Das sind die Grillen deiner Eifersucht!
+Und nie seit Sommers Anfang trafen wir
+Auf Hьgeln noch im Tal, im Wald noch Wiese,
+Am Kieselbrunnen, am beschilften Bach,
+Noch an des Meeres Klippenstrand uns an
+Und tanzten Ringel nach des Windes Pfeifen,
+Daя dein Gezдnk uns nicht die Lust verdarb.
+Drum sog der Wind, der uns vergeblich pfiff,
+Als wie zur Rache, bцse Nebel auf
+Vom Grund des Meers; die fielen auf das Land
+Und machten jeden winzgen Bach so stolz,
+Daя er des Bettes Dдmme niederriя.
+Drum schleppt der Stier sein Joch umsonst, der Pflьger
+Vergeudet seinen Schweiя, das grьne Korn
+Verfault, eh seine Jugend Bart gewinnt.
+Leer steht die Hьrd auf der ersдuften Flur,
+Und Krдhen prassen in der siechen Herde.
+Verschlдmmt vom Lehme liegt die Kegelbahn;
+Unkennbar sind die artgen Labyrinthe
+Im muntern Grьn, weil niemand sie betritt.
+Den Menschenkindern fehlt die Winterlust;
+Kein Sang noch Jubel macht die Nдchte froh.
+Drum hat der Mond, der Fluten Oberherr,
+Vor Zorne bleich, die ganze Luft gewaschen
+Und fieberhafter Flьsse viel erzeugt.
+Durch eben die Zerrьttung wandeln sich
+Die Jahreszeiten; silberhaarger Frost
+Fдllt in den zarten Schoя der Purpurrose;
+Indes ein wьrzger Kranz von Sommerknospen
+Auf Hiems' Kinn und der beeisten Scheitel
+Als wie zum Spotte prangt.  Der Lenz, der Sommer,
+Der zeitigende Herbst, der zornge Winter,
+Sie alle tauschen die gewohnte Tracht,
+Und die erstaunte Welt erkennt nicht mehr
+An ihrer Frucht und Art, wer jeder ist.
+Und diese ganze Brut von Plagen kommt
+Von unserm Streit, von unserm Zwiespalt her;
+Wir sind davon die Stifter und Erzeuger.
+
+Oberon.
+So hilf dem ab!  Es liegt an dir.  Warum
+Krдnkt ihren Oberon Titania?
+Ich bitte nur ein kleines Wechselkind
+Zum Edelknaben.
+
+Titania.
+Gib dein Herz zur Ruh!
+Das Feenland kauft mir dies Kind nicht ab;
+Denn seine Mutter war aus meinem Orden
+Und hat in Indiens gewьrzter Luft
+Gar oft mit mir die Nдchte weggeschwatzt.
+Wir saяen auf Neptunus' gelbem Sand,
+Sahn nach den Handelsschiffen auf der Flut
+Und lachten, wenn vom ьppgen Spiel des Windes
+Der Segel schwangrer Leib zu schwellen schien.
+Dies ahmte sie, mit kleinen Schritten wankend
+(Ihr Leib trug damals meinen kleinen Junker),
+Aus Torheit nach und segelt' auf dem Lande
+Nach Spielereien aus und kehrte, reich
+An Ware, wie von einer Reise, heim.
+Doch sie, ein sterblich Weib, starb an dem Kinde,
+Und ihr zulieb erzieh ich nun das Kind,
+Und ihr zuliebe geb ich es nicht weg.
+
+Oberon.
+Wie lange denkt Ihr hier im Hain zu weilen?
+
+Titania.
+Vielleicht bis nach des Theseus Hochzeitsfest.
+Wollt Ihr in unsern Ringen ruhig tanzen
+Und unsre lustgen Mondscheinspiele sehn,
+So kommt mit uns!  Wo nicht: vermeidet mich,
+Und ich will nie mich nahen, wo Ihr haust.
+
+Oberon.
+Gib mir das Kind, so will ich mit dir gehn.
+
+Titania.
+Nicht um dein Kцnigreich.--Ihr Elfen, fort mit mir;
+Denn Zank erhebt sich, weil' ich lдnger hier.
+
+(Mit ihrem Gefolge ab.)
+
+Oberon.
+Gut, zieh nur hin!  du sollst aus diesem Walde
+Nicht eher, bis du mir den Trotz gebьяt.
+Mein guter Droll, komm her!  Weiяt du noch wohl,
+Wie ich einst saя auf einem Vorgebirge
+Und 'ne Sirene, die ein Delphin trug,
+So sьяe Harmonien hauchen hцrte,
+Daя die empцrte See gehorsam ward,
+Daя Sterne wild aus ihren Kreisen fuhren,
+Der Nymphe Lied zu hцren?
+
+Droll.
+Ja, ich weiя.
+
+Oberon.
+Zur selben Zeit sah ich (du konntest nicht)
+Cupido zwischen Mond und Erde fliegen
+In voller Wehr; er zielt' auf eine holde
+Vestal', im Westen thronend, scharfen Blicks,
+Und schnellte rasch den Liebespfeil vom Bogen,
+Als sollt er hunderttausend Herzen spalten.
+Allein ich sah das feurige Geschoя
+Im keuschen Strahl des feuchten Monds verlцschen;
+Die kцnigliche Priesterin ging weiter
+In sittsamer Betrachtung, liebefrei;
+Doch merkt ich auf den Pfeil, wohin er fiele;
+Er fiel gen Westen auf ein zartes Blьmchen,
+Sonst milchweiя, purpurn nun durch Amors Wunde,
+Und Mдdchen nennen's "Lieb' im Mьяiggang".
+Hol mir die Blum!  Ich wies dir einst das Kraut;
+Ihr Saft, getrдufelt auf entschlafne Wimpern,
+Macht Mann und Weib in jede Kreatur,
+Die sie zunдchst erblicken, toll vergafft.
+Hol mir das Kraut; doch komm zurьck, bevor
+Der Leviathan eine Meile schwimmt.
+
+Droll.
+Rund um die Erde zieh ich einen Gьrtel
+In viermal zehn Minuten.
+
+(Ab.)
+
+Oberon.
+Hab ich nur
+Den Saft erst, so belausch ich, wenn sie schlдft,
+Titanien und trдufl ihn ihr ins Auge.
+Was sie zunдchst erblickt, wenn sie erwacht,
+Sei's Lцwe, sei es Bдr, Wolf oder Stier,
+Ein naseweiser Aff, ein Paviдnchen:
+Sie soll's verfolgen mit der Liebe Sinn;
+Und eh ich sie von diesem Zauber lцse,
+Wie ich's vermag mit einem andern Kraut,
+Muя sie mir ihren Edelknaben lassen.
+Doch still, wer kommt hier?  Ich bin unsichtbar
+Und will auf ihre Unterredung horchen.
+
+(Demetrius und Helena treten auf.)
+
+Demetrius.
+Ich lieb dich nicht; verfolge mich nicht mehr!
+Wo ist Lysander und die schцne Hermia?
+Ihn tцten mцcht ich gern; sie tцtet mich.
+Du sagtest mir von ihrer Flucht hieher;
+Nun bin ich hier, bin in der Wildnis wild,
+Weil ich umsonst hier meine Hermia suche.
+Fort!  heb dich weg und folge mir nicht mehr!
+
+Helena.
+Du ziehst mich an, hartherziger Magnet!
+Doch ziehest du nicht Eisen, denn mein Herz
+Ist echt wie Stahl.  Laя ab, mich anzuziehn,
+So hab ich dir zu folgen keine Macht.
+
+Demetrius.
+Lock ich Euch an und tu ich schцn mit Euch?
+Sag ich Euch nicht die Wahrheit rund heraus,
+Daя ich Euch nimmer lieb und lieben kann?
+
+Helena.
+Und eben darum lieb ich Euch nur mehr!
+Ich bin Eur Hьndchen, und, Demetrius,
+Wenn Ihr mich schlagt, ich muя Euch dennoch schmeicheln.
+Begegnet mir wie Eurem Hьndchen nur,
+Stoяt, schlagt mich, achtet mich gering, verliert mich:
+Vergцnnt mir nur, unwьrdig, wie ich bin,
+Euch zu begleiten.  Welchen schlechtern Platz
+Kann ich mir wohl in Eurer Lieb erbitten
+
+(Und doch ein Platz von hohem Wert fьr mich),
+
+Als daя Ihr so wie Euren Hund mich haltet?
+
+Demetrius.
+Erreg nicht so den Abscheu meiner Seele!
+Mir ist schon ьbel, blick ich nur auf dich.
+
+Helena.
+Und mir ist ьbel, blick ich nicht auf Euch.
+
+Demetrius.
+Ihr tretet Eurer Sittsamkeit zu nah,
+Da Ihr die Stadt verlaяt und einem Mann
+Euch in die Hдnde gebt, der Euch nicht liebt;
+Da Ihr den Lockungen der stillen Nacht
+Und einer цden Stдtte bцsem Rat
+Das Kleinod Eures Mдdchentums vertraut.
+
+Helena.
+Zum Schutzbrief dienet Eure Tugend mir;
+Es ist nicht Nacht, wenn ich Eur Antlitz sehe;
+Drum glaub ich jetzt, es sei nicht Nacht um mich.
+Auch fehlt's hier nicht an Welten von Gesellschaft,
+Denn Ihr seid ja fьr mich die ganze Welt.
+Wie kann man sagen nun, ich sei allein,
+Da doch die ganze Welt hier auf mich schaut?
+
+Demetrius.
+Ich laufe fort, verberge mich im Busch
+Und lasse dich der Gnade wilder Tiere.
+
+Helena.
+Das wildeste hat nicht ein Herz wie du.
+Lauft, wenn Ihr wollt!  Die Fabel kehrt sich um:
+Apollo flieht, und Daphne setzt ihm nach;
+Die Taube jagt den Greif; die sanfte Hindin
+Stьrzt auf den Tiger sich.  Vergebne Eil,
+Wenn vor der Zagheit Tapferkeit entflieht!
+
+Demetrius.
+Ich steh nicht lдnger Rede: laя mich gehn!
+Wo du mir folgst, so glaube sicherlich,
+Ich tue dir im Walde Leides noch.
+
+Helena.
+Ach, in der Stadt, im Tempel, auf dem Felde
+Tust du mir Leides.  Pfui, Demetrius!
+Dein Unglimpf wьrdigt mein Geschlecht herab.
+Um Liebe kдmpft ein Mann wohl mit den Waffen;
+Wir sind, um euch zu werben, nicht geschaffen.
+Ich folge dir und finde Wonn in Not,
+Gibt die geliebte Hand mir nur den Tod.
+
+(Beide ab.)
+
+Oberon.
+Geh, Nymphe, nur!  Er soll uns nicht von hinnen,
+Bis du ihn fliehst und er dich will gewinnen--
+
+(Droll kommt zurьck.)
+
+Hast du die Blume da?  Willkommen, Wildfang!
+
+Droll.
+Da ist sie, seht!
+
+Oberon.
+Ich bitt dich, gib sie mir.
+Ich weiя 'nen Hьgel, wo man Quendel pflьckt,
+Wo aus dem Gras Viol' und Maяlieb nickt,
+Wo dicht gewцlbt des Geiяblatts ьppge Schatten
+Mit Hagedorn und mit Jasmin sich gatten.
+Dort ruht Titania, halbe Nдchte kьhl
+Auf Blumen eingewiegt durch Tanz und Spiel.
+Die Schlange legt die bunte Haut dort nieder,
+Ein weit Gewand fьr eines Elfen Glieder.
+Ich netz ihr Aug mit dieser Blume Saft,
+Der ihr den Kopf voll schnцder Grillen schafft.
+Nimm auch davon, und such in diesem Holze:
+Ein holdes Mдdchen wird mit sprцdem Stolze
+Von einem Jьngling, den sie liebt, verschmдht.
+Salb ihn, doch so, daя er die Schцn' erspдht,
+Sobald er aufwacht.  Am athenischen Gewand
+Wird ohne Mьh der Mann von dir erkannt.
+Verfahre sorgsam, daя mit heiяerm Triebe,
+Als sie den Liebling, er sie wieder liebe,
+Und triff mich vor dem ersten Hahnenschrei.
+
+Droll.
+Verlaяt Euch, Herr, auf Eures Knechtes Treu.
+
+(Sie gehen ab.)
+
+
+
+Zweite Szene
+
+Ein anderer Teil des Waldes
+(Titania kommt mit ihrem Gefolge)
+
+
+Titania.
+Kommt!  einen Ringel-, einen Feensang!
+Dann auf das Drittel 'ner Minute fort!
+Ihr, tцtet Raupen in den Rosenknospen!
+Ihr andern fьhrt mit Fledermдusen Krieg,
+Bringt ihrer Flьgel Balg als Beute heim,
+Den kleinen Elfen Rцcke draus zu machen!
+Ihr endlich sollt den Kauz, der nдchtlich kreischt
+Und ьber unsre schmucken Geister staunt,
+Von uns verscheuchen!  Singt mich nun in Schlaf;
+An eure Dienste dann und laяt mich ruhn!  (Lied).
+(Erste Elfe).          Bunte Schlangen, zweigezьngt,
+Igel, Molche, fort von hier!
+Daя ihr euren Gift nicht bringt
+In der Kцnigin Revier!  (Chor).  Nachtigall, mit Melodei
+Sing in unser Eiapopei!
+Eiapopeia!  Eiapopei!
+Daя kein Spruch,
+Kein Zauberfluch
+Der holden Herrin schдdlich sei.
+Nun gute Nacht mit Eiapopei!
+(Zweite Elfe.) Schwarze Kдfer, uns umgebt
+Nicht mit Summen!  Macht euch fort!
+Spinnen, die ihr kьnstlich webt,
+Webt an einem andern Ort!  (Chor).  Nachtigall, mit Melodei
+Sing in unser Eiapopei!
+Eiapopeia!  Eiapopei!
+Daя kein Spruch,
+Kein Zauberfluch
+Der holden Herrin schдdlich sei.
+Nun gute Nacht mit Eiapopei!
+(Erste Elfe).  Alles gut, nun auf und fort!
+Einer halte Wache dort!
+
+(Elfen ab.  Titania schlдft.)
+
+(Oberon tritt auf.)
+
+Oberon (zu Titania, indem er die Blume ьber ihren
+Augenlidern ausdrьckt).
+Was du wirst erwachend sehn,
+Wдhl es dir zum Liebsten schцn;
+Seinetwegen schmacht und stцhn,
+Sei es Brummbдr, Kater, Luchs,
+Borstger Eber oder Fuchs;
+Was sich zeigt an diesem Platz,
+Wenn du aufwachst, wird dein Schatz,
+Sдhst du gleich die дrgste Fratz!
+
+(Ab.)
+
+(Lysander und Hermia treten auf.)
+
+Lysander.
+Kaum tragen durch den Wald Euch noch die Fьяe,
+Und ich gesteh es, ich verlor den Pfad.
+Wollt Ihr, so laяt uns ruhen, meine Sьяe,
+Bis trцstend sich das Licht des Tages naht.
+
+Hermia.
+Ach ja, Lysander!  sucht fьr Euch ein Bette;
+Der Hьgel hier sei meine Schlummerstдtte.
+
+Lysander.
+(Ein) Rasen dien als Kissen fьr uns zwei:
+(Ein) Herz, (ein) Bett, zwei Busen, (eine) Treu.
+
+Hermia.
+Ich bitt Euch sehr!  Um meinetwillen, Lieber!
+Liegt nicht so nah!  Liegt weiter dort hinьber!
+
+Lysander.
+O дrgert Euch an meiner Unschuld nicht!
+Die Liebe deute, was die Liebe spricht.
+Ich meinte nur, mein Herz sei Eurem so verbunden,
+Daя nur (ein) Herz in beiden wird gefunden.
+Verkettet hat zwei Busen unser Schwur:
+So wohnt in zweien (eine) Treue nur.
+Erlaubet denn, daя ich mich zu Euch fьge,
+Denn, Herz, ich lьge nicht, wenn ich so liege.
+
+Hermia.
+Wie zierlich spielt mit Worten doch mein Freund!--
+Ich wьrde selbst ja meiner Unart feind,
+Hдtt ich "Lysander lьge", je gemeint.
+Doch aus Gefдlligkeit und Lieb, ich bitte,
+Rьckt weiter weg!  so weit, wie nach der Sitte
+Der Menschen sich, getrennt von einem Mann,
+Ein tugendsames Mдdchen betten kann.
+(Der) Raum sei zwischen uns.--Schlaf sья!  Der Himmel gebe,
+Daя, bis dein Leben schlieяt, die Liebe lebe!
+
+Lysander.
+Amen!  so holder Bitte stimm ich bei:
+Mein Herz soll brechen, bricht es meine Treu.
+Mцg alle Ruh des Schlafes bei dir wohnen!
+
+Hermia.
+Des Wunsches Hдlfte soll den Wьnscher lohnen!
+
+(Sie schlafen.)
+
+Droll (tritt auf).
+Wie ich auch den Wald durchstrich,
+Kein Athener zeigte sich,
+Zum Versuch auf seinem Auge,
+Was dies Liebesblьmchen tauge.
+Aber wer--o Still und Nacht--
+Liegt da in Athenertracht?
+Er ist's, den mein Herr gesehn
+Die Athenerin verschmдhn;
+Hier schlдft auch ruhig und gesund
+Das Mдdchen auf dem feuchten Grund.
+Die Arme darf nicht liegen nah
+Dem Schlagetot der Liebe da.
+Allen Zauber dieses Taus,
+Flegel, gieя ich auf dich aus.
+
+(Indem er den Saft ьber seine Augen auspreяt.)
+
+Wachst du auf, so scheuch den Schlummer
+Dir vom Aug der Liebe Kummer!
+Nun erwach!  Ich geh davon,
+Denn ich muя zum Oberon.
+
+(Demetrius und Helena, beide laufend.)
+
+Helena.
+Demetrius, sollt's auch mein Tod sein, steh!
+
+Demetrius.
+O quдle mich nicht so!  Fort, sag ich, geh!
+
+Helena.
+Ach, du verlдssest mich im Dunkel hier?
+
+Demetrius.
+Ich geh allein; du bleib, das rar ich dir.
+
+(Demetrius ab.)
+
+Helena.
+Die tolle Jagd, sie macht mir weh und bange;
+Je mehr ich fleh, je minder ich erlange.
+Wo Hermia ruhen mag?  Sie ist beglьckt;
+Denn sie hat Augen, deren Strahl entzьckt.
+Wie wurden sie so hell?  Durch Trдnen?  nein,
+Sonst mьяten meine ja noch heller sein.
+Nein, ich bin ungestalt wie wilde Bдren,
+Daя Tiere sich voll Schrecken von mir kehren.
+Was Wunder also, daя Demetrius
+Gleich einem Ungeheur mich fliehen muя?
+Vor welchem Spiegel konnt ich mich vergessen,
+Mit Hermias Sternenaugen mich zu messen?
+Doch, was ist dies?  Lysander, der hier ruht?
+Tot oder schlafend?  Seh ich doch kein Blut.
+Lysander, wenn Ihr lebt, so hцrt!  erwachet!
+
+Lysander (im Erwachen).
+Durchs Feuer lauf ich, wenn's dir Freude machet!
+Verklдrte Helena, so zart gewebt,
+Daя sichtbar sich dein Herz im Busen hebt!
+Wo ist Demetrius?  O der Verbrecher!
+Sein Name sei vertilgt!  Dies Schwert dein Rдcher!
+
+Helena.
+Sprecht doch nicht so, Lysander, sprecht nicht so!
+Liebt er schon Eure Braut: ei nun, seid froh!
+Sie liebt Euch dennoch stets.
+
+Lysander.
+O nein!  wie reut
+Mich die bei ihr verlebte trдge Zeit!
+Nicht Hermia, Helena ist jetzt mein Leben;
+Wer will die Krдh nicht fьr die Taube geben?
+Der Wille wird von der Vernunft regiert:
+Mir sagt Vernunft, daя Euch der Preis gebьhrt.
+Ein jedes Ding muя Zeit zum Reifen haben;
+So reiften spдt in mir des Geistes Gaben.
+Erst jetzt, da ich am Ziel des Mannes bin,
+Wird die Vernunft des Willens Fьhrerin
+Und lдяt mich nun der Liebe Tun und Wesen
+In goldner Schrift in Euren Augen lesen.
+
+Helena.
+Weswegen ward ich so zum Hohn erwдhlt?
+Verdient ich es um Euch, daя Ihr mich quдlt?
+War's nicht genug, genug nicht, junger Mann,
+Daя ich nicht einen Blick gewinnen kann,
+Nicht einen holden Blick von meinem Lieben,
+Mьяt Ihr mit Spцtterein mich noch betrьben?
+Ihr tut, fьrwahr, Ihr tut an mir nicht recht,
+Daя Ihr um mich zu buhlen Euch erfrecht.
+Gehabt Euch wohl!  Allein, ich muя gestehen,
+Ich glaubt' in Euch mehr Edelmut zu sehen.
+O daя, verschmдht von einem Mann, ein Weib
+Dem andern dienen muя zum Zeitvertreib!
+
+(Ab.)
+
+Lysander.
+Sie siehet Hermia nicht.--So schlaf nur immer,
+Und nahtest du Lysandern doch dich nimmer!
+Wie nach dem №bermaя von Nдschereien
+Der Ekel pflegt am heftigsten zu sein;
+Wie die am meisten Ketzereien hassen,
+Die, einst betцrt, sie wiederum verlassen:
+Mein №bermaя!  mein Wahn!  so flieh ich dich;
+Dich hasse jeder, doch am дrgsten ich.--
+Nun strebt nach Helena, Mut, Kraft und Sinne,
+Daя ich ihr Ritter werd und sie gewinne!
+
+(Ab.)
+
+Hermia (fдhrt auf).
+O hilf, Lysander, hilf mir!  Siehst du nicht
+Die Schlange, die den Busen mir umflicht?
+Weh mir!  Erbarmen!--Welch ein Traum, mein Lieber?
+Noch schьttelt mich das Schrecken wie ein Fieber.
+Mir schien es, eine Schlange frдя mein Herz,
+Und lдchelnd sдhst du meinen Todesschmerz.--
+Lysander!  wie, Lysander, du bist fort?
+Du hцrst mich nicht?  O Gott!  kein Laut?  kein Wort?
+Wo bist du?  Um der Liebe willen, sprich,
+Wenn du mich hцrst!  Es bringt zur Ohnmacht mich.--
+Noch nicht?  Nun seh ich wohl, ich darf nicht weilen:
+Dich muя ich oder meinen Tod ereilen.
+
+(Ab.)
+
+
+
+
+Dritter Aufzug
+
+
+
+Erste Szene
+
+Der Wald.  Die Elfenkцnigin liegt noch schlafend
+(Squenz, Zettel, Schnock, Flaut, Schnauz, Schlucker treten auf)
+
+
+Zettel.
+Sind wir alle beisammen?
+
+Squenz.
+Aufs Haar; und hier ist ein prдchtig bequemer Platz zu
+unserer Probe.  Dieser grьne Fleck soll unser Theater sein,
+diese Weiяdornhecke unsre Kammer zum Anziehen, und wir
+wollen's in Aktion vorstellen, wie wirs vor dem Herzoge
+vorstellen wollen.
+
+Zettel.
+Peter Squenz--
+
+Squenz.
+Was sagst du, lieber Sappermentszettel?
+
+Zettel.
+Es kommen Dinge vor in dieser Komцdie von Pyramus und
+Thisbe, die nimmermehr gefallen werden.  Erstens: Pyramus
+muя ein Schwert ziehen, um sich selbst umzubringen, und
+das kцnnen die Damen nicht vertragen.  He!  Was wollt Ihr
+darauf antworten?
+
+Schnauz.
+Potz Kuckuck, ja!  ein gefдhrlicher Punkt.
+
+Schlucker.
+Ich denke, wir mьssen am Ende das Totmachen auslassen.
+
+Zettel.
+Nicht ein Tьttelchen; ich habe einen Einfall, der alles
+gutmacht.  Schreibt mir einen Prolog, und laяt den Prolog
+verblьmt zu verstehen geben, daя wir mit unsern Schwertern
+keinen Schaden tun wollen; und daя Pyramus nicht wirklich
+tot gemacht wird; und zu mehr besserer Sicherheit sagt
+ihnen, daя ich, Pyramus, nicht Pyramus bin, sondern Zettel,
+der Weber.  Das wird ihnen schon die Furcht benehmen.
+
+Squenz.
+Gut, wir wollen einen solchen Prologus haben, und er soll
+in Acht- und Sechssilbern geschrieben sein.
+
+Zettel.
+Nein, nehmt zwei mehr, laяt's Achtsilber sein.
+
+Schnauz.
+Werden die Damen nicht auch vor dem Lцwen erschrecken?
+
+Schlucker.
+Ich fьrcht es, davor steh ich euch.
+
+Zettel.
+Meister, ihr solltet dies bei euch selbst ьberlegen.
+Einen Lцwen--Gott behьt uns!--unter Damen zu bringen, ist
+eine greuliche Geschichte; es gibt kein grausameres Wildbret
+als so'n Lцwe, wenn er lebendig ist; und wir sollten uns
+vorsehn.
+
+Schnauz.
+Derhalben muя ein andrer Prologus sagen, daя er kein Lцwe ist.
+
+Zettel.
+Ja, ihr mьяt seinen Namen nennen, und sein Gesicht muя halb
+durch des Lцwen Hals gesehen werden; und er selbst muя
+durchsprechen und sich so oder ungefдhr so applizieren:
+Gnдdige Frauen, oder schцne gnдdige Frauen, ich wollte
+wьnschen, oder ich wollte ersuchen, oder ich wollte gebeten
+haben, fьrchten Sie nichts, zittern Sie nicht so; mein Leben
+fьr das Ihrige!  Wenn Sie dдchten, ich kдme hieher als ein
+Lцwe, so dauerte mich nur meine Haut.  Nein, ich bin nichts
+dergleichen; ich bin ein Mensch wie andre auch;--und dann
+laяt ihn nur seinen Namen nennen und ihnen rund heraus sagen,
+daя er Schnock der Schreiner ist.
+
+Squenz.
+Gut, so soll's auch sein.  Aber da sind noch zwei harte Punkte:
+nдmlich, den Mondschein in die Kammer zu bringen; denn ihr
+wiяt, Pyramus und Thisbe kommen bei Mondschein zusammen.
+
+Schnock.
+Scheint der Mond in der Nacht, wo wir unser Spiel spielen?
+
+Zettel.
+Einen Kalender!  Einen Kalender!  Seht in den Almanach!  Suchet
+Mondschein!  Suchet Mondschein!
+
+Squenz.
+Ja, er scheint die Nacht.
+
+Zettel.
+Gut, so kцnnt ihr ja einen Flьgel von dem groяen Stubenfenster,
+wo wir spielen, offenlassen, und der Mond kann durch den
+Flьgel herein scheinen.
+
+Squenz.
+Ja, oder es kцnnte auch einer mit einem Dornbusch und einer
+Laterne herauskommen und sagen, er komme, die Person des
+Mondscheins zu defigurieren oder zu prдsentieren.  Aber da
+ist noch ein Punkt: wir mьssen in der groяen Stube eine Wand
+haben; denn Pyramus und Thisbe, sagt die Historie, redeten
+durch die Spalte einer Wand miteinander.
+
+Schnock.
+Ihr bringt mein Leben keine Wand hinein.  Was sagst du, Zettel?
+
+Zettel.
+Einer oder der andre muя Wand vorstellen; und laяt ihn ein
+biяchen Kalk, oder ein biяchen Lehm, oder ein biяchen Mцrtel
+an sich haben, um Wand zu bedeuten; und laяt ihn seine Finger
+so halten, und durch die Klinze sollen Pyramus und Thisbe
+wispern.
+
+Squenz.
+Wenn das sein kann, so ist alles gut.  Kommt, setzt euch,
+jeder Mutter Sohn, und probiert eure Parte.  Pyramus, Ihr
+fangt an; wann Ihr Eure Rede ausgeredet habt, so tretet
+hinter den Zaun; und so jeder nach seinem Stichwort.
+
+(Droll tritt auf.)
+
+Droll.
+Welch hausgebacknes Volk macht hier sich breit,
+So nah der Wiege unsrer Kцnigin?
+Wie?  gibt's ein Schauspiel?  Ich will Hцrer sein,
+Mitspieler auch vielleicht, nachdem sich's fьgt.
+
+Squenz.
+Sprecht, Pyramus; Thisbe, tretet vor.
+
+Pyramus.
+"Thisbe, wie eine Blum' von Giften duftet sья--"
+
+Squenz.
+Dьften!  Dьften!
+
+Pyramus.
+"--von Dьften duftet sья,
+So tut dein Atem auch, o Thisbe, meine Zier.
+Doch horch, ich hцr ein' Stimm; es ist mein Vater gwiя;
+Bleib eine Weile stehn, ich bin gleich wieder hier."
+
+(Ab.)
+
+Droll (beiseite).
+Ein seltnes Stьck von einem Pyramus.
+
+(Ab.)
+
+Thisbe.
+Muя ich jetzt reden?
+
+Squenz.
+Ja, zum Henker, freilich mьяt Ihr; Ihr mьяt wissen, er geht
+nur weg, um ein Gerдusch zu sehen, das er gehцrt hat, und
+wird gleich wiederkommen.
+
+Thisbe.
+"Umstrahlter Pyramus, an Farbe lilienweiя
+Und rot wie eine Ros auf triumphierndem Strauch;
+Du muntrer Juvenil, der Mдnner Zier und Preis,
+Treu wie das treuste Roя, das nie ermьdet auch.
+Ich will dich treffen an, glaub mir, bei Nickels Grab."
+
+Squenz.
+Ninus' Grab, Kerl.  Aber das mьяt Ihr jetzt noch nicht sagen,
+das antwortet Ihr dem Pyramus.  Ihr sagt Euren ganzen Part auf
+einmal her, Stichwцrter und den ganzen Plunder.--Pyramus,
+tretet auf, Euer Stichwort ist schon dagewesen; es ist:
+"ermьdet auch."
+
+(Zettel mit einem Eselskopfe und Droll kommen zurьck.)
+
+Thisbe.
+Uf--"So treu, wie's treuste Pferd, das nie ermьdet auch."
+
+Pyramus.
+"Wenn, Thisbe, ich wдr schцn, so wдr ich einzig dein."
+
+Squenz.
+O greulich!  erschrecklich!  Es spukt hier.  Ich bitt euch,
+Meister!  lauft, Meister!  Hilfe!  (Sie laufen davon.)
+
+Droll.
+Nun jag ich euch und fьhr euch kreuz und quer
+Durch Dorn, durch Busch, durch Sumpf, durch Wald.
+Bald bin ich Pferd, bald Eber, Hund und Bдr,
+Erschein als Werwolf und als Feuer bald,
+Will grunzen, wiehern, bellen, brummen, flammen
+Wie Eber, Pferd, Hund, Bдr und Feur zusammen.
+
+(Ab.)
+
+Zettel.
+Warum laufen sie weg?  Dies ist eine Schelmerei von ihnen,
+um mich fьrchten zu machen.
+
+(Schnauz kommt zurьck.)
+
+Schnauz.
+O Zettel!  du bist verwandelt!  Was seh ich an dir?
+
+Zettel.
+Was du siehst?  Du siehst deinen eigenen Eselskopf.  Nicht?
+
+(Schnauz ab.  Squenz kommt zurьck.)
+
+Squenz.
+Gott behьte dich, Zettel!  Gott behьte dich!  du bist transferiert.
+
+(Ab.)
+
+Zettel.
+Ich merke ihre Schelmerei: sie wollen einen Esel aus mir
+machen, mich fьrchten machen, wenn sie kцnnen.  Aber ich
+will hier nicht von der Stelle; lass' sie machen, was sie
+wollen; ich will hier auf und ab spazieren und singen,
+damit sie sehen, daя ich mich nicht fьrchte.
+ (Er singt.) Die Schwalbe, die den Sommer bringt,
+    Der Spatz, der Zeisig fein,
+Die Lerche, die sich lustig schwingt
+    Bis in den Himmel 'nein--:
+
+Titania (erwachend).
+Weckt mich von meinem Blumenbett ein Engel?
+
+Zettel (singt).
+ Der Kuckuck, der der Grasmьck
+    So gern ins Nestchen heckt
+Und lacht darob mit arger Tьck
+    Und manchen Ehmann neckt--: Denn sein Rufen soll eine
+gar gefдhrliche Vorbedeutung sein, und wem jьckt es nicht
+ein biяchen an der Stirne, wenn er sich Kuckuck grьяen hцrt?
+
+Titania.
+Ich bitte dich, du holder Sterblicher,
+Sing noch einmal!  Mein Ohr ist ganz verliebt
+In deine Melodie; auch ist mein Auge
+Betцrt von deiner lieblichen Gestalt;
+Gewaltig treibt mich deine schцne Tugend,
+Beim ersten Blick dir zu gestehn, zu schwцren:
+Daя ich dich liebe.
+
+Zettel.
+Mich dьnkt, Madame, Sie kцnnten dazu nicht viel Ursache haben.
+Und doch, die Wahrheit zu sagen, halten Vernunft und Liebe
+heutzutage nicht viel Gemeinschaft.  Schade, daя ehrliche
+Nachbarn sie nicht zu Freunden machen wollen!  Gelt, ich kann
+auch spaяen, wenn's darauf ankommt.
+
+Titania.
+Du bist so weise, wie du reizend bist.
+
+Zettel.
+Das nun just auch nicht.  Doch, wenn ich Witz genug hдtte,
+um aus diesem Walde zu kommen, so hдtte ich just so viel,
+als mir nцtig tдte.
+
+Titania.
+Begehre nicht, aus diesem Hain zu fliehn;
+Du muяt hier, willig oder nicht, verziehn.
+Ich bin ein Geist von nicht gemeinem Stande;
+Ein ewger Sommer zieret meine Lande;
+Und sieh, ich liebe dich!  drum folge mir.
+Ich gebe Elfen zur Bedienung dir;
+Sie sollen Perlen aus dem Meer dir bringen
+Und, wenn du leicht auf Blumen schlummerst, singen.
+Ich will vom Erdenstoffe dich befrein,
+Daя du so luftig sollst wie Geister sein.
+Senfsamen!  Bohnenblьte!  Motte!  Spinnweb!
+
+(Vier Elfen treten auf.)
+
+Erster Elf.
+Hier!
+
+Zweiter Elf.
+Und ich!
+
+Dritter Elf.
+Und ich!
+
+Vierter Elf.
+Und ich!
+
+Alle.
+Was sollen wir?
+
+Titania.
+Gefдllig seid und dienstbar diesem Herrn.
+Hьpft, wo er geht, und gaukelt um ihn her;
+Sucht Aprikos' ihm auf und Stachelbeer';
+Maulbeeren gebt ihm, Feigen, Purpurtrauben;
+Ihr mьяt der Biene Honigsack ihm rauben;
+Zur Kerze nehmt von ihr ein wдchsern Bein
+Und steckt es an bei eines Glьhwurms Schein,
+Zu leuchten meinem Freund Bett aus und ein;
+Mit bunter Schmetterlinge Flьgelein
+Wehrt fдchelnd ihm vom Aug den Mondenschein.
+Nun, Elfen, huldigt ihm und neigt euch fein.
+
+Erster Elf.
+Heil dir, Sterblicher!
+
+Zweiter Elf.
+Heil!
+
+Dritter Elf.
+Heil!
+
+Vierter Elf.
+Heil!
+
+Zettel.
+Ich flehe Euer Gnaden von ganzem Herzen um Verzeihung,
+Ich bitte um Euer Gnaden Namen.
+
+Spinnweb.
+Spinnweb.
+
+Zettel.
+Ich wьnsche nдher mit Ihnen bekannt zu werden, guter Musje
+Spinnweb.  Wenn ich mich in den Finger schneide, werde ich
+so frei sein, Sie zu gebrauchen.--Ihr Name, ehrsamer Herr?
+
+Bohnenblьte.
+Bohnenblьte.
+
+Zettel.
+Ich bitte Sie, empfehlen Sie mich Madame Hьlse, Ihrer Frau
+Mutter, und Herrn Bohnenschote, Ihrem Herrn Vater.  Guter
+Herr Bohnenblьte, auch mit Ihnen hoffe ich nдher bekannt
+zu werden.--Ihren Namen, mein Herr, wenn ich bitten darf.
+
+Senfsamen.
+Senfsamen.
+
+Zettel.
+Lieber Musje Senfsamen, ich kenne Ihre Geduld gar wohl.
+Jener niedertrдchtige und ungeschlachte Kerl, Rinderbraten,
+hat schon manchen wackern Herrn von Ihrem Hause verschlungen.
+Sei'n Sie versichert, Ihre Freundschaft hat mir schon oft
+die Augen ьbergehen machen.  Ich wьnsche nдhere Bekanntschaft,
+lieber Musje Senfsamen.
+
+Titania.
+Kommt, fьhrt ihn hin zu meinem Heiligtume!
+Mich dьnkt, von Trдnen blinke Lunas Glanz;
+Und wenn sie weint, weint jede kleine Blume
+Um einen wild zerriяnen Mдdchenkranz.
+Ein Zauber soll des Liebsten Zunge binden:
+Wir wollen still den Weg zur Laube finden.
+
+(Alle ab.)
+
+
+
+Zweite Szene
+
+Ein anderer Teil des Waldes
+
+
+Oberon (tritt auf).
+Mich wundert's, ob Titania erwachte
+Und welch Geschцpf ihr gleich ins Auge fiel,
+Worin sie sterblich sich verlieben muя.
+
+(Droll kommt.)
+
+Da kommt mein Bote ja.--Nun, toller Geist,
+Was spuken hier im Wald fьr Abenteuer?
+
+Droll.
+Herr, meine Fьrstin liebt ein Ungeheuer.
+Sie lag in Schlaf versunken auf dem Moos
+In ihrer heilgen Laube dunklem Schoя,
+Als eine Schar von lumpgen Handwerksleuten,
+Die mьhsam kaum ihr tдglich Brot erbeuten,
+Zusammenkommt und hier ein Stьck probiert,
+So sie auf Theseus' Hochzeitstag studiert.
+Der ungesalzenste von den Gesellen,
+Den Pyramus berufen vorzustellen,
+Tritt von der Bьhn und wartet im Gestrдuch;
+Ich nutze diesen Augenblick sogleich,
+Mit einem Eselskopf ihn zu begaben.
+Nicht lange drauf muя Thisbe Antwort haben;
+Mein Mime tritt heraus; kaum sehen ihn
+Die Freund, als sie wie wilde Gдnse fliehn,
+Wenn sie des Jдgers leisen Tritt erlauschen;
+Wie graue Krдhen, deren Schwarm mit Rauschen
+Und Krдchzen auffliegt, wenn ein Schuя geschieht,
+Und wild am Himmel da- und dorthin zieht.
+Vor meinem Spuk rollt der sich auf der Erde,
+Der schreiet Mord!  mit klдglicher Gebдrde;
+Das Schrecken, das sie sinnlos machte, lieh
+Sinnlosen Dingen Waffen gegen sie.
+An Dorn und Busch bleibt Hut und ƒrmel stecken;
+Sie fliehn hindurch, berupft an allen Ecken.
+In solcher Angst trieb ich sie weiter fort,
+Nur Schдtzchen Pyramus verharrte dort.
+Gleich muяte nun Titania erwachen
+Und aus dem Langohr ihren Liebling machen.
+
+Oberon.
+Das geht ja ьber mein Erwarten schцn.
+Doch hast du auch den Jьngling von Athen,
+Wie ich dir auftrug, mit dem Saft bestrichen?
+
+Droll.
+O ja, ich habe schlafend ihn beschlichen.
+Das Mдdchen ruhte neben ihm ganz dicht:
+Erwacht er, so entgeht sein Aug ihr nicht.
+
+(Demetrius und Hermia treten auf.)
+
+Oberon.
+Tritt her; da kommt ja der Athener an.
+
+Droll.
+Das Mдdchen ist es, aber nicht der Mann.
+
+Demetrius.
+O kцnnt Ihr so, weil ich Euch liebe, schmдlen?
+Den Todfeind solltet Ihr so tцdlich quдlen!
+
+Hermia.
+Noch mehr verdient, was ich von dir erfuhr;
+Denn fluchen sollt ich dir und schalt dich nur.
+Erschlugst du mir Lysandern, weil er ruhte,
+So bad, einmal befleckt, dich ganz im Blute
+Und tцt auch mich!
+Die Sonne liebt den Tag nicht treuer, steter,
+Als wie er mich: nun wдr er als Verrдter
+Entflohn, indes ich schlief?  Nein, nimmermehr!
+Eh wollt ich glauben, daя es mцglich wдr,
+Ganz zu durchbohren dieser Erde Boden
+Und durch die ÷ffnung zu den Antipoden
+Zu senden des verwegnen Mondes Gruя,
+Der hellen Mittagssonne zum Verdruя.
+Es kann nicht anders sein: du mordetest ihn mir.
+So sieht ein Mцrder aus, so graя, so stier!
+
+Demetrius.
+So siehet ein Erschlagner aus, so ich:
+Denn Eure Grausamkeit durchbohrte mich.
+Doch Ihr, die Mцrdrin, glдnzet wie Cythere
+Am Himmel dort in ihrer lichten Sphдre.
+
+Hermia.
+Was soll mir dies?  Wo ist Lysander?  spricht--
+Gib ihn mir wieder, Freund, ich bitte dich.
+
+Demetrius.
+Den Hunden gдb ich lieber seine Leiche.
+
+Hermia.
+Hinweg, du Hund!  du treibst durch deine Streiche
+Mich armes Weib zur Wut.  Hast du ihn umgebracht:
+Nie werde mehr fьr einen Mann geacht't.
+Sprich einmal wahr, sprich mir zuliebe wahr!
+Hдttst du, wenn er gewacht, ihm wohl ein Haar
+Gekrьmmt?  und hast ihn, weil er schlief, erschlagen?
+O Kьhnheit!  eine Natter konnt es wagen.
+Ja, eine Natter tat's; die дrgste sticht
+Zweizьngiger als du, o Schlange, nicht.
+
+Demetrius.
+An einen Wahn verschwendst du deine Wut.
+Ich bin nicht schuldig an Lysanders Blut;
+Auch mag er wohl, soviel ich weiя, noch leben.
+
+Hermia.
+Und geht's ihm wohl?  Kannst du mir Nachricht geben?
+
+Demetrius.
+Und kцnnt ich nun, was wьrde mir dafьr?
+
+Hermia.
+Mich nie zu sehn, dies Vorrecht schenk ich dir.
+Und so verlaя ich deine schnцde Nдhe;
+Tot sei er oder nicht, wenn ich nur dich nicht sehe.
+
+(Ab.)
+
+Demetrius.
+Ihr folgen ist vergebliches Bemьhn
+In diesem Sturm; so will ich hier verziehn.
+Noch hцher wird des Grames Not gesteigert,
+Seit sich sein Schuldner Schlaf zu zahlen weigert.
+Vielleicht empfang ich einen Teil der Schuld,
+Erwart ich hier den Abtrag in Geduld.
+
+(Er legt sich nieder.)
+
+Oberon.
+Was tatest du?  du hast dich ganz betrogen.
+Ein treues Auge hat den Liebessaft gesogen;
+Dein Fehlgriff hat den treuen Bund gestцrt
+Und nicht den Unbestand zur Treu bekehrt.
+
+Droll.
+So siegt das Schicksal denn, daя gegen (einen) Treuen
+Millionen falsch auf Schwьre Schwьr' entweihen.
+
+Oberon.
+Streif durch den Wald behender als der Wind
+Und suche Helena, das schцne Kind.
+Sie ist ganz liebekrank und blaя von Wangen,
+Von Seufzern, die ihr sehr ans Leben drangen.
+Geh, locke sie durch Tдuschung her zu mir;
+Derweil sie kommt, bezaubr' ich diesen hier.
+
+Droll.
+Ich eil, ich eil, sieh, wie ich eil;
+So fliegt vom Bogen des Tataren Pfeil.
+
+(Ab.)
+
+ Oberon.  Blume mit dem Purpurschein
+Die Cupidos Pfeile weihn,
+Senk dich in sein Aug hinein;
+Wenn er sieht sein Liebchen fein,
+Daя sie glorreich ihm erschein
+Wie Cyther' im Sternenreihn.
+Wachst du auf, wenn sie dabei:
+Bitte, daя sie hilfreich sei.
+
+(Droll kommt zurьck.)
+
+Droll.
+Hauptmann unsrer Elfenschar,
+Hier stellt Helena sich dar.
+Der von mir gesalbte Mann
+Fleht um Liebeslohn sie an.
+Wollen wir ihr Wesen sehn?
+O die tollen Sterblichen!  Oberon.  Tritt beiseit!  Erwachen muя
+Von dem Lдrm Demetrius.  Droll.  Wenn dann zwei um eine frein:
+Das wird erst ein Hauptspaя sein.
+Gehn die Sachen kraus und bunt,
+Freu ich mich von Herzensgrund.
+
+(Lysander und Helena treten auf.)
+
+Lysander.
+Pflegt Spott und Hohn in Trдnen sich zu kleiden?
+Wie glaubst du denn, ich huldge dir zum Hohn?
+Sieh, wenn ich schwцre, wein ich: solchen Eiden
+Dient zur Beglaubigung ihr Ursprung schon.
+Kannst du des Spottes Reden wohl verklagen,
+Die an der Stirn des Ernstes Siegel tragen?
+
+Helena.
+Stets mehr und mehr wird deine Schalkheit kund.
+Wie teuflisch fromm, mit Schwur den Schwur erlegen!
+Beschwurst du nicht mit Hermia so den Bund?
+Wдg Eid an Eid, so wirst du gar nichts wдgen.
+Die Eid an sie und mich, wie Mдrchen leicht,
+Leg in zwei Schalen sie, und keine steigt.
+
+Lysander.
+Verblendung war's, mein Herz ihr zu versprechen.
+
+Helena.
+Verblendung nenn ich's, jetzt den Schwur zu brechen.
+
+Lysander.
+Demetrius liebt (sie;) dich liebt er nicht.
+
+Demetrius (erwachend).
+O Huldin!  schцnste Gцttin meiner Wahl!
+Womit vergleich ich deiner Augen Strahl?
+Kristall ist trьbe.  O wie reifend schwellen
+Die Lippen dir, zwei kьssende Morellen!
+Und jenes dichte Weiя, des Taurus Schnee,
+Vom Ostwind rein gelдchelt, wird zur Krдh,
+Wenn du die Hand erhebst.  Laя mich dies Siegel
+Der Wonne kьssen, aller Reinheit Spiegel!
+
+Helena.
+O Schmach!  o Hцll!  ich seh, ihr alle seid
+Zu eurer Lust zu plagen mich bereit.
+Wдr Sitt und Edelmut in euch Verwegnen,
+Ihr wьrdet mir so schmдhlich nicht begegnen.
+Kцnnt ihr mich denn nicht hassen, wie ihr tut,
+Wenn ihr mich nicht verhцhnt in frechem Mut?
+Wдrt ihr in Wahrheit Mдnner, wie im Schein,
+So flцяt' ein armes Weib euch Mitleid ein.
+Ihr wьrdet nicht mit Lob und Schwьren scherzen,
+Da ich doch weiя, ihr hasset mich von Herzen;
+Als Nebenbuhler liebt ihr Hermia,
+Wetteifernd nun verhцhnt ihr Helena.
+Ein tapfres Stьck, ein mдnnlich Unternehmen,
+Durch Spott ein armes Mдdchen zu beschдmen,
+Ihr Trдnen abzulocken!  Quдlt ein Weib
+Ein edler Mann wohl bloя zum Zeitvertreib?
+
+Lysander.
+Demetrius, du bist nicht bieder: sei's!
+Du liebst ja Hermia; weiяt, daя ich es weiя.
+Hier sei von Herzensgrund, in Gьt und Frieden,
+An Hermias Huld mein Anteil dir beschieden.
+Tritt deinen nun an Helena mir ab;
+Ich lieb und will sie lieben bis ins Grab.
+
+Helena.
+Ihr losen Schwдtzer, wie es keine gab!
+
+Demetrius.
+Nein, Hermia mag ich nicht: behalt sie, Lieber!
+Liebt ich sie je, die Lieb ist lдngst vorьber.
+Mein Herz war dort nur wie in fremdem Land;
+Nun hat's zu Helena sich heimgewandt,
+Um dazubleiben.
+
+Lysander.
+Glaubs nicht, Helena.
+
+Demetrius.
+Tritt nicht der Treu, die du nicht kennst, zu nah;
+Du mцchtest sonst vielleicht es teuer bьяen.
+Da kommt dein Liebchen; geh, sie zu begrьяen.
+(Hermia tritt auf)
+
+Hermia.
+Die Nacht, die uns der Augen Dienst entzieht,
+Macht, daя dem Ohr kein leiser Laut entflieht.
+Was dem Gesicht an Schдrfe wird benommen,
+Muя doppelt dem Gehцr zugute kommen.
+Mein Aug war's nicht, das dich, Lysander, fand;
+Mein Ohr, ich dank ihm, hat die Stimm erkannt.
+Doch warum muяtest du so von mir eilen?
+
+Lysander.
+Den Liebe fortriя, warum sollt er weilen?
+
+Hermia.
+Und welche Liebe war's, die fort von mir dich trieb?
+
+Lysander.
+Lysanders Liebe litt nicht, daя er blieb;
+Die schцne Helena, die so die Nacht durchfunkelt,
+Daя sie die lichten O's, die Augen dort, verdunkelt.
+Was suchst du mich?  Tat dies dir noch nicht kund,
+Mein Haя zu dir sei meines Fliehens Grund?
+
+Hermia.
+Ihr sprecht nicht, wie Ihr denkt.  Es kann nicht sein.
+
+Helena.
+Ha!  sie stimmt auch in die Verschwцrung ein.
+Nun merk ich's: alle drei verbanden sich
+Zu dieser falschen Posse gegen mich.
+Feindselge Hermia!  undankbares Mдdchen!
+Verstandest du, verschworst mit diesen dich,
+Um mich zu necken mit so schnцdem Spott?
+Sind alle Heimlichkeiten, die wir teilten,
+Der Schwestertreu Gelьbde, jene Stunden,
+Wo wir den raschen Tritt der Zeit verwьnscht,
+Wie sie uns schied: o alles nun vergessen?
+Die Schulgenossenschaft, die Kinderunschuld?
+Wie kunstbegabte Gцtter schufen wir
+Mit unsern Nadeln (eine) Blume beide,
+Nach (einem) Muster und auf (einem) Sitz;
+(Ein) Liedchen wirbelnd, beid in (einem) Ton,
+Als wдren unsre Hдnde, Stimmen, Herzen
+Einander einverleibt.  So wuchsen wir
+Zusammen, einer Doppelkirsche gleich,
+Zum Schein getrennt, doch in der Trennung eins;
+Zwei holde Beeren, (einem) Stiel entwachsen,
+Dem Scheine nach zwei Kцrper, doch (ein) Herz.
+Zwei Schildern (eines) Wappens glichen wir,
+Die friedlich stehn, gekrцnt von (einem) Helm.
+Und nun zerreiяt Ihr so die alte Liebe?
+Gesellt im Hohne Eurer armen Freundin
+Zu Mдnnern Euch?  Das ist nicht freundschaftlich,
+Das ist nicht jungfrдulich; und mein Geschlecht
+Sowohl wie ich darf Euch darьber schelten,
+Obschon die Krдnkung mich allein betrifft.
+
+Hermia.
+Ich hцr erstaunt die ungestьmen Reden;
+Ich hцhn Euch nicht; es scheint, Ihr hцhnet mich.
+
+Helena.
+Habt Ihr Lysandern nicht bestellt, zum Hohn
+Mir nachzugehn, zu preisen mein Gesicht?
+Und Euren andern Buhlen, den Demetrius,
+Der eben jetzt noch mich mit Fьяen stieя,
+Mich Gцttin, Nymphe, wunderschцn zu nennen,
+Und kцstlich, himmlisch?  Warum sagt er das
+Der, die er haяt?  Und warum schwцrt Lysander
+Die Liebe ab, die ganz die Seel ihm fьllt,
+Und bietet mir (man denke nur!) sein Herz,
+Als weil Ihr ihn gereizt, weil Ihr's gewollt?
+Bin ich schon nicht so in der Gunst wie Ihr,
+Mit Liebe so umkettet, so beglьckt,
+Ja, elend gnug, um ungeliebt zu lieben:
+Ihr solltet mich bedauern, nicht verachten.
+
+Hermia.
+Ich kann mir nicht erklдren, was Ihr meint.
+
+Helena.
+Schon recht!  Beharrt nur!  Heuchelt ernste Blicke
+Und zieht Gesichter hinterm Rьcken mir!
+Blinzt euch nur zu!  Verfolgt den feinen Scherz!
+Wohl ausgefьhrt, wird er euch nachgerьhmt.
+Wдr Mitleid, Huld und Sitte noch in euch,
+Ihr machtet so mich nicht zu eurem Ziel.
+Doch lebet wohl!  Zum Teil ist's meine Schuld:
+Bald wird Entfernung oder Tod sie bьяen.
+
+Lysander.
+Bleib, holde Helena, und hцr mich an!
+Mein Herz!  mein Leben!  meine Helena!
+
+Helena.
+O herrlich!
+
+Hermia.
+Lieber, hцhne sie nicht so!
+
+Demetrius.
+Und gilt ihr Bitten nichts, so kann ich zwingen.
+
+Lysander.
+Nichts mehr erzwingen, als was sie erbittet;
+Dein Drohn ist kraftlos wie ihr schwaches Flehn.
+Dich lieb ich, Helena!  Bei meinem Leben,
+Ich liebe dich und will dies Leben wagen,
+Der Lьge den zu zeihn, der widerspricht.
+
+Demetrius.
+Ich sag, ich liebe dich weit mehr als er.
+
+Lysander.
+Ha!  sagst du das, so komm, beweis es auch.
+
+Demetrius.
+Auf, komm!
+
+Hermia.
+Lysander, wohin zielt dies alles?
+
+Lysander.
+Fort, Mohrenmдdchen!
+
+Demetrius.
+Nein, o nein!  er tut,
+Als brдch er los; er tobt, als wollt er folgen,
+Kommt aber nicht.  O geht mir, zahmer Mensch!
+
+Lysander.
+Fort, Katze, Klette!  Miяgeschцpf, laя los!
+Sonst schleudr ich dich wie eine Natter weg.
+
+Hermia.
+Wie wurdet Ihr so wild?  wie so verwandelt,
+Mein sьяes Herz?
+
+Lysander.
+Dein Herz?  Fort, fort, hinweg!
+Zigeunerin!  fort, widerwдrtger Trank!
+
+Hermia.
+Ihr scherzet nicht?
+
+Helena.
+Ja wahrlich, und Ihr auch!
+
+Lysander.
+Demetrius, ich halte dir mein Wort.
+
+Demetrius.
+Ich hдtt es schriftlich gern von deiner Hand;
+Dich hдlt 'ne schwache Hand, ich trau dir nicht.
+
+Lysander.
+Wie?  sollt ich sie verwunden, schlagen, tцten?
+Hass' ich sie schon, ich will kein Leid ihr tun.
+
+Hermia.
+Wie?  kцnnt Ihr mehr mir Leid tun, als mich hassen?
+Warum mich hassen?  Was geschah, Geliebter?
+Bin ich nicht Hermia?  Seid Ihr nicht Lysander?
+Ich bin so schцn noch, wie ich eben war.
+Ihr liebtet ьber Nacht mich; doch verlieяt Ihr
+Mich ьber Nacht.  Und muя ich also sagen
+(Verhьten es die Gцtter!), Ihr verlieяt
+Im Ernste mich?
+
+Lysander.
+Im Ernst, so wahr ich lebe!
+Und nie begehrt ich wieder dich zu sehn.
+Drum gib nur Hoffnung, Frage, Zweifel auf!
+Sei sicher, nichts ist wahrer, 's ist kein Scherz:
+Ich hasse dich und liebe Helena.
+
+Hermia.
+Weh mir!--Du Gauklerin!  du Blьtenwurm!
+Du Liebesdiebin!  Was?  du kamst bei Nacht,
+Stahlst meines Liebsten Herz!
+
+Helena.
+Schцn, meiner Treu!
+Hast du denn keine Scheu, noch Mдdchensitte,
+Nicht eine Spur von Scham?  Und zwingst du so
+Zu harten Reden meine sanften Lippen?
+Du Marionette, pfui!  du Puppe, du!
+
+Hermia.
+Wie?  Puppe?  Ha, nun wird ihr Spiel mir klar:
+Sie hat ihn unsern Wuchs vergleichen lassen--
+Ich merke schon--auf ihre Hцh getrotzt.
+Mit ihrer Figur, mit ihrer langen Figur
+Hat sie sich seiner, seht mir doch!  bemeistert.
+Und stehst du nun so groя bei ihm in Gunst,
+Weil ich so klein, weil ich so zwerghaft bin?
+Wie klein bin ich, du bunte Bohnenstange?
+Wie klein bin ich?  Nicht gar so klein, daя nicht
+Dir meine Nдgel an die Augen reichten.
+
+Helena.
+Ihr Herrn, ich bitt euch, wenn ihr schon mich hцhnt,
+Beschirmt mich doch vor ihr.  Nie war ich bцse,
+Bin keineswegs geschickt zur Zдnkerin;
+Ich bin so feig wie irgend nur ein Mдdchen.
+Verwehrt ihr, mich zu schlagen; denket nicht,
+Weil sie ein wenig kleiner ist als ich,
+Ich nдhm es mit ihr auf.
+
+Hermia.
+Schon wieder kleiner?
+
+Helena.
+Seid, gute Hermia, nicht so bцs auf mich,
+Ich liebt Euch immer, hab Euch nie gekrдnkt,
+Und stets bewahrt, was Ihr mir anvertraut;
+Nur daя ich, dem Demetrius zuliebe,
+Ihm Eure Flucht in diesen Wald verriet.
+Er folgte Euch, aus Liebe folgt ich (ihm);
+Er aber schalt mich weg und drohte, mich
+Zu schlagen, stoяen, ja zu tцten gar;
+Und nun, wo Ihr mich ruhig gehen laяt,
+So trag ich meine Torheit heim zur Stadt
+Und folg Euch ferner nicht.  O laяt mich gehn!
+Ihr seht, wie kindisch und wie blцd ich bin.
+
+Hermia.
+Gut, zieht nur hin!  Wer hindert Euch daran?
+
+Helena.
+Ein tцricht Herz, das ich zurьck hier lasse.
+
+Hermia.
+Wie?  Bei Lysander?
+
+Helena.
+Bei Demetrius.
+
+Lysander.
+Sei ruhig, Helena!  sie soll kein Leid dir tun.
+
+Demetrius.
+Sie soll nicht, Herr, wenn Ihr sie schon beschьtzt.
+
+Helena.
+Oh, sie hat arge Tьck in ihrem Zorn.
+Sie war 'ne bцse Sieben in der Schule
+Und ist entsetzlich wild, obschon so klein.
+
+Hermia.
+Schon wieder klein, und anders nicht wie klein?
+Wie duldet Ihr's, daя sie mich so verspottet?
+Weg!  laя mich zu ihr!
+
+Lysander.
+Packe dich, du Zwergin!
+Du Knirps aus Knцtrich, der das Wachstum hemmt!
+Du Ecker du, du Paternosterkralle!
+
+Demetrius.
+Ihr seid zu dienstgeschдftig, guter Freund,
+Zugunsten der, die Euren Dienst verschmдht.
+Laя mir sie gehn!  Sprich nicht von Helena!
+Nimm nicht Partei fьr sie!  Vermissest du
+Dich im geringsten, Lieb ihr zu bezeugen,
+So sollst du's bьяen.
+
+Lysander.
+Jetzo bin ich frei;
+Nun komm, wofern du's wagst; laя sehn, wes Recht
+An Helena, ob deins, ob meines gilt.
+
+Demetrius.
+Dir folgen?  Nein, ich halte Schritt mit dir.
+
+(Lysander und Demetrius ab.)
+
+Hermia.
+Nun, Frдulein!  Ihr seid schuld an all dem Lдrm.
+Ei, bleibt doch stehn!
+
+Helena.
+Nein, nein!  ich will nicht traun,
+Noch lдnger Eur verhaяtes Antlitz schaun.
+Sind Eure Hдnde hurtiger zum Raufen,
+So hab ich lдngre Beine doch zum Laufen.
+
+(Ab.)
+
+Hermia.
+Ich staun und weiя nicht, was ich sagen soll.
+
+(Sie lдuft der Helena nach.)
+
+Oberon.
+Das ist dein Unbedacht!  Stets irrst du dich,
+Wenn's nicht gefliяne Schelmenstreiche sind.
+
+Droll.
+Ich irrte diesmal, glaubt mir, Fьrst der Schatten,
+Gabt Ihr denn nicht von dem bestimmten Mann
+Mir die Athenertracht als Merkmal an?
+Und so weit bin ich ohne Schuld, daя jener,
+Den ich gesalbt, doch wirklich ein Athener;
+Und so weit bin ich froh, daя so sich's fьgt,
+Weil diese Balgerei mich sehr vergnьgt.
+
+Oberon.
+Du siehst zum Kampf bereit die hitzgen Freier:
+Drum eile, Droll: wirf einen nдchtgen Schleier,
+Bedecke die gestirnte Feste schnell
+Mit Nebeln, dьster wie Kozytus' Quell;
+Und locke sie auf falsche Weg und Stege,
+Damit sie nicht sich kommen ins Gehege.
+Bald borg die Stimme vom Demetrius
+Und reize keck Lysandern zum Verdruя;
+Bald schimpf und hцhne wieder wie Lysander
+Und bringe so sie weiter auseinander,
+Bis ihre Stirnen Schlaf, der sich dem Tod vergleicht,
+Mit dichter Schwing und bleirnem Tritt beschleicht.
+Zerdrьck dies Kraut dann auf Lysanders Augen,
+Die Zauberkrдfte seines Saftes taugen,
+Von allem Wahn sie wieder zu befrein
+Und den gewohnten Blick ihm zu verleihn.
+Wenn sie erwachen, ist, was sie betrogen,
+Wie Trдum und eitle Nachtgebild entflogen;
+Dann kehren wieder nach Athen zurьck
+Die Liebenden, vereint zu stetem Glьck.
+Derweil dies alles deine Sorgen sind,
+Bitt ich Titanien um ihr indisch Kind;
+Ich bann ihr vom betцrten Augenlide
+Des Unholds Bild, und alles werde Friede.
+
+Droll.
+Mein Elfenfьrst, wir mьssen eilig machen.
+Die Nacht teilt das Gewцlk mit schnellen Drachen.
+Auch schimmert schon Auroras Herold dort,
+Und seine Nдh scheucht irre Geister fort
+Zum Totenacker; banger Seelen Heere,
+Am Scheideweg begraben und im Meere:
+Man sieht ins wurmbenagte Bett sie gehn.
+Aus Angst, der Tag mцcht ihre Schande sehn,
+Verbannt vom Lichte sie ihr eigner Wille,
+Und ihnen dient die Nacht zur ewgen Hьlle.
+
+Oberon.
+Doch wir sind Geister andrer Region.
+Oft jagt ich mit Aurorens Liebling schon,
+Darf, wie ein Weidmann, noch den Wald betreten,
+Wenn flammend sich des Ostens Pforten rцten
+Und, aufgetan, der Meeresfluten Grьn
+Mit schцnem Strahle golden ьberglьhn.
+Doch zaudre nicht!  Sei schnell vor allen Dingen!
+Wir kцnnen dies vor Tage noch vollbringen.
+
+(Oberon ab.)
+
+Droll.
+ Hin und her, hin und her,
+Alle fьhr ich hin und her.
+Land und Stдdte scheun mich sehr.
+Kobold, fьhr sie hin und her!  Hier kommt der eine.
+
+(Lysander tritt auf.)
+
+Lysander.
+Demetrius!  Wo bist du, Stolzer, du?
+
+Droll.
+Hier, Schurk, mit bloяem Degen; mach nur zu!
+
+Lysander.
+Ich komme schon.
+
+Droll.
+So laя uns miteinander
+Auf ebnem Boden gehn.
+
+(Lysander ab, als ging' er der Stimme nach.
+Demetrius tritt auf.)
+
+Demetrius.
+Antworte doch, Lysander!
+Ausreiяer!  Memme!  liefst du so mir fort?
+In welchem Busche steckst du?  sprich ein Wort!
+
+Droll.
+Du Memme, forderst hier heraus die Sterne,
+Erzдhlst dem Busch, du fochtest gar zu gerne,
+Und kommst doch nicht?  Komm, Bьbchen, komm doch her,
+Ich geb die Rute dir.  Beschimpft ist der,
+Der gegen dich nur zieht.
+
+Demetrius.
+He, bist du dort?
+
+Droll.
+Folg meinem Ruf, zum Kampf ist dies kein Ort.
+
+(Droll und Demetrius ab.  Lysander kommt zurьck.)
+
+Lysander.
+Stets zieht er vor mir her mit lautem Drohen;
+Komm ich, wohin er ruft, ist er entflohen.
+Behender ist der Schurk im Lauf als ich:
+Ich folgt ihm schnell, doch schneller mied er mich,
+So daя ich fiel auf dunkler, rauher Bahn,
+Und hier nun ruhn will.--
+
+(Legt sich nieder.)
+
+Holder Tag, brich an!
+Sobald mir nur dein graues Licht erscheint,
+Rдch ich den Hohn und strafe meinen Feind.
+
+(Entschlдft.)
+(Droll und Demetrius kommen zurьck.)
+
+Droll.
+Ho, ho!  du Memme, warum kommst du nicht?
+
+Demetrius.
+Steh, wenn du darfst, und sieh mir ins Gesicht.
+Ich merke wohl, von einem Platz zum andern
+Entgehst du mir und lдяt umher mich wandern.
+Wo bist du nun?
+
+Droll.
+Hieher komm!  ich bin hier.
+
+Demetrius.
+Du neckst mich nur, doch zahlst du's teuer mir,
+Wenn je der Tag dich mir vors Auge bringt.
+Jetzt zieh nur hin, weil Mьdigkeit mich zwingt,
+Mich hinzustrecken auf dies kalte Kissen;
+Frьhmorgens werd ich dich zu finden wissen.
+
+(Legt sich nieder und entschlдft.  Helena tritt auf)
+
+Helena.
+O trдge, lange Nacht, verkьrze dich!
+Und Tageslicht, laя mich nicht lдnger schmachten
+Zur Heimat fьhre weg von diesen mich,
+Die meine arme Gegenwart verachten.
+Du, Schlaf, der oft dem Grame Lindrung leiht,
+Entziehe mich mir selbst auf kurze Zeit.
+
+(Schlдft ein.)
+
+Droll.
+ Dreie nur!--Fehlt eins noch hier:
+Zwei von jeder Art macht vier.
+Seht, sie kommt ja, wie sie soll,
+Auf der Stirn Verdruя und Groll.
+Amor steckt von Schalkheit voll,
+Macht die armen Weiblein toll.
+
+(Hermia tritt auf.)
+
+Hermia.
+Wie matt!  wie krank!  Zerzaust von Dornenstrдuchen,
+Vom Tau beschmutzt und tausendfach in Not:
+Ich kann nicht weitergehn, nicht weiterschleichen;
+Mein Fuя vernimmt nicht der Begier Gebot.
+Hier will ich ruhn; und soll's ein Treffen geben,
+O Himmel, schьtze mir Lysanders Leben!
+
+(Schlдft ein.)
+
+Droll.
+Auf dem Grund
+Schlaf gesund!
+Gieяen will
+Ich dir still
+Auf die Augen Arzenei.
+
+
+(Trдufelt den Saft auf Lysanders Augen.)
+
+Wirst du wach,
+O so lach
+Freundlich der,
+Die vorher
+Du geliebt, und bleib ihr treu.
+Dann geht es, wie das Sprьchlein rьhmt:
+Gebt jedem das, was ihm geziemt.
+Hans nimmt sein Gretchen,
+Jeder sein Mдdchen;
+Find't seinen Deckel jeder Topf,
+Und allen gehts nach ihrem Kopf.
+
+(Ab.)
+
+
+
+
+Vierter Aufzug
+
+
+
+Erste Szene
+
+Der Wald
+(Titania und Zettel mit einem Gefolge von Elfen
+Oberon im Hintergrunde, ungesehen)
+
+
+Titania.
+Komm, laя uns hier auf Blumenbetten kosen!
+Beut, Holder, mir die zarte Wange dar:
+Den glatten Kopf besteck ich dir mit Rosen
+Und kьsse dir dein schцnes Ohrenpaar.
+
+Zettel.
+Wo ist Bohnenblьte?
+
+Bohnenblьte.
+Hier.
+
+Zettel.
+Kratz mir den Kopf, Bohnenblьte.--Wo ist Musje Spinnweb?
+
+Spinnweb.
+Hier.
+
+Zettel.
+Musje Spinnweb, lieber Musje, kriegen Sie Ihre Waffen
+zurhand und schlagen Sie mir eine rotbeinige Biene auf
+einem Distelkopfe tot, und, lieber Musje, bringen Sie mir
+den Honigbeutel.  Tummeln Sie sich nicht allzusehr bei
+dieser Verrichtung, Musje; und, lieber Musje, haben Sie
+acht, daя der Honigbeutel nicht entzwei geht; es wьrde
+mir leid tun, Signor, wenn Sie sich mit einem Honigbeutel
+beschьtteten.  Wo ist Musje Senfsamen?
+
+Senfsamen.
+Hier.
+
+Zettel.
+Geben Sie die Pfote, Musje Senfsamen; ich bitte Sie, lassen
+Sie die Reverenzen, lieber Musje.
+
+Senfsamen.
+Was befehlen Sie?
+
+Zettel.
+Nichts, lieber Musje, als daя Sie dem Kavalier Bohnenblьte
+kratzen helfen.  Ich muя zum Balbier, Musje; denn mir ist,
+als wдr ich gewaltig haarig ums Gesicht herum, und ich
+bin ein so zдrtlicher Esel: wenn mein Haar mich nur ein
+biяchen kitzelt, gleich muя ich kratzen.
+
+Titania.
+Willst du Musik vernehmen, sьяer Freund?
+
+Zettel.
+Ich hab ein rдsonabel gutes Ohr fьr Musik; spielt mir ein
+Stьck auf der Maultrommel.
+
+Titania.
+Sag, sьяer Freund, was hast du Lust zu essen?
+
+Zettel.
+Ja, meiner Seel!  Eine Krippe voll Futter.  Ich kцnnte
+auch guten, trocknen Hafer kдuen.  Mir ist, als hдtte
+ich groяen Appetit nach einem Bunde Heu; gutes Heu,
+sьяes Heu hat seinesgleichen auf der Welt nicht.
+
+Titania.
+Ich hab 'nen dreisten Elfen, der nach Nьssen
+Im Magazin des Eichhorns suchen soll.
+
+Zettel.
+Ich hдtte lieber ein oder zwei Hand voll trockner Erbsen.
+Aber ich bitt Euch, laяt keinen von Euren Leuten mich
+stцren.  Es kommt mir eine Exposition zum Schlaf an.
+
+Titania.
+Schlaf du!  Dich soll indes mein Arm umwinden.
+Ihr Elfen, weg!  Nach allen Seiten fort!--
+So lind umflicht mit sьяen Blьtenranken
+Das Geiяblatt; so umzingelt, weiblich zart,
+Das Efeu seines Ulmbaums rauhe Finger:
+Wie ich dich liebe!  wie ich dich vergцttre!
+
+(Sie schlafen ein.  Oberon tritt vor.  Droll kommt.)
+
+Oberon.
+Willkommen, Droll!  Siehst du dies sьяe Schauspiel?
+Jetzt fдngt mich doch ihr Wahnsinn an zu dauern.
+Denn da ich eben im Gebьsch sie traf,
+Wie sie fьr diesen Tropf nach Dьften suchte,
+Da schalt ich sie und lieя sie zornig an.
+Sie hatt ihm die behaarten Schlдf' umwunden
+Mit einem frischen, wьrzgen Blumenkranz.
+Derselbe Tau, der sonst wie runde Perlen
+Des Morgenlandes an den Knospen schwoll,
+Stand in der zarten Blьmchen Augen jetzt,
+Wie Trдnen, trauernd ьber eigne Schmach.
+Als ich sie nach Gefallen ausgeschmдlt
+Und sie voll Demut und Geduld mich bat,
+Da fordert ich von ihr das Wechselkind;
+Sie gab's mir gleich und sandte ihren Elfen
+Zu meiner Laub' im Feenland mit ihm.
+Nun, da der Knabe mein ist, sei ihr Auge
+Von dieser hдяlichen Verblendung frei.
+Du, lieber Droll, nimm diese fremde Larve
+Vom Kopfe des Gesellen aus Athen;
+Auf daя er mit den andern hier, erwachend,
+Sich wieder heimbegebe nach Athen,
+Und alle der Geschichten dieser Nacht
+Nur wie der Launen eines Traums gedenken.
+Doch lцs ich erst die Elfenkцnigin:
+
+(Er berьhrt ihre Augen mit einem Kraut.)
+
+        Sei, als wдre nichts geschehn!
+        Sieh, wie du zuvor gesehn!
+        So besiegt zu hohem Ruhme
+        Cynthias Knospe Amors Blume.
+Nun, holde Kцnigin!  wach auf, Titania!
+
+Titania.
+Mein Oberon, was fьr Gesicht' ich sah!
+Mir schien, ein Esel hielt mein Herz gefangen.
+
+Oberon.
+Da liegt dein Freund.
+
+Titania.
+Wie ist dies zugegangen?
+O wie mir nun vor dieser Larve graut!
+
+Oberon.
+Ein Weilchen still!--Droll, nimm den Kopf da weg.
+Titania, du laя Musik beginnen
+Und binde stдrker aller fьnfe Sinnen
+Als durch gemeinen Schlaf.
+
+Titania.
+Musik her!  Schlafbeschwцrende Musik!
+
+Droll.
+Wenn du erwachst, so sollst du umgeschaffen
+Aus deinen eignen dummen Augen gaffen.
+
+Oberon.
+Ertцn Musik!  (Sanfte Musik.)
+Nun komm, Gemahlin!  Hand in Hand gefьgt,
+Und dieser Schlдfer Ruheplatz gewiegt!
+Die Freundschaft zwischen uns ist nun erneut:
+Wir tanzen morgen Mitternacht erfreut
+In Theseus' Hause bei der Festlichkeit
+Und segnen es mit aller Herrlichkeit.
+Auch werden da vermдhlt zu gleicher Zeit
+Die Paare hier in Wonn und Frцhlichkeit.
+
+ Droll.  Elfenkцnig, horch!  da klang
+Schon der Lerche Morgensang.  Oberon.  Hьpfen wir denn, Kцnigin,
+Schweigend nach den Schatten hin!
+Schneller als die Monde kreisen
+Kцnnen wir die Erd umreisen.  Titania.  Komm, Gemahl, und sage du
+Mir im Fliehn: wie ging es zu,
+Daя man diese Nacht im Schlaf
+Bei den Sterblichen mich traf?
+
+(Alle ab.  Waldhцrner hinter der Szene.
+Theseus, Hippolyta, Egeus und Gefolge treten auf.)
+
+Theseus.
+Geh einer hin und finde mir den Fцrster,
+Denn unsre Maienandacht ist vollbracht;
+Und da sich schon des Tages Vortrab zeigt,
+So soll Hippolyta die Jagdmusik
+Der Hunde hцren.--Koppelt sie im Tal
+Gen Westen los; eilt, sucht den Fцrster auf.
+Komm, schцne Fьrstin, auf des Berges Hцh;
+Dort laяt uns in melodischer Verwirrung
+Das Bellen hцren samt dem Widerhall.
+
+Hippolyta.
+Ich bin beim Herkules und Kadmus einst,
+Die mit spartanschen Hunden einen Bдr
+In Kretas Wдldern hetzten; nie vernahm ich
+So tapfres Toben.  Nicht die Haine nur,
+Das Firmament, die Quellen, die Reviere,
+Sie schienen all' (ein) Ruf und Gegenruf.
+Nie hцrt ich so harmonschen Zwist der Tцne,
+So hellen Donner.
+
+Theseus.
+Auch meine Hunde sind aus Spartas Zucht,
+Weitmдulig, scheckig und ihr Kopf behangen
+Mit Ohren, die den Tau vom Grase streifen;
+Krummbeinig, wammig wie Thessaliens Stiere;
+Nicht schnell zur Jagd, doch ihrer Kehlen Ton
+Folgt aufeinander wie ein Glockenspiel.
+Harmonischer scholl niemals ein Gebell
+Zum Hussa und zum frohen Hцrnerschall
+In Kreta, Sparta, noch Thessalien.
+Entscheidet selbst.--Doch still!  wer sind hier diese?
+
+Egeus.
+Hier schlummert meine Tochter, gnдdger Herr;
+Dies ist Lysander, dies Demetrius,
+Dies Helena, des alten Nedars Kind.
+Ich bin erstaunt, beisammen sie zu treffen.
+
+Theseus.
+Sie machten ohne Zweifel frьh sich auf,
+Den Mai zu feiern, hцrten unsre Absicht
+Und kamen her zu unsrer Festlichkeit.
+Doch sag mir, Egeus, ist dies nicht der Tag,
+Wo Hermia ihre Wahl erklдren sollte?
+
+Egeus.
+Er ist's, mein Fьrst.
+
+Theseus.
+Geh, heiя die Jдger, sie
+Mit ihren Hцrnern wecken.
+
+(Waldhцrner und Jagdgeschrei hinter der Szene, Demetrius,
+Lysander, Hermia und Helena erwachen und fahren auf.)
+
+Theseus.
+Ei, guten Tag!  Sankt Velten ist vorbei,
+Und paaren jetzt sich diese Vцgel erst?
+
+Lysander.
+Verzeihung, Herr!
+
+(Er und die ьbrigen knien.)
+
+Theseus.
+Steht auf, ich bitt euch alle.
+Ich weiя, ihr seid zwei Feind und Nebenbuhler:
+Wo kommt nun diese milde Eintracht her,
+Daя, fern vom Argwohn, Haя beim Hasse schlдft
+Und keiner Furcht vor Feindlichkeiten hegt?
+
+Lysander.
+Mein Fьrst, ich werd verworren Antwort geben,
+Halb wachend, halb im Schlaf; noch, schwцr ich Euch,
+Weiя ich nicht recht, wie ich hieher mich fand.
+Doch denk ich (denn ich mцchte wahrhaft reden--
+Und jetzt besinn ich mich, so ist es auch),
+Ich kam mit Hermia her; wir hatten vor,
+Weg von Athen an einen Ort zu fliehn,
+Wo des Gesetzes Bann uns nicht erreichte.--
+
+Egeus.
+Genug, genug!  Mein Fьrst, Ihr habt genug;
+Ich will den Bann, den Bann auf seinen Kopf.
+Fliehn wollten sie, ja fliehn, Demetrius!
+Und wollten so berauben dich und mich,
+Dich deines Weibs und meines Wortes mich;
+Des Wortes, das zum Weibe dir sie gab!
+
+Demetrius.
+Mein Fьrst, die schцne Helena verriet
+Mir ihren Plan, in diesen Wald zu flьchten;
+Und ich verfolgte sie hieher aus Wut,
+Die schцne Helena aus Liebe mich.
+Doch weiя ich nicht, mein Fьrst, durch welche Macht
+(Doch eine hцhre Macht ist's) meine Liebe
+Zu Hermia, wie Schnee zerronnen, jetzt
+Mir eines eitlen Tands Erinnrung scheint,
+Worein ich in der Kindheit mich vergafft.
+Der Gegenstand, die Wonne meiner Augen
+Und alle Treu und Tugend meiner Brust
+Ist Helena allein.  Mit ihr, mein Fьrst,
+War ich verlobt, bevor ich Hermia sah.
+Doch wie ein Kranker haяt ich diese Nahrung.
+Nun, zum natьrlichen Geschmack genesen,
+Begehr ich, lieb ich sie, schmacht ich nach ihr
+Und will ihr treu sein nun und immerdar.
+
+Theseus.
+Ihr Liebenden, ein Glьck, daя ich euch traf!
+Wir setzen dies Gesprдch bald weiter fort.--
+Ihr, Egeus, mьяt Euch meinem Willen fьgen:
+Denn schlieяen sollen diese Paar im Tempel
+Zugleich mit uns den ewigen Verein.
+Und weil der Morgen schon zum Teil verstrich,
+So bleib auch unsre Jagd nun ausgesetzt.--
+Kommt mit zur Stadt!  Wir wollen drei selb drei
+Ein Fest begehn, das ohnegleichen sei.--
+Komm denn, Hippolyta.
+
+(Theseus, Hippolyta, Egeus und Gefolge ab.)
+
+Demetrius.
+Dies alles scheint so klein und unerkennbar
+Wie ferne Berge, schwindend im Gewцlk.
+
+Hermia.
+Mir ist, ich sдh dies mit geteiltem Auge,
+Dem alles doppelt scheint.
+
+Helena.
+So ist's auch mir.
+Ich fand Demetrius, so wie ein Kleinod,
+Mein und auch nicht mein eigen.
+
+Demetrius.
+Seid Ihr denn
+Des Wachens auch gewiя?  Mir scheint's, wir schlafen,
+Wir trдumen noch.  Denkt Ihr nicht, daя der Herzog
+Hier war und ihm zu folgen uns gebot?
+
+Hermia.
+Ja, auch mein Vater.
+
+Helena.
+Und Hippolyta.
+
+Lysander.
+Und er beschied uns zu sich in den Tempel.
+
+Demetrius.
+Wohl denn, wir wachen also.  Auf, ihm nach!
+Und plaudern wir im Gehn von unsern Trдumen.
+
+(Ab.)
+(Wie sie abgehn, wacht Zettel auf.)
+
+Zettel.
+Wenn mein Stichwort kommt, ruft mich, und ich will
+antworten.  Mein nдchstes ist: "O schцnster Pyramus!"--
+He!  holla!--Peter Squenz!  Flaut, der Bдlgenflicker!
+Schnauz, der Kesselflicker!  Schlucker!--Sapperment!
+Alle davongelaufen und lassen mich hier schlafen!--
+Ich habe ein дuяerst rares Gesicht gehabt.  Ich hatte
+'nen Traum--'s geht ьber Menschenwitz, zu sagen, was
+es fьr ein Traum war.  Der Mensch ist nur ein Esel, wenn
+er sich einfallen lдяt, diesen Traum auszulegen.  Mir
+war, als wдr ich--kein Menschenkind kann sagen, was.
+Mir war, als wдr ich, und mir war, als hдtt ich--aber
+der Mensch ist nur ein lumpiger Hanswurst, wenn er
+sich unterfдngt zu sagen, was mir war, als hдtt ichs;
+des Menschen Auge hat's nicht gehцrt, des Menschen Ohr
+hats nicht gesehen, des Menschen Hand kann's nicht
+schmecken, seine Zunge kanns nicht begreifen und sein
+Herz nicht wieder sagen, was mein Traum war.--Ich will
+den Peter Squenz dazukriegen, mir von diesem Traum
+eine Ballade zu schreiben; sie soll Zettels Traum
+heiяen, weil sie so seltsam angezettelt ist, und ich
+will sie gegen das Ende des Stьcks vor dem Herzoge
+singen.  Vielleicht, um sie noch anmutiger zu machen,
+werde ich sie nach dem Tode singen.
+
+(Ab.)
+
+
+
+Zweite Szene
+
+Athen
+Eine Stube in Squenzens Hause
+(Squenz, Flaut, Schnauz und Schlucker kommen)
+
+
+Squenz.
+Habt ihr nach Zettels Hause geschickt?  Ist er noch nicht
+nach Haus gekommen?
+
+Schlucker.
+Man hцrt nichts von ihm.  Ohne Zweifel ist er transportiert.
+
+Flaut.
+Wenn er nicht kommt, so ist das Stьck zum Henker.  Es geht
+nicht vor sich, nicht wahr?
+
+Squenz.
+Es ist nicht mцglich.  Ihr habt keinen Mann in ganz Athen
+auяer ihm, der kapabel ist, den Pyramus herauszubringen.
+
+Flaut.
+Nein; er hat schlechterdings den besten Witz von allen
+Handwerksleuten in Athen.
+
+Squenz.
+Ja, der Tausend!  und die beste Person dazu.  Und was eine
+sьяe Stimme betrifft, da ist er ein rechtes Phдnomen.
+
+Flaut.
+Ein Phцnix mьяt Ihr sagen.  Ein Phдnomen (Gott behьte uns)
+ist ein garstiges Ding.
+
+(Schnock kommt.)
+
+Schnock.
+Meister, der Herzog kommt eben vom Tempel, und noch drei
+oder vier andere Herren und Damen mehr sind verheiratet.
+Wenn unser Spiel vor sich gegangen wдre, so wдren wir
+alle gemachte Leute gewesen.
+
+Flaut.
+O lieber Sappermentsjunge, Zettel!  So hat er nun sechs
+Batzen des Tags fьr Lebenszeit verloren.  Er konnte sechs
+Batzen des Tags nicht entgehn--und wenn ihm der Herzog
+nicht sechs Batzen des Tags fьr den Pyramus gegeben hдtte,
+will ich mich hдngen lassen!  Er hдtt es verdient.--Sechs
+Batzen des Tags fьr den Pyramus, oder gar nichts!
+(Zettel kommt.)
+
+Zettel.
+Wo sind die Buben?  Wo sind die Herzensjungen?
+
+Squenz.
+Zettel!--O allertrefflichster Tag!  gebenedeite Stunde!
+
+Zettel.
+Meister, ich muя Wunderdinge reden, aber fragt mich nicht
+was; denn wenn ich's euch sage, bin ich kein ehrlicher
+Athener.  Ich will euch alles sagen, just wie es sich zutrug.
+
+Squenz.
+Laя uns hцren, lieber Zettel.
+
+Zettel.
+Nicht eine Silbe.  Nur soviel will ich euch sagen: der Herzog
+haben zu Mittage gespeist.  Kriegt eure Gerдtschaften herbei!
+Gute Schnьre an eure Bдrte!  Neue Bдnder an eure Schuh!  Kommt
+gleich beim Palaste zusammen; laяt jeden seine Rolle
+ьberlesen; denn das Kurze und das Lange von der Sache ist:
+unser Spiel geht vor sich.  Auf allen Fall laяt Thisbe reine
+Wдsche anziehn, und laяt dem, der den Lцwen macht, seine
+Nдgel nicht verschneiden; denn sie sollen heraushдngen als
+des Lцwen Klauen.  Und, allerliebste Akteure!  eяt keine
+Zwiebeln, keinen Knoblauch; denn wir sollen sьяen Odem von
+uns geben, und ich zweifle nicht, sie werden sagen: Es ist
+eine sehr sьяe Komцdie.  Keine Worte weiter!  Fort!  marsch!
+fort!
+
+(Alle ab.)
+
+
+
+
+Fьnfter Aufzug
+
+
+
+Erste Szene
+
+Ein Zimmer im Palast des Theseus
+(Theseus, Hippolyta, Philostrat, Herren vom Hofe und
+Gefolge treten auf)
+
+
+Hippolyta.
+Was diese Liebenden erzдhlen, mein Gemahl,
+Ist wundervoll.
+
+Theseus.
+Mehr wundervoll wie wahr.
+Ich glaubte nie an diese Feenpossen
+Und Fabelein.  Verliebte und Verrьckte
+Sind beide von so brausendem Gehirn,
+So bildungsreicher Phantasie, die wahrnimmt,
+Was nie die kьhlere Vernunft begreift.
+Wahnwitzige, Poeten und Verliebte
+Bestehn aus Einbildung.  Der eine sieht
+Mehr Teufel, als die weite Hцlle faяt:
+Der Tolle nдmlich; der Verliebte sieht,
+Nicht minder irr, die Schцnheit Helenas
+Auf einer дthiopisch braunen Stirn.
+Des Dichters Aug, in schцnem Wahnsinn rollend,
+Blitzt auf zum Himmel, blitzt zur Erd hinab,
+Und wie die schwangre Phantasie Gebilde
+Von unbekannten Dingen ausgebiert,
+Gestaltet sie des Dichters Kiel, benennt
+Das luftge Nichts und gibt ihm festen Wohnsitz.
+So gaukelt die gewaltge Einbildung;
+Empfindet sie nur irgend eine Freude,
+Sie ahnet einen Bringer dieser Freude;
+Und in der Nacht, wenn uns ein Graun befдllt,
+Wie leicht, daя man den Busch fьr einen Bдren hдlt!
+
+Hippolyta.
+Doch diese ganze Nachtbegebenheit
+Und ihrer aller Sinn, zugleich verwandelt,
+Bezeugen mehr als Spiel der Einbildung:
+Es wird daraus ein Ganzes voll Bestand,
+Doch seltsam immer noch und wundervoll.
+
+(Lysander, Demetrius, Hermia und Helena treten auf.)
+
+Theseus.
+Hier kommen die Verliebten, froh entzьckt.
+Glьck, Freunde, Glьck!  Und heitre Liebestage
+Nach Herzenswunsch!
+
+Lysander.
+Beglьckter noch, mein Fьrst,
+Sei Euer Aus- und Eingang, Tisch und Bett!
+
+Theseus.
+Nun kommt!  Was haben wir fьr Spiel' und Tдnze?
+Wie bringen wir nach Tisch bis Schlafengehn
+Den langen Zeitraum von drei Stunden hin?
+Wo ist der Meister unsrer Lustbarkeiten?
+Was gibt's fьr Kurzweil?  Ist kein Schauspiel da,
+Um einer langen Stunde Qual zu lindern?--
+Ruft mir den Philostrat.
+
+Philostrat.
+Hier, groяer Theseus!
+
+Theseus.
+Was gibt's fьr Zeitvertreib auf diesen Abend?
+Was fьr Musik und Tanz?  Wie tдuschen wir
+Die trдge Zeit als durch Belustigung?
+
+Philostrat.
+Der Zettel hier besagt die fertgen Spiele:
+Wдhl Eure Hoheit, was sie sehen will.
+
+(№berreicht ein Papier.)
+
+Theseus (liest).
+"Das Treffen der Kentauren--wird zur Harfe
+Von einem Hдmling aus Athen gesungen."
+Nein, nichts hievon!  Das hab ich meiner Braut
+Zum Ruhm des Vetter Herkules erzдhlt.--
+"Der wohlbezechten Bacchanalen Wut,
+Wie sie den Sдnger Thraziens zerreiяen."
+Das ist ein altes Stьck; es ward gespielt,
+Als ich von Theben siegreich wiederkam.--
+"Der Musen Neunzahl, traurend um den Tod
+Der jьngst im Bettelstand verstorbenen Gelahrtheit."
+Das ist 'ne strenge, beiяende Satire,
+Die nicht zu einer Hochzeitsfeier paяt.--
+"Ein kurz langweilger Akt vom jungen Pyramus
+Und Thisbe, seinem Lieb.  Spaяhafte Tragцdie."
+Kurz und langweilig?  Spaяhaft und doch tragisch?
+Das ist ja glьhend Eis und schwarzer Schnee.
+Wer findet mir die Eintracht dieser Zwietracht?
+
+Philostrat.
+Es ist ein Stьck, ein Dutzend Worte lang,
+Und also kurz, wie ich nur eines weiя;
+Langweilig wird es, weils ein Dutzend Worte
+Zu lang ist, gnдdger Fьrst; kein Wort ist recht
+Im ganzen Stьck, kein Spieler weiя Bescheid.
+Und tragisch ist es auch, mein Gnдdigster,
+Denn Pyramus bringt selbst darin sich um.
+Als ichs probieren sah, ich muя gestehn,
+Es zwang mir Trдnen ab; doch lustger weinte
+Des lauten Lachens Ungestьm sie nie.
+
+Theseus.
+Wer sind die Spieler?
+
+Philostrat.
+Mдnner, hart von Faust,
+Die in Athen hier ein Gewerbe treiben,
+Die nie den Geist zur Arbeit noch geьbt
+Und nun ihr widerspenstiges Gedдchtnis
+Mit diesem Stьck auf Euer Fest geplagt.
+
+Theseus.
+Wir wollen's hцren.
+
+Philostrat.
+Nein, mein gnдdger Fьrst,
+Es ist kein Stьck fьr Euch.  Ich hцrt es an,
+Und es ist nichts daran, nichts auf der Welt,
+Wenn Ihr nicht Spaя an ihren Kьnsten findet,
+Die sie mit schwerer Mьh sich eingeprдgt,
+Euch damit aufzuwarten.
+
+Theseus.
+Ich will's hцren,
+Denn nie kann etwas unwillkommen sein,
+Was Einfalt darbringt und Ergebenheit.
+Geht, fьhrt sie her!  Ihr Frauen, nehmet Platz!
+
+(Philostrat ab.)
+
+Hippolyta.
+Ich mag nicht gern Armseligkeit bedrьckt,
+Ergebenheit im Dienst erliegen sehn.
+
+Theseus.
+Du sollst ja, Teure, nichts dergleichen sehn.
+
+Hippolyta.
+Er sagt ja, sie verstehen nichts hievon.
+
+Theseus.
+Um desto gьtger ist's, fьr nichts zu danken.
+Was sie versehen, ihnen nachzusehen,
+Sei unsre Lust.  Was armer, willger Eifer
+Zu leisten nicht vermag, schдtz edle Rьcksicht
+Nach dem Vermцgen nur, nicht nach dem Wert.
+Wohin ich kam, da hatten sich Gelahrte
+Auf wohlgesetzte Reden vorbereitet;
+Da haben sie gezittert, sich entfдrbt,
+Gestockt in einer halb gesagten Phrase;
+Die Angst erstickte die erlernte Rede,
+Noch eh sie ihren Willkomm vorgebracht,
+Und endlich brachen sie verstummend ab.
+Sogar aus diesem Schweigen, liebes Kind,
+Glaub mir, fand ich den Willkomm doch heraus;
+Ja, in der Schьchternheit bescheidnen Eifers
+Las ich soviel als von der Plapperzunge
+Vorwitzig prahlender Beredsamkeit.
+Wenn Lieb und Einfalt sich zu reden nicht erdreisten,
+Dann, dьnkt mich, sagen sie im Wenigsten am meisten.
+
+(Philostrat kommt zurьck.)
+
+Philostrat.
+Beliebt es Eurer Hoheit?  Der Prolog
+Ist fertig.
+
+Theseus.
+Laяt ihn kommen.
+
+(Trompeten.--Der Prolog tritt auf.)
+
+Prolog.
+Wenn wir miяfallen tun, so ist's mit gutem Willen;
+Der Vorsatz bleibt doch gut, wenn wir ihn nicht erfьllen.
+Zu zeigen unsre Pflicht durch dieses kurze Spiel,
+Das ist der wahre Zweck von unserm End und Ziel.
+Erwдget also denn: warum wir kommen sein:
+Wir kommen nicht, als sollt ihr euch daran ergetzen;
+Die wahre Absicht ist--zu eurer Lust allein
+Sind wir nicht hier--daя wir in Reu und Leid euch setzen.
+Die Spieler sind bereit; wenn ihr sie werdet sehen,
+Versteht ihr alles schon, was ihr nur wollt verstehen.
+
+Theseus.
+Dieser Bursche nimmt's nicht sehr genau.
+
+Lysander.
+Er hat seinen Prolog geritten wie ein wildes Fьllen; er
+weiя noch nicht, wo er halt machen soll.  Eine gute Lehre,
+gnдdiger Herr: es ist nicht genug, daя man rede; man muя
+auch richtig reden.
+
+Hippolyta.
+In der Tat, er hat auf seinem Prolog gespielt wie ein
+Kind auf der Flцte.  Er brachte wohl einen Ton heraus,
+aber keine Note.
+
+Theseus.
+Seine Rede war wie eine verwickelte Kette: nichts zerrissen,
+aber alles in Unordnung.  Wer kommt zunдchst?
+
+(Pyramus, Thisbe, Wand, Mondschein und Lцwe treten als
+stumme Personen auf.)
+
+Prolog.
+Was dies bedeuten soll, das wird euch wundern mьssen,
+Bis Wahrheit alle Ding' stellt an das Licht herfьr.
+Der Mann ist Pyramus, wofern ihr es wollt wissen;
+Und dieses Frдulein schцn ist Thisbe, glaubt es mir.
+Der Mann mit Mцrtel hier und Leimen soll bedeuten
+Die Wand, die garstge Wand, die ihre Lieb tдt scheiden.
+Doch freut es sie, drob auch sich niemand wundern soll,
+Wenn durch die Spalte klein sie konnten flьstern wohl.
+Der Mann da mit Latern und Hund und Busch von Dorn
+Den Mondschein prдsentiert, denn, wann ihr's wollt erwдgen:
+Bei Mondschein hatten die Verliebten sich verschworn,
+Zu gehen nach Nini Grab, um dort der Lieb zu pflegen.
+Dies grдяlich wilde Tier, mit Namen Lцwe groя,
+Die treue Thisbe, die des Nachts zuerst gekommen,
+Tдt scheuchen, ja vielmehr erschrecken, daя sie bloя
+Den Mantel fallen lieя und drauf die Flucht genommen.
+Drauf dieser schnцde Lцw in seinen Rachen nahm
+Und lieя mit Blut befleckt den Mantel lobesam.
+Sofort kommt Pyramus, ein Jьngling weiя und rot,
+Und find't den Mantel da von seiner Thisbe tot;
+Worauf er mit dem Deg'n, mit blutig bцsem Degen
+Die blutge heiяe Brust sich tapferlich durchstach;
+Und Thisbe, die indes im Maulbeerschatten glegen,
+Zog seinen Dolch heraus und sich das Herz zerbrach.
+Was noch zu sagen ist, das wird--glaubt mir fьrwahr!--
+Euch Mondschein, Wand und Lцw und das verliebte Paar
+Der Lдng und Breite nach, solang sie hier verweilen,
+Erzдhlen, wenn ihr wollt, in wohlgereimten Zeilen.
+
+(Prolog, Thisbe, Lцwe und Mondschein ab.)
+
+Theseus.
+Mich nimmt wunder, ob der Lцwe sprechen wird.
+
+Demetrius.
+Kein Wunder, gnдdiger Herr: ein Lцwe kann's wohl, da so
+viele Esel es tun.
+
+Wand.
+In dem besagten Stьck es sich zutragen tut,
+Daя ich, Thoms Schnauz genannt, die Wand vorstelle gut.
+Und eine solche Wand, wovon ihr solltet halten,
+Sie sei durch einen Schlitz recht durch und durch gespalten,
+Wodurch der Pyramus und seine Thisbe fein
+Oft flьsterten fьrwahr ganz leis und insgeheim.
+Der Mцrtel und der Lehm und dieser Stein tut zeigen,
+Daя ich bin diese Wand, ich wills euch nicht verschweigen;
+Und dies die Spalte ist, zur Linken und zur Rechten,
+Wodurch die Buhler zwei sich tдten wohl besprechen.
+
+Theseus.
+Kann man verlangen, daя Lehm und Haar besser reden sollten?
+
+Demetrius.
+Es ist die witzigste Abteilung, die ich jemals vortragen hцrte.
+
+Theseus.
+Pyramus geht auf die Wand los!  Stille!
+
+Pyramus.
+O Nacht, so schwarz von Farb, o grimmerfьllte Nacht!
+O Nacht, die immer ist, sobald der Tag vorbei.
+O Nacht!  O Nacht!  O Nacht!  ach!  ach!  ach!  Himmel!  ach!
+Ich fьrcht, daя Thisbes Wort vergessen worden sei.--
+Und du, o Wand, o sья' und liebenswerte Wand,
+Die zwischen unsrer beiden Eltern Haus tut stehen;
+Du Wand, o Wand, o sья' und liebenswerte Wand!
+Zeig deine Spalte mir, daя ich dadurch mag sehen.
+
+(Wand hдlt die Finger in die Hцhe.)
+
+Hab Dank, du gute Wand!  der Himmel lohn es dir!
+Jedoch, was seh ich dort?  Thisbe, die seh ich nicht.
+O bцse Wand, durch die ich nicht seh meine Zier,
+Verflucht sei'n deine Stein', daя du so дffest mich.
+
+Theseus.
+Mich dьnkt, die Wand mьяte wieder fluchen, da sie
+Empfindung hat.
+
+Pyramus.
+Nein, fьrwahr, Herr, das muя er nicht.  "ƒffest mich"
+ist Thisbes Stichwort; sie muя hereinkommen, und ich
+muя sie dann durch die Wand ausspionieren.  Ihr sollt
+sehen, es wird just zutreffen, wie ich's Euch sage.
+Da kommt sie schon.
+
+(Thisbe kommt.)
+
+Thisbe.
+O Wand, du hast schon oft gehцrt das Seufzen mein,
+Mein'n schцnsten Pyramus weil du so trennst von mir;
+Mein roter Mund hat oft gekьsset deine Stein',
+Dein' Stein', mit Lehm und Haar gekьttet auf in dir.
+
+Pyramus.
+Ein' Stimm ich sehen tu; ich will zur Spalt und schauen,
+Ob ich nicht hцren kann meiner Thisbe Antlitz klar.
+Thisbe!
+
+Thisbe.
+Dies ist mein Schatz, mein Liebchen ist's, fьrwahr!
+
+Pyramus.
+Denk was du willst, ich bin's; du kannst mir sicher trauen,
+Und gleich Limander bin ich treu in meiner Pflicht.
+
+Thisbe.
+Und ich gleich Helena, bis mich der Tod ersticht.
+
+Pyramus.
+So treu war Schefelus einst seiner Procrus nicht.
+
+Thisbe.
+Wie Procrus Schef'lus liebt', lieb ich dein Angesicht.
+
+Pyramus.
+O kья mich durch das Loch von dieser garstgen Wand!
+
+Thisbe.
+Mein Kuя trifft nur das Loch, nicht deiner Lippen Rand.
+
+Pyramus.
+Willst du bei Nickels Grab heut nacht mich treffen an?
+
+Thisbe.
+Sei's lebend oder tot, ich komme, wenn ich kann.
+
+Wand.
+So hab ich Wand nunmehr mein Part gemachet gut,
+Und nun sich also Wand hinwegbegeben tut.
+
+(Wand, Pyramus und Thisbe ab.)
+
+Theseus.
+Nun ist also die Wand zwischen den beiden Nachbarn nieder.
+
+Demetrius.
+Das ist nicht mehr als billig, gnдdiger Herr, wenn Wдnde
+Ohren haben.
+
+Hippolyta.
+Dies ist das einfдltigste Zeug, das ich jemals hцrte.
+
+Theseus.
+Das Beste in dieser Art ist nur Schattenspiel, und das
+Schlechteste ist nichts Schlechteres, wenn die
+Einbildungskraft nachhilft.
+
+Hippolyta.
+Das muя denn Eure Einbildungskraft tun und nicht die
+ihrige.
+
+Theseus.
+Wenn wir uns nichts Schlechteres von ihnen einbilden als
+sie selbst, so mцgen sie fьr vortreffliche Leute gelten.
+Hier kommen zwei edle Tiere herein, ein Mond und ein Lцwe.
+
+(Lцwe und Mondschein treten auf.)
+
+Lцwe.
+Ihr, Frдulein, deren Herz fьrchtet die kleinste Maus,
+Die in monstrцser Gestalt tut auf dem Boden schweben,
+Mцgt itzo zweifelsohn erzittern und erbeben,
+Wenn Lцwe, rauh von Wut, lдяt sein Gebrьll heraus.
+So wisset denn, daя ich Hans Schnock der Schreiner bin,
+Kein bцser Lцw fьrwahr, noch eines Lцwen Weib;
+Denn kдm ich als ein Lцw und hдtte Harm im Sinn,
+So daurte, meiner Treu, mich mein gesunder Leib.
+
+Theseus.
+Eine sehr hцfliche Bestie und sehr gewissenhaft.
+
+Demetrius.
+Das Beste von Bestien, gnдdiger Herr, was ich je gesehn habe.
+
+Lysander.
+Dieser Lцwe ist ein rechter Fuchs an Herzhaftigkeit.
+
+Theseus.
+Wahrhaftig, und eine Gans an Klugheit.
+
+Demetrius.
+Nicht so, gnдdiger Herr, denn seine Herzhaftigkeit kann
+sich seiner Klugheit nicht bemeistern wie der Fuchs einer
+Gans.
+
+Theseus.
+Ich bin gewiя, seine Klugheit kann sich seiner
+Herzhaftigkeit nicht bemeistern; denn eine Gans
+bemeistert sich keines Fuchses.  Wohl!  ьberlaяt es
+seiner Klugheit und laяt uns auf den Mond horchen.
+
+Mond.
+Den wohlgehцrnten Mond d'Latern z'erkennen gibt.
+
+Demetrius.
+Er sollte die Hцrner auf dem Kopfe tragen.
+
+Theseus.
+Er ist ein Vollmond, seine Hцrner stecken unsichtbar
+in der Scheibe.
+
+Mond.
+Den wohlgehцrnten Mond d'Latern z'erkennen gibt;
+Ich selbst den Mann im Mond, wofern es euch beliebt.
+
+Theseus.
+Das ist noch der grцяte Verstoя unter allen: der Mann
+sollte in die Laterne gesteckt werden; wie ist er sonst
+der Mann im Monde?
+
+Demetrius.
+Er darf es nicht wegen des Lichtes.  Er wьrde es in Feuer
+und Flammen setzen.
+
+Hippolyta.
+Ich bin diesen Mond satt; ich wollte, er wechselte.
+
+Theseus.
+Das kleine Licht seiner Vernunft zeigt, daя er im Abnehmen
+ist.  Aber doch aus Hцflichkeit und der Ordnung wegen mьssen
+wir die Zeit ausdauern.
+
+Lysander.
+Sprich weiter, Mond!
+
+Mond.
+Alles, was ich zu sagen habe, ist, euch zu melden, daя
+diese Laterne der Mond ist; ich der Mann im Monde; dieser
+Dornbusch mein Dornbusch; und dieser Hund mein Hund.
+
+Demetrius.
+Alle diese Dinge sollten also in der Laterne sein, denn
+sie sind im Monde.  Doch still!  hier kommt Thisbe.
+
+(Thisbe tritt auf.)
+
+Thisbe.
+Dies ist ja Nickels Grab; wo ist mein Liebchen denn?
+
+Lцwe.
+Oh!
+
+(Der Lцwe brьllt, Thisbe lдuft davon.)
+
+Demetrius.
+Gut gebrьllt, Lцwe!
+
+Theseus.
+Gut gelaufen, Thisbe!
+
+Hippolyta.
+Gut geschienen, Mond!--In der Tat, der Mond scheint mit
+vielem Anstande.
+
+(Der Lцwe zerreiяt den Mantel der Thisbe.)
+
+Theseus.
+Gut gezaust, Lцwe!
+
+Demetrius.
+Und da kam Pyramus.
+
+(Pyramus kommt.)
+
+Lysander.
+Und da verschwand der Lцwe.
+
+(Lцwe ab.)
+
+Pyramus.
+Ich dank dir, sьяer Mond, fьr deine Sonnenstrahlen,
+Die also hell und schцn den Erdenball bemalen;
+Dieweil bei deinem Gold und funkelnd sьяem Licht
+Zu kosten ich verhoff mein'r Thisben Angesicht.
+        Doch halt, o Pein!
+        Was soll dies sein?
+            Was fьr ein Graus ist dies?
+        Aug, siehst du noch?
+        O schweres Joch!
+            Mein Herz, mein Liebchen sья,
+        Dein Mantel gut
+        Befleckt mit Blut!
+            Ihr Furien, kommt im Trab
+        Herbei und rдcht
+        Und lцscht und brecht
+            Den Lebensfaden ab.
+
+Theseus.
+Dieser Jammer und der Tod eines werten Freundes sollten
+einen Menschen schon zum Trauern bringen.
+
+Hippolyta.
+Bei meiner Seele, ich bedaure den Mann.
+
+Pyramus.
+Warum denn, o Natur, tatst du den Lцwen bauen?
+Weil solch ein schnцder Lцw mein Lieb hat defloriert;
+Sie, welche ist--nein, war--die schцnste alter Frauen,
+Die je des Tages Glanz mit ihrem Schein geziert.
+        Komm, Trдnenschar!
+        Aus, Schwert!  durchfahr
+            Die Brust dem Pyramo!
+        Die Linke hier,
+        Wo 's Herz hьpft mir;
+            So sterb ich denn, so, so!
+        Nun tot ich bin,
+        Der Leib ist hin,
+            Die Seel speist Himmelsbrot.
+        O Zung, Tisch aus!
+        Mond, lauf nach Haus!
+            Nun tot, tot, tot, tot, tot!
+
+(Er stirbt.  Mondschein ab.)
+
+Hippolyta.
+Wie kommt's, daя der Mondschein weggegangen ist, ehe
+Thisbe zurьckkommt und ihren Liebhaber findet?
+
+Theseus.
+Sie wird ihn beim Sternenlicht finden.--Hier kommt sie;
+
+(Thisbe kommt.)
+
+und ihr Jammer endigt das Spiel.
+
+Hippolyta.
+Mir deucht, sie sollte keinen langen Jammer fьr solch
+einen Pyramus nцtig haben; ich hoffe, sie wird sich kurz
+fassen.
+
+Demetrius.
+Eine Motte wird in der Waage den Ausschlag geben, ob
+Pyramus oder Thisbe mehr taugt.
+
+Lysander.
+Sie hat ihn schon mit ihren sьяen Augen ausgespдht.
+
+Demetrius.
+Und so jammert sie folgendergestalt.  (Thisbe.)
+Schlдfst du, mein Kind?
+Steh auf geschwind!
+    Wie, Tдubchen, bist du tot?
+O sprich!  o sprich!
+O rege dich!
+    Ach!  tot ist er!  o Not!
+Dein Lilienmund,
+Dein Auge rund,
+    Wie Schnittlauch frisch und grьn;
+Dein' Kirschennas,
+Dein' Wangen blaя,
+    Die wie ein Goldlack blьhn,
+Soll nun ein Stein
+Bedecken fein?
+    O klopf mein Herz und brich!
+Ihr Schwestern drei!
+Kommt, kommt herbei
+    Und leget Hand an mich!
+Zung, nicht ein Wort!
+Nun, Dolch, mach fort,
+    Zerreiя des Busens Schnee.
+Lebt wohl, ihr Herrn!
+Ich scheide gern.
+Ade, ade, ade!
+
+(Sie stirbt.)
+
+Theseus.
+Mondschein und Lцwe sind ьbriggeblieben, um die Toten zu
+begraben.
+
+Demetrius.
+Ja, und Wand auch.
+
+Zettel.
+Nein, wahrhaftig nicht; die Wand ist niedergerissen, die
+ihre Vдter trennte.  Beliebt es euch, den Epilog zu sehen
+oder einen Bergomasker Tanz zwischen zweien von unsrer
+Gesellschaft zu hцren?
+
+Theseus.
+Keinen Epilog, ich bitte euch; euer Stьck bedarf keiner
+Entschuldigung.  Entschuldigt nur nicht: wenn alle
+Schauspieler tot sind, braucht man keinen zu tadeln.
+Meiner Treu, hдtte der, der es geschrieben hat, den
+Pyramus gespielt und sich in Thisbes Strumpfband
+aufgehдngt, so wдr es eine schцne Tragцdie gewesen;
+und das ist es auch, wahrhaftig, und recht wacker
+agiert.  Aber kommt, euren Bergomasker Tanz!  Den Epilog
+laяt laufen.
+
+(Ein Tanz von Rьpeln.)
+
+Theseus.
+Die Mitternacht rief zwцlf mit ehrner Zunge.
+Zu Bett, Verliebte!  Bald ist's Geisterzeit.
+Wir werden, fьrcht ich, in den Morgen schlafen,
+Soweit wir in die Nacht hinein gewacht.
+Dies greiflich dumme Spiel hat doch den trдgen Gang
+Der Nacht getдuscht.  Zu Bett, geliebten Freunde!
+Noch vierzehn Tage lang soll diese Festlichkeit
+Sich jede Nacht erneun mit Spiel und Lustbarkeit.
+
+(Alle ab.)
+
+Droll (tritt auf.)
+Jetzt beheult der Wolf den Mond,
+Durstig brьllt im Forst der Tiger;
+Jetzt, mit schwerem Dienst verschont,
+Schnarcht der arbeitsmьde Pflьger;
+Jetzo schmaucht der Brand am Herd,
+Und das Kдuzlein kreischt und jammert,
+Daя der Krank' es ahnend hцrt
+Und sich fest ans Kissen klammert;
+Jetzo gдhnt Gewцlb und Grab,
+Und, entschlьpft den kalten Mauern,
+Sieht man Geister auf und ab,
+Sieht am Kirchhofszaun sie lauern.
+Und wir Elfen, die mit Tanz
+Hekates Gespann umhьpfen
+Und, gescheucht vom Sonnenglanz,
+Trдumen gleich ins Dunkel schlьpfen,
+Schwдrmen jetzo; keine Maus
+Stцre dies geweihte Haus!
+Voran komm ich mit Besenreis,
+Den Flur zu fegen blank und weiя.
+
+(Oberon und Titania mit ihrem Gefolge treten auf.)
+
+Oberon.
+Bei des Feuers mattem Flimmern,
+Geister, Elfen, stellt euch ein!
+Tanzet in den bunten Zimmern
+Manchen leichten Ringelreihn!
+Singt nach meiner Lieder Weise!
+Singet!  hьpfet!  leise!  leise!
+
+Titania.
+Wirbelt mir mit zarter Kunst
+Eine Not' auf jedes Wort;
+Hand in Hand, mit Feengunst,
+Singt und segnet diesen Ort.
+
+(Gesang und Tanz.)
+
+Oberon.
+Nun, bis Tages Wiederkehr,
+Elfen, schwдrmt im Haus umher!
+Kommt zum besten Brautbett hin,
+Daя es Heil durch uns gewinn!
+Das Geschlecht, entsprossen dort,
+Sei gesegnet immerfort;
+Jedes dieser Paare sei
+Ewiglich im Lieben treu;
+Ihr Geschlecht soll nimmer schдnden
+Die Natur mit Feindeshдnden;
+Und mit Zeichen schlimmer Art,
+Muttermal und Hasenschart,
+Werde durch des Himmels Zorn
+Ihnen nie ein Kind geborn.--
+Elfen, sprengt durchs ganze Haus
+Tropfen heilgen Wiesentaus!
+Jedes Zimmer, jeden Saal
+Weiht und segnet allzumal!
+Friede sei in diesem Schloя
+Und sein Herr ein Glьcksgenoя!
+Nun genung!
+Fort im Sprung!
+Trefft mich in der Dдmmerung!
+
+(Oberon, Titania und Gefolge ab.)
+
+Droll.
+Wenn wir Schatten euch beleidigt,
+O so glaubt--und wohl verteidigt
+Sind wir dann--: ihr alle schier
+Habet nur geschlummert hier
+Und geschaut in Nachtgesichten
+Eures eignen Hirnes Dichten.
+Wollt ihr diesen Kindertand,
+Der wie leere Trдume schwand,
+Liebe Herrn, nicht gar verschmдhn,
+Sollt ihr bald was Beяres sehn.
+Wenn wir bцsem Schlangenzischen
+Unverdienterweis entwischen,
+So verheiяt auf Ehre Droll
+Bald euch unsres Dankes Zoll;
+Ist ein Schelm zu heiяen willig,
+Wenn dies nicht geschieht, wie billig.
+Nun gute Nacht!  Das Spiel zu enden,
+Begrьяt uns mit gewognen Hдnden!
+
+(Ab.)
+
+
+Ende dieses Projekt Gutenberg Etextes Ein Sommernachtstraum,
+von William Shakespeare (№bersetzt von August Wilhelm von
+Schlegel)
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, EIN SOMMERNACHTSTRAUM ***
+
+This file should be named 7022-8.txt or 7022-8.zip
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext04 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext04
+
+Or /etext03, 02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

@@ -1,0 +1,5360 @@
+﻿The Project Gutenberg Etext of Die Jungfrau von Orleans, by Schiller
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 8-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfügung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before distributing this or any other
+Project Gutenberg file.
+
+We encourage you to keep this file, exactly as it is, on your
+own disk, thereby keeping an electronic path open for future
+readers.  Please do not remove this.
+
+This header should be the first thing seen when anyone starts to
+view the etext. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the
+information they need to understand what they may and may not
+do with the etext.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get etexts, and
+further information, is included below.  We need your donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Die Jungfrau von Orleans
+
+Author: Friedrich Schiller
+
+Release Date: Aug 2004 [Etext #6383]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on December 5, 2002]
+
+Edition: 10
+
+Language: German
+
+
+The Project Gutenberg Etext of Die Jungfrau von Orleans, by Schiller
+*******This file should be named 6383-8.txt or 6383-8.zip******
+
+This etext was produced by Michael Pullen, globaltraveler5565@yahoo.com.
+
+Project Gutenberg Etexts are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep etexts in compliance with any particular paper edition.
+
+We are now trying to release all our etexts one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+etexts, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any Etext before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2001 as we release over 50 new Etext
+files per month, or 500 more Etexts in 2000 for a total of 4000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts.  We need
+funding, as well as continued efforts by volunteers, to maintain
+or increase our production and reach our goals.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of November, 2001, contributions are being solicited from people
+and organizations in: Alabama, Arkansas, Connecticut, Delaware,
+Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, New
+Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon,
+Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee,
+Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin,
+and Wyoming.
+
+*In Progress
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer
+to
+donate.
+
+International donations are accepted, but we don't know ANYTHING
+about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+
+The Project Gutenberg Literary Archive Foundation has been approved
+by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As
+fundraising
+requirements for other states are met, additions to this list will be
+made and fundraising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm
+etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States
+copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+
+Friedrich Schiller
+
+Die Jungfrau von Orleans
+
+Eine romantische Tragödie
+
+PERSONEN
+
+Karl der Siebente, König von Frankreich
+Königin Isabeau, seine Mutter
+Agnes Sorel, seine Geliebte
+Philipp der Gute, Herzog von  Burgund
+Graf Dunois,  Bastard von Orleans
+La Hire Du Chatel, königliche Offiziere
+Erzbischof von Reims
+Chatillon, ein burgundischer  Ritter
+Raoul, ein lothringischer  Ritter
+Talbot, Feldherr der  Engelländer
+Lionel Fastolf, englische Anführer
+Montgomery, ein Walliser
+Ratsherren von Orleans
+Ein englischer Herold
+Thibaut d'Arc, ein reicher Landmann
+Margot Louison Johanna, seine Töchter
+Etienne Claude, Marie Raimond,  ihre Freier
+Bertrand, ein anderer Landmann
+Die Erscheinung eines schwarzen, Ritters
+Köhler und Köhlerweib
+Soldaten und Volk, königliche
+Kronbediente, Bischöfe, Mönche, Marschälle, Magistratspersonen,
+Hofleute und andere stumme Personen im Gefolge des Krönungszuges
+
+
+
+ERSTER AUFZUG
+
+Hoflager König Karls zu Chinon
+
+Erster Auftritt
+Dunois und Du Chatel
+
+DUNOIS. Nein, ich ertrag es länger nicht. Ich sage
+Mich los von diesem König, der unrühmlich
+Sich selbst verläßt. Mir blutet in der Brust
+Das tapfre Herz und glühnde Tränen möcht ich weinen,
+Daß Räuber in das königliche Frankreich
+Sich teilen mit dem Schwert, die edeln Städte,
+Die mit der Monarchie gealtert sind,
+Dem Feind die rostgen Schlüssel überliefern,
+Indes wir hier in tatenloser Ruh
+Die köstlich edle Rettungszeit verschwenden.
+--Ich höre Orleans bedroht, ich fliege
+Herbei aus der entlegnen Normandie,
+Den König denk ich kriegerisch gerüstet
+An seines Heeres Spitze schon zu finden,
+Und find ihn--hier! Umringt von Gaukelspielern
+Und Troubadours, spitzfindge Rätsel lösend
+Und der Sorel galante Feste gebend,
+Als waltete im Reich der tiefste Friede!
+--Der Connetable geht, er kann den Greul
+Nicht länger ansehn.--Ich verlaß ihn auch,
+Und übergeb ihn seinem bösen Schicksal.
+
+DU CHATEL. Da kommt der König!
+
+
+
+ERSTER AUFZUG
+
+Zweiter Auftritt
+
+König Karl zu den Vorigen
+
+KARL. Der Connetable schickt sein Schwert zurück,
+Und sagt den Dienst mir auf.--In Gottes Namen!
+So sind wir eines mürrschen Mannes los,
+Der unverträglich uns nur meistern wollte.
+
+DUNOIS. Ein Mann ist viel wert in so teurer Zeit,
+Ich möcht ihn nicht mit leichtem Sinn verlieren.
+
+KARL. Das sagst du nur aus Lust des Widerspruchs,
+Solang er dawar, warst du nie sein Freund.
+
+DUNOIS. Er war ein stolz verdrießlich schwerer Narr,
+Und wußte nie zu enden--diesmal aber
+Weiß ers. Er weiß zu rechter Zeit zu gehn,
+Wo keine Ehre mehr zu holen ist.
+
+KARL. Du bist in deiner angenehmen Laune,
+Ich will dich nicht drin stören.--Du Chatel!
+Es sind Gesandte da vom alten König,
+René, belobte Meister im Gesang,
+Und weit berühmt.--Man muß sie wohl bewirten,
+Und jedem eine goldne Kette reichen.
+(Zum Bastard) Worüber lachst du?
+
+DUNOIS. Daß du goldne Ketten
+Aus deinem Munde schüttelst.
+
+DU CHATEL. Sire! Es ist
+Kein Geld in deinem Schatze mehr vorhanden.
+
+KARL. So schaffe welches.--Edle Sänger dürfen
+Nicht ungeehrt von meinem Hofe ziehen.
+Sie machen uns den dürren Szepter blühn,
+Sie flechten den unsterblich grünen Zweig
+Des Lebens in die unfruchtbare Krone,
+Sie stellen herrschend sich den Herrschern gleich,
+Aus leichten Wünschen bauen sie sich Throne,
+Und nicht im Raume liegt ihr harmlos Reich,
+Sie beide wohnen auf der Menschheit Höhen!
+
+DU CHATEL. Mein königlicher Herr! Ich hab dein Ohr
+Verschont, solang noch Rat und Hülfe war,
+Doch endlich löst die Notdurft mir die Zunge.
+ Du hast nichts mehr zu schenken, ach! du hast
+Nicht mehr, wovon du morgen könntest leben!
+Die hohe Flut des Reichtums ist zerflossen,
+Und tiefe Ebbe ist in deinem Schatz.
+Den Truppen ist der Sold noch nicht bezahlt,
+Sie drohen murrend abzuziehen.--Kaum weiß
+Ich Rat, dein eignes königliches Haus
+Notdürftig nur, nicht fürstlich, zu erhalten.
+
+KARL. Verpfände meine königlichen Zölle,
+Und laß dir Geld darleihn von den Lombarden.
+
+DU CHATEL. Sire, deine Kroneinkünfte, deine Zölle,
+Sind auf drei Jahre schon voraus verpfändet.
+
+DUNOIS. Und unterdes geht Pfand und Land verloren.
+
+KARL. Uns bleiben noch viel reiche schöne Länder.
+
+DUNOIS. Solang es Gott gefällt und Talbots Schwert!
+Wenn Orleans genommen ist, magst du
+Mit deinem König René Schafe hüten.
+
+KARL. Stets übst du deinen Witz an diesem König,
+Doch ist es dieser länderlose Fürst,
+Der eben heut mich königlich beschenkte.
+
+DUNOIS. Nur nicht mit seiner Krone von Neapel,
+Um Gotteswillen nicht! Denn die ist feil,
+Hab ich gehört, seitdem er Schafe weidet.
+
+KARL. Das ist ein Scherz, ein heitres Spiel, ein Fest,
+Das er sich selbst und seinem Herzen gibt,
+Sich eine schuldlos reine Welt zu gründen
+In dieser rauh barbarschen Wirklichkeit.
+Doch was er Großes, Königliches will--
+Er will die alten Zeiten wiederbringen,
+Wo zarte Minne herrschte, wo die Liebe
+Der Ritter große Heldenherzen hob,
+Und edle Frauen zu Gerichte saßen,
+Mit zartem Sinne alles Feine schlichtend.
+In jenen Zeiten wohnt der heitre Greis,
+Und wie sie noch in alten Liedern leben,
+So will er sie, wie eine Himmelstadt,
+In goldnen Wolken, auf die Erde setzen--
+Gegründet hat er einen Liebeshof,
+Wohin die edlen Ritter sollen wallen,
+Wo keusche Frauen herrlich sollen thronen,
+Wo reine Minne wiederkehren soll,
+Und mich hat er erwählt zum Fürst der Liebe.
+
+DUNOIS. Ich bin so sehr nicht aus der Art geschlagen,
+Daß ich der Liebe Herrschaft sollte schmähn.
+Ich nenne mich nach ihr, ich bin ihr Sohn,
+Und all mein Erbe liegt in ihrem Reich.
+Mein Vater war der Prinz von Orleans,
+Ihm war kein weiblich Herz unüberwindlich,
+Doch auch kein feindlich Schloß war ihm zu fest.
+Willst du der Liebe Fürst dich würdig nennen,
+So sei der Tapfern Tapferster!--Wie ich
+Aus jenen alten Büchern mir gelesen,
+War Liebe stets mit hoher Rittertat
+Gepaart und Helden, hat man mich gelehrt,
+Nicht Schäfer saßen an der Tafelrunde.
+Wer nicht die Schönheit tapfer kann beschützen,
+Verdient nicht ihren goldnen Preis.--Hier ist
+Der Fechtplatz! Kämpf um deiner Väter Krone!
+Verteidige mit ritterlichem Schwert
+Dein Eigentum und edler Frauen Ehre--
+Und hast du dir aus Strömen Feindesbluts
+Die angestammte Krone kühn erobert,
+Dann ist es Zeit und steht dir fürstlich an,
+Dich mit der Liebe Myrten zu bekrönen.
+
+KARL (zu einem Edelknecht, der hereintritt).
+Was gibts?
+
+EDELKNECHT. Ratsherrn von Orleans flehen um Gehör.
+
+KARL. Führ sie herein.
+(Edelknecht geht ab) Sie werden Hülfe fodern,
+Was kann ich tun, der selber hülflos ist!
+
+
+
+ERSTER AUFZUG
+
+Dritter Auftritt
+
+Drei Ratsherren zu den Vorigen
+
+KARL. Willkommen, meine vielgetreuen Bürger
+Aus Orleans! Wie stehts um meine gute Stadt?
+Fährt sie noch fort mit dem gewohnten Mut
+Dem Feind zu widerstehn, der sie belagert?
+
+RATSHERR. Ach Sire! Es drängt die höchste Not, und stündlich wachsend
+Schwillt das Verderben an die Stadt heran.
+Die äußern Werke sind zerstört, der Feind
+Gewinnt mit jedem Sturme neuen Boden.
+Entblößt sind von Verteidigern die Mauern,
+Denn rastlos fechtend fällt die Mannschaft aus,
+Doch wen'ge sehn die Heimatpforte wieder,
+Und auch des Hungers Plage droht der Stadt.
+Drum hat der edle Graf von Rochepierre,
+Der drin befehlt, in dieser höchsten Not
+Vertragen mit dem Feind, nach altem Brauch,
+Sich zu ergeben auf den zwölften Tag,
+Wenn binnen dieser Zeit kein Heer im Feld
+Erschien, zahlreich genug, die Stadt zu retten.
+(Dunois macht eine heftige Bewegung des Zorns)
+
+KARL. Die Frist ist kurz.
+
+RATSHERR. Und jetzo sind wir hier
+Mit Feinds Geleit, daß wir dein fürstlich Herz
+Anflehen, deiner Stadt dich zu erbarmen,
+Und Hülf zu senden binnen dieser Frist,
+Sonst übergibt er sie am zwölften Tage.
+
+DUNOIS. Saintrailles konnte seine Stimme geben
+Zu solchem schimpflichen Vertrag!
+
+RATSHERR. Nein, Herr!
+Solang der Tapfre lebte, durfte nie
+Die Rede sein von Fried und Übergabe.
+
+Dunois. So ist er tot!
+
+Ratsherr. An unsern Mauern sank
+Der edle Held für seines Königs Sache.
+
+KARL. Saintrallles tot! O in dem einzgen Mann
+Sinkt mir ein Heer!
+(Ein Ritter kommt und spricht einige Worte leise mit dem Bastard,
+welcher betroffen auffährt)
+
+DUNOIS. Auch das noch!
+
+KARL. Nun! Was gibts?
+
+DUNOIS. Graf Douglas sendet her. Die schottschen Völker
+Empören sich und drohen abzuziehn,
+Wenn sie nicht heut den Rückstand noch erhalten.
+
+KARL. Du Chatel!
+
+DU CHATEL (zuckt die Achseln).
+Sire! Ich weiß nicht Rat.
+
+KARL. Versprich,
+Verpfände was du hast, mein halbes Reich--
+
+Du CHATEL. Hilft nichts! Sie sind zu oft vertröstet worden!
+
+KARL. Es sind die besten Truppen meines Heers!
+Sie sollen mich jetzt nicht, nicht jetzt verlassen!
+
+RATSHERR (mit einem Fußfall).
+O König, hilf uns! Unsrer Not gedenke!
+
+KARL (verzweiflungsvoll). Kann ich Armeen aus der Erde stampfen?
+Wächst mir ein Kornfeld in der flachen Hand?
+Reißt mich in Stücken, reißt das Herz mir aus,
+Und münzet es statt Goldes! Blut hab ich
+Für euch, nicht Silber hab ich, noch Soldaten!
+
+(Er sieht die Sorel hereintreten, und eilt ihr mit ausgebreiteten
+Armen entgegen)
+
+
+
+ERSTER AUFZUG
+
+Vierter Auftritt
+
+Agnes Sorel ein Kästchen in der Hand, zu den Vorigen
+
+KARL. O meine Agnes! Mein geliebtes Leben!
+Du kommst, mich der Verzweiflung zu entreißen!
+Ich habe dich, ich flieh an deine Brust,
+Nichts ist verloren, denn du bist noch mein.
+
+SOREL. Mein teurer König!
+(Mit ängstlich fragendem Blick umherschauend)
+Dunois! Ists wahr?
+Du Chatel?
+
+Du CHATEL. Leider!
+
+Sorel. Ist die Not so groß?
+Es fehlt am Sold? Die Truppen wollen abziehn?
+
+Du CHATEL. Ja leider ist es so!
+
+SOREL (ihm das Kästchen aufdrängend).
+Hier, hier ist Gold,
+Hier sind Juwelen--Schmelzt mein Silber ein--
+Verkauft, verpfändet meine Schlösser--Leihet
+Auf meine Güter in Provence--Macht alles
+Zu Gelde und befriediget die Truppen.
+Fort! Keine Zeit verloren! (Treibt ihn fort)
+
+KARL. Nun, Dunois? Nun, Du Chatel! Bin ich euch
+Noch arm, da ich die Krone aller Frauen
+Besitze?--Sie ist edel, wie ich selbst
+Geboren, selbst das königliche Blut
+Der Valois ist nicht reiner, zieren wurde sie
+Den ersten Thron der Welt--doch sie verschmäht ihn,
+Nur meine Liebe will sie sein und heißen.
+Erlaubte sie mir jemals ein Geschenk
+Von höherm Wert, als eine frühe Blume
+Im Winter oder seltne Frucht! Von mir
+Nimmt sie kein Opfer an, und bringt mir alle!
+Wagt ihren ganzen Reichtum und Besitz
+Großmütig an mein untersinkend Glück.
+
+SOREL. Glaub ihm nicht.
+Er hat sein Leben zehenmal für dich
+Gewagt und zürnt, daß ich mein Gold jetzt wage.
+Wie? Hab ich dir nicht alles froh geopfert,
+Was mehr geachtet wird als Gold und Perlen,
+Und sollte jetzt mein Glück für mich behalten?
+Komm! Laß uns allen überflüßgen Schmuck
+Des Lebens von uns werfen! Laß mich dir
+Ein edles Beispiel der Entsagung geben!
+Verwandle deinen Hofstaat in Soldaten,
+Dein Gold in Eisen, alles was du hast,
+Wirf es entschlossen hin nach deiner Krone!
+Komm! Komm! Wir teilen Mangel und Gefahr!
+Das kriegerische Roß laß uns besteigen,
+Den zarten Leib dem glühnden Pfeil der Sonne
+Preisgeben, die Gewölke über uns
+Zur Decke nehmen, und den Stein zum Pfühl.
+Der rauhe Krieger wird sein eignes Weh
+Geduldig tragen, sieht er seinen König
+Dem Ärmsten gleich ausdauren und entbehren!
+
+DUNOIS. Ja sie ist eine Rasende wie du,
+Und wirft ihr Alles in ein brennend Haus,
+Und schöpft ins lecke Faß der Danaiden.
+Dich wird sie nicht erretten, nur sich selbst
+Wird sie mit dir verderben--
+
+KARL (lächelnd). Ja, nun erfüllt sich mir ein altes Wort
+Der Weissagung, das eine Nonne mir
+Zu Clermont im prophetschert Geiste sprach.
+Ein Weib, verhieß die Nonne, würde mich
+Zum Sieger machen über alle Feinde,
+Und meiner Väter Krone mir erkämpfen.
+Fern sucht ich sie im Feindeslager auf,
+Das Herz der Mutter hofft ich zu versöhnen,
+Hier steht die Heldin, die nach Reims mich führt,
+Durch meiner Agnes Liebe werd ich siegen!
+
+SOREL. Du wirsts durch deiner Freunde tapfres Schwert.
+
+KARL. Auch von der Feinde Zwietracht hoff ich viel
+Denn mir ist sichre Kunde zugekommen,
+Daß zwischen diesen stolzen Lords von England
+Und meinem Vetter von Burgund nicht alles mehr
+So steht wie sonst--Drum hab ich den La Hire
+Mit Botschaft an den Herzog abgefertigt,
+Ob mirs gelänge, den erzürnten Pair
+Zur alten Pflicht und Treu zurückzuführen
+Mit jeder Stunde wart ich seiner Ankunft.
+
+DU CHATEL (am Fenster). Der Ritter sprengt soeben in den Hof
+
+KARL. Willkommner Bote! Nun so werden wir
+Bald wissen, ob wir weichen oder siegen.
+
+
+
+ERSTER AUFZUG
+
+Fünfter Auftritt
+
+La Hire zu den Vorigen!
+
+KARL (geht ihm entgegen).
+La Hire! Bringst du uns Hoffnung oder keine?
+Erklär dich kurz. Was hab ich zu erwarten?
+
+LA HIRE. Erwarte nichts mehr als von deinem Schwert.
+
+KARL. Der stolze Herzog laßt sich nicht versöhnen!
+O sprich! Wie nahm er meine Botschaft auf?
+
+LA HIRE. Vor allen Dingen und bevor er noch
+Ein Ohr dir könne leihen, Lodert er,
+Daß ihm Du Chatel ausgeliefert werde,
+Den er den Mörder seines Vaters nennt.
+
+KARL. Und, weigern wir uns dieser Schmachbedingung?
+
+LA HIRE. Dann sei der Bund zertrennt, noch eh er anfing.
+
+KARL. Hast du ihn drauf, wie ich dir anbefahl,
+Zum Kampf mit mir gefodert auf der Brücke
+Zu Montereau, allwo sein Vater fiel?
+
+LA HIRE. Ich warf ihm deinen Handschuh hin und sprach:
+Du wolltest deiner Hoheit dich begeben,
+Und als ein Ritter kämpfen um dein Reich.
+Doch er versetzte: nimmer täts ihm not,
+Um das zu fechten, was er schon besitze.
+Doch wenn dich so nach Kämpfen lüstete,
+So würdest du vor Orleans ihn finden,
+Wohin er morgen willens sei zu gehn;
+Und damit kehrt' er lachend mir den Rücken.
+
+KARL. Erhob sich nicht in meinem Parlamente
+Die reine Stimme der Gerechtigkeit?
+
+LA HIRE. Sie ist verstummt vor der Parteien Wut.
+Ein Schluß des Parlaments erklärte dich
+Des Throns verlustig, dich und dein Geschlecht.
+
+DUNOIS. Ha frecher Stolz des herrgewordnen Bürgers!
+
+KARL. Hast du bei meiner Mutter nichts versucht?
+
+LA HIRE. Bei deiner Mutter!
+
+KARL. Ja! Wie ließ sie sich vernehmen?
+
+LA HIRE (nachdem er einige Augenblicke sich bedacht).
+Es war gerad das Fest der Königskrönung,
+Als ich zu Saint Denis eintrat. Geschmückt
+Wie zum Triumphe waren die Pariser,
+In jeder Gasse stiegen Ehrenbogen,
+Durch die der engelländsche König zog.
+Bestreut mit Blumen war der Weg und jauchzend,
+Als hätte Frankreich seinen schönsten Sieg
+Erfochten, sprang der Pöbel um den Wagen.
+
+SOREL. Sie jauchzten--jauchzten, daß sie auf das Herz
+Des liebevollen sanften Königs traten!
+
+LA HIRE. Ich sah den jungen Harry Lancaster,
+Den Knaben, auf dem königlichen Stuhl
+Sankt Ludwigs sitzen, seine stolzen Öhme
+Bedford und Gloster standen neben ihm,
+Und Herzog Philipp kniet' am Throne nieder
+Und leistete den Eid für seine Länder.
+
+KARL. O ehrvergeßner Pair! Unwürdger Vetter!
+
+LA HIRE. Das Kind war bang und strauchelte, da es
+Die hohen Stufen an dem Thron hinanstieg.
+"Ein böses Omen!" murmelte das Volk,
+Und es erhob sich schallendes Gelächter.
+Da trat die alte Königin, deine Mutter,
+Hinzu, und--mich entrüstet es zu sagen!
+
+KARL. Nun?
+
+LA HIRE. In die Arme faßte sie den Knaben
+Und setzt' ihn selbst auf deines Vaters Stuhl.
+
+KARL. O Mutter! Mutter!
+
+LA HIRE. Selbst die wütenden
+Burgundier, die mordgewohnten Banden,
+Erglüheten vor Scham bei diesem Anblick.
+Sie nahm es wahr und an das Volk gewendet
+Rief sie mit lauter Stimm: "Dankt mirs, Franzosen,
+Daß ich den kranken Stamm mit reinem Zweig
+Veredle, euch bewahre vor dem miß-
+Gebornen Sohn des hirnverrückten Vaters!"
+(Der König verhüllt sich, Agnes eilt auf ihn zu und schließt ihn
+in ihre Arme, alle Umstehenden drücken ihren Abscheu, ihr
+Entsetzen aus)
+
+DUNOIS. Die Wölfin!--die wutschnaubende Megäre!
+
+KARL (nach einer Pause zu den Ratsherren).
+Ihr habt gehört, wie hier die Sachen stehn.
+Verweilt nicht länger, geht nach Orleans
+Zurück, und meldet meiner treuen Stadt:
+Des Eides gegen mich entlaß ich sie.
+Sie mag ihr Heil beherzigen und sich
+Der Gnade des Burgundiers ergeben,
+Er heißt der Gute, er wird menschlich sein.
+
+DUNOIS. Wie Sire? Du wolltest Orleans verlassen!
+
+RATSHERR (kniet nieder). Mein königlicher Herr! Zieh deine Hand
+Nicht von uns ab! Gib deine treue Stadt
+Nicht unter Englands harte Herrschaft hin.
+Sie ist ein edler Stein in deiner Krone,
+Und keine hat den Königen, deinen Ahnherrn,
+Die Treue heiliger bewahrt.
+
+DUNOIS. Sind wir
+Geschlagen? Ists erlaubt, das Feld zu räumen,
+Eh noch ein Schwertstreich um die Stadt geschehn?
+Mit einem leichten Wörtlein, ehe Blut
+Geflossen ist, denkst du die beste Stadt
+Aus Frankreichs Herzen wegzugeben?
+
+KARL. Des Blutes ist geflossen und vergebens!
+Des Himmels schwere Hand ist gegen mich,
+Geschlagen wird mein Heer in allen Schlachten,
+Mein Parlament verwirft mich, meine Hauptstadt,
+Mein Volk nimmt meinen Gegner jauchzend auf,
+Die mir die Nächsten sind am Blut, verlassen,
+Verraten mich--Die eigne Mutter nährt
+Die fremde Feindesbrut an ihren Brüsten.
+--Wir wollen jenseits der Loire uns ziehn,
+Und der gewaltgen Hand des Himmels weichen,
+Der mit dem Engelländer ist.
+
+SOREL. Das wolle Gott nicht, daß wir, an uns selbst
+Verzweifelnd, diesem Reich den Rücken wenden!
+Dies Wort kam nicht aus deiner tapfern Brust.
+Der Mutter unnatürlich rohe Tat
+Hat meines Königs Heldenherz gebrochen!
+Du wirst dich wiederfinden, männlich fassen,
+Mit edelm Mut dem Schicksal widerstehen,
+Das grimmig dir entgegenkämpft.
+
+KARL (in düstres Sinnen verloren). Ist es nicht wahr?
+Ein finster furchtbares Verhängnis waltet
+Durch Valois' Geschlecht, es ist verworfen
+Von Gott, der Mutter Lastertaten führten
+Die Furien herein in dieses Haus,
+Mein Vater lag im Wahnsinn zwanzig Jahre,
+Drei ältre Brüder hat der Tod vor mir
+Hinweggemäht, es ist des Himmels Schluß,
+Das Haus des sechsten Karls soll untergehn.
+
+SOREL. In dir wird es sich neuverjüngt erheben!
+Hab Glauben an dich selbst.--O! nicht umsonst
+Hat dich ein gnädig Schicksal aufgespart
+Von deinen Brüdern allen, dich den jüngsten
+Gerufen auf den ungehofften Thron.
+In deiner sanften Seele hat der Himmel
+Den Arzt für alle Wunden sich bereitet,
+Die der Parteien Wut dem Lande schlug.
+Des Bürgerkrieges Flammen wirst du löschen,
+Mir sagts das Herz, den Frieden wirst du pflanzen,
+Des Frankenreiches neuer Stifter sein.
+
+KARL. Nicht ich. Die rauhe sturmbewegte Zeit
+Heischt einen kraftbegabtem Steuermann.
+Ich hätt ein friedlich Volk beglücken können,
+Ein wild empörtes kann ich nicht bezähmen,
+Nicht mir die Herzen öffnen mit dem Schwert,
+Die sich entfremdet mir in Haß verschließen.
+
+SOREL. Verblendet ist das Volk, ein Wahn betäubt es,
+Doch dieser Taumel wird vorübergehe,
+Erwachen wird, nicht fern mehr ist der Tag,
+Die Liebe zu dem angestammten König,
+Die tief gepflanzt ist in des Franken Brust,
+Der alte Haß, die Eifersucht erwachen,
+Die beide Völker ewig feindlich trennt;
+Den stolzen Sieger stürzt sein eignes Glück.
+Darum verlasse nicht mit Übereilung
+Den Kampfplatz, ring um jeden Fußbreit Erde,
+Wie deine eigne Brust verteidige
+Dies Orleans! Laß alle Fähren lieber
+Versenken, alle Brücken niederbrennen,
+Die über diese Scheide deines Reichs,
+Das stygsche Wasser der Loire dich führen.
+
+KARL. Was ich vermocht, hab ich getan. Ich habe
+Mich dargestellt zum ritterlichen Kampf
+Um meine Krone.--Man verweigert ihn.
+Umsonst verschwend ich meines Volkes Leben,
+Und meine Städte sinken in den Staub.
+Soll ich gleich jener unnatürlichen Mutter
+Mein Kind zerteilen lassen mit dem Schwert?
+Nein, daß es lebe, will ich ihm entsagen.
+
+DUNOIS. Wie Sire? Ist das die Sprache eines Königs?
+Gibt man so eine Krone auf? Es setzt
+Der Schlechtste deines Volkes Gut und Blut
+An seine Meinung, seinen Haß und Liebe,
+Partei wird alles, wenn das blutge Zeichen
+Des Bürgerkrieges ausgehangen ist.
+Der Ackersmann verläßt den Pflug, das Weib
+Den Rocken, Kinder, Greise waffnen sich,
+Der Bürger zündet seine Stadt, der Landmann
+Mit eignen Händen seine Saaten an,
+Um dir zu schaden oder wohlzutun
+Und seines Herzens Wollen zu behaupten.
+Nichts schont er selber und erwartet sich
+Nicht Schonung, wenn die Ehre ruft, wenn er
+Für seine Götter oder Götzen kämpft.
+Drum weg mit diesem weichlichen Mitleiden,
+Das einer Königsbrust nicht ziemt.--Laß du
+Den Krieg ausrasen, wie er angefangen,
+Du hast ihn nicht leichtsinnig selbst entflammt.
+Für seinen König muß das Volk sich opfern,
+Das ist das Schicksal und Gesetz der Welt.
+Der Franke weiß es nicht und wills nicht anders.
+Nichtswürdig ist die Nation, die nicht
+Ihr Alles freudig setzt an ihre Ehre.
+
+KARL (zu den Ratsherren). Erwartet keinen anderen Bescheid.
+Gott schütz euch. Ich kann nicht mehr.
+
+DUNOIS. Nun so kehre
+Der Siegesgott auf ewig dir den Rücken,
+Wie du dem väterlichen Reich. Du hast
+Dich selbst verlassen, so verlaß ich dich.
+Nicht Englands und Burgunds vereinte Macht,
+Dich stürzt der eigne Kleinmut von dem Thron.
+Die Könige Frankreichs sind geborne Helden,
+Du aber bist unkriegerisch gezeugt.
+(Zu den Ratsherren) Der König gibt euch auf. Ich aber will
+In Orleans, meines Vaters Stadt, mich werfen,
+Und unter ihren Trümmern mich begraben.
+(Er will gehen. Agnes Sorel hält ihn auf)
+
+SOREL (zum König). O laß ihn nicht im Zorne von dir gehn!
+Sein Mund spricht rauhe Worte, doch sein Herz
+Ist treu wie Gold, es ist derselbe doch,
+Der warm dich liebt und oft für dich geblutet.
+Kommt, Dunois! Gesteht, daß Euch die Hitze
+Des edeln Zorns zu weit geführt--Du aber
+Verzeih dem treuen Freund die heftge Rede!
+O kommt, kommt! Laßt mich eure Herzen schnell
+Vereinigen, eh sich der rasche Zorn
+Unlöschbar, der verderbliche, entflammt!
+(Dunois fixiert den König und scheint eine Antwort zu erwarten)
+
+KARL (zu Du Chatel). Wir gehen über die Loire. Laß mein
+Gerät zu Schiffe bringen!
+
+DUNOIS (schnell zur Sorel). Lebet wohl!
+(Wendet sich schnell und geht, Ratsherren folgen)
+SOREL (ringt verzweifelt die Hände).
+O wenn er geht, so sind wir ganz verlassen!
+--Folgt ihm, La Hire. O sucht ihn zu begütgen.
+
+(La Hire geht ab)
+
+
+
+ERSTER AUFZUG
+
+Sechster Auftritt
+
+Karl. Sorel. Du Chatel
+
+KARL. Ist denn die Krone ein so einzig Gut?
+Ist es so bitter schwer, davon zu scheiden?
+Ich kenne was noch schwerer sich erträgt.
+Von diesen trotzig herrischen Gemütern
+Sich meistern lassen, von der Gnade leben
+Hochsinnig eigenwilliger Vasallen,
+Das ist das Harte für ein edles Herz,
+Und bittrer als dem Schicksal unterliegen!
+(Zu Du Chatel, der noch zaudert) Tu was ich dir befohlen!
+
+DU CHATEL (wirft sich zu seinen Füßen).
+O mein König!
+
+KARL. Es ist beschlossen. Keine Worte weiter!
+
+DU CHATEL. Mach Frieden mit dem Herzog von Burgund,
+Sonst seh ich keine Rettung mehr für dich.
+
+KARL. Du rätst mir dieses, und dein Blut ist es,
+Womit ich diesen Frieden soll versiegeln?
+
+DU CHATEL. Hier ist mein Haupt. Ich hab es oft für dich
+Gewagt in Schlachten und ich leg es jetzt
+Für dich mit Freuden auf das Blutgerüste.
+Befriedige den Herzog. Überliefre mich
+Der ganzen Strenge seines Zorns und laß
+Mein fließend Blut den alten Haß versöhnen!
+
+KARL (blickt ihn eine Zeitlang gerührt und schweigend an).
+Ist es denn wahr? Steht es so schlimm mit mir,
+Daß meine Freunde, die mein Herz durchschauen,
+Den Weg der Schande mir zur Rettung zeigen?
+Ja, jetzt erkenn ich meinen tiefen Fall,
+Denn das Vertraun ist hin auf meine Ehre.
+
+DU CHATEL. Bedenk--
+
+KARL. Kein Wort mehr! Bringe mich nicht auf!
+Müßt ich zehn Reiche mit dem Rücken schauen,
+Ich rette mich nicht mit des Freundes Leben.
+--Tu was ich dir befohlen. Geh und laß
+Mein Heergerät einschiffen.
+
+DU CHATEL. Es wird schnell
+Getan sein.
+
+(Steht auf und geht, Agnes Sorel weint heftig)
+
+
+
+ERSTER AUFZUG
+
+Siebenter Auftritt
+
+Karl und Agnes Sorel
+
+KARL (ihre Hand fassend). Sei nicht traurig, meine Agnes.
+Auch jenseits der Loire liegt noch ein Frankreich,
+Wir gehen in ein glücklicheres Land.
+Da lacht ein milder niebewölkter Himmel
+Und leichtre Lüfte wehn, und sanftre Sitten
+Empfangen uns, da wohnen die Gesänge
+Und schöner blüht das Leben und die Liebe.
+
+SOREL. O muß ich diesen Tag des Jammers schauen!
+Der König muß in die Verbannung gehn,
+Der Sohn auswandern aus des Vaters Hause
+Und seine Wiege mit dem Rücken schauen.
+O angenehmes Land, das wir verlassen,
+Nie werden wir dich freudig mehr betreten.
+
+
+
+ERSTER AUFZUG
+
+Achter Auftritt
+
+La Hire kommt zurück. Karl und Sorel
+
+SOREL. Ihr kommt allein. Ihr bringt ihn nicht zurück?
+(Indem sie ihn näher ansieht)
+La Hire! Was gibts? Was sagt mir Euer Blick?
+Ein neues Unglück ist geschehn!
+
+LA HIRE. Das Unglück
+Hat sich erschöpft und Sonnenschein ist wieder!
+
+SOREL. Was ists? Ich bitt Euch.
+
+LA HIRE (zum König).Ruf die Abgesandten
+Von Orleans zurück!
+
+KARL. Warum? Was gibts?
+
+LA HIRE. Ruf sie zurück. Dein Glück hat sich gewendet,
+Ein Treffen ist geschehn, du hast gesiegt.
+
+SOREL. Gesiegt! O himmlische Musik des Wortes!
+
+KARL. La Hire! Dich täuscht ein fabelhaft Gerücht.
+Gesiegt! Ich glaub an keine Siege mehr.
+
+LA HIRE. O du wirst bald noch größre Wunder glauben.
+--Da kommt der Erzbischof. Er führt den Bastard
+In deinen Arm zurück--
+
+SOREL. O schöne Blume
+des Siegs, die gleich die edeln Himmelsfrüchte,
+Fried und Versöhnung trägt!
+
+
+
+ERSTER AUFZUG
+
+Neunter Auftritt
+
+Erzbischof von Reims. Dunois. Du Chatel mit Raoul, einem
+geharnischten Ritter, zu den Vorigen
+
+ERZBISCHOF (führt den Bastard zu dem König und legt ihre
+Hände ineinander). Umarmt euch, Prinzen!
+Laßt allen Groll und Hader jetzo schwinden,
+Da sich der Himmel selbst für uns erklärt.
+(Dunois umarmt den König)
+
+KARL. Reißt mich aus meinem Zweifel und Erstaunen.
+Was kündigt dieser feierliche Ernst mir an?
+Was wirkte diesen schnellen Wechsel?
+
+ERZBISCHOF (führt den Ritter hervor und stellt ihn vor den
+König). Redet!
+
+RAOUL: Wir hatten sechzehn Fähnlein aufgebracht
+Lothringisch Volk, zu deinem Heer zu stoßen,
+Und Ritter Baudricour aus Vaucouleurs
+War unser Führer. Als wir nun die Höhen
+Bei Vermanton erreicht und in das Tal,
+Das die Yonne durchströmt, herunterstiegen,
+Da stand in weiter Ebene vor uns der Feind,
+Und Waffen blitzten, da wir rückwärts sahn.
+Umrungen sahn wir uns von beiden Heeren.
+Nicht Hoffnung war zu siegen noch zu fliehn,
+Da sank dem Tapfersten das Herz und alles,
+Verzweiflungsvoll, will schon die Waffen strecken.
+Als nun die Führer miteinander noch
+Rat suchten und nicht fanden--sich da stellte sich
+Ein seltsam Wunder unsern Augen dar!
+Denn aus der Tiefe des Gehölzes plötzlich
+Trat eine Jungfrau, mit behelmtem Haupt
+Wie eine Kriegesgöttin, schön zugleich
+Und schrecklich anzusehn, um ihren Nacken
+In dunkeln Ringen fiel das Haar, ein Glanz
+Vom Himmel schien die Hohe zu umleuchten,
+Als sie die Stimm erhub und also sprach:
+"Was zagt ihr, tapfre Franken! Auf den Feind!
+Und wären sein mehr denn des Sands im Meere,
+Gott und die heilge Jungfrau führt euch an!"
+Und schnell dem Fahnenträger aus der Hand
+Riß sie die Fahn und vor dem Zuge her
+Mit kühnem Anstand schritt die Mächtige.
+Wir, stumm vor Staunen, selbst nicht wollend, folgen
+Der hohen Fahn und ihrer Trägerin,
+Und auf den Feind gerad an stürmen wir.
+Der, hochbetroffen, steht bewegungslos
+Mit weitgeöffnet starrem Blick das Wunder
+Anstaunend, das sich seinen Augen zeigt--
+Doch schnell, als hätten Gottes Schrecken ihn
+Ergriffen, wendet er sich um
+Zur Flucht, und Wehr und Waben von sich werdend
+Entschart das ganze Heer sich im Gefilde,
+Da hilft kein Machtwort, keines Führers Ruf,
+Vor Schrecken sinnlos, ohne rückzuschaun,
+Stürzt Mann und Roß sich in des Flusses Bette,
+Und läßt sich würgen ohne Widerstand,
+Ein Schlachten wars, nicht eine Schlacht zu nennen!
+Zweitausend Feinde deckten das Gefild,
+Die nicht gerechnet, die der Fluß verschlang,
+Und von den Unsern ward kein Mann vermißt.
+
+KARL. Seltsam bei Gott! höchst wunderbar und seltsam!
+
+SOREL. Und eine Jungfrau wirkte dieses Wunder?
+Wo kam sie her? Wer ist sie?
+
+RAOUL. Wer sie sei,
+Will sie allein dem König offenbaren.
+Sie nennt sich eine Seherin und Gotts
+Gesendete Prophetin, und verspricht
+Orleans zu retten, eh der Mond noch wechselt.
+Ihr glaubt das Volk und dürstet nach Gefechten.
+Sie folgt dem Heer, gleich wird sie selbst hiersein.
+(Man hört Glocken und Geklirr von Waffen, die aneinandergeschlagen
+werden)
+Hört ihr den Auflauf? Das Geläut der Glocken?
+Sie ists, das Volk begrüßt die Gottgesandte.
+
+KARL (zu Du Chatel). Führt sie herein--
+(zum Erzbischof) Was soll ich davon denken!
+Ein Mädchen bringt mir Sieg und eben jetzt,
+Da nur ein Götterarm mich retten kann!
+Das ist nicht in dem Laufe der Natur,
+Und darf ich--Bischof, darf ich Wunder glauben?
+
+VIELE STIMMEN (hinter der Szene).
+Heil, Heil der Jungfrau, der Erretterin!
+
+KARL. Sie kommt!
+(Zu Dunois) Nehmt meinen Platz ein, Dunois!
+Wir wollen dieses Wundermädchen prüfen,
+Ist sie begeistert und von Gott gesandt,
+Wird sie den König zu entdecken wissen.
+
+(Dunois setzt sich, der König steht zu seiner Rechten, neben ihm
+Agnes Sorel, der Erzbischof mit den übrigen gegenüber, daß der
+mittlere Raum leer bleibt)
+
+
+
+ERSTER AUFZUG
+
+Zehnter Auftritt
+
+Die Vorigen. Johanna begleitet von den Ratsherren und vielen
+Rittern, welche den Hintergrund der Szene anfüllen; mit edelm
+Anstand tritt sie vorwärts, und schaut die Umstehenden der
+Reihe nach an
+
+DUNOIS (nach einer tiefen feierlichen Stille).
+Bist du es, wunderbares Mädchen--
+
+JOHANNA (unterbricht ihn, mit Klarheit und Hoheit ihn anschauend).
+Bastard von Orleans! Du willst Gott versuchen!
+Steh auf von diesem Platz, der dir nicht ziemt,
+An diesen Größeren bin ich gesendet.
+(Sie geht mit entschiedenem Schritt auf den König zu, beugt ein
+Knie vor ihm und steht sogleich wieder auf, zurücktretend. Alle
+Anwesenden drücken ihr Erstaunen aus. Dunois verläßt seinen Sitz
+und es wird Raum vor dem König)
+
+KARL. Du siehst mein Antlitz heut zum erstenmal,
+Von wannen kommt dir diese Wissenschaft?
+
+JOHANNA. Ich sah dich, wo dich niemand sah als Gott.
+(Sie nähert sich dem König und spricht geheimnisvoll)
+In jüngst verwichner Nacht, besinne dich!
+Als alles um dich her in tiefem Schlaf
+Begraben lag, da standst du auf von deinem Lager,
+Und tatst ein brünstiges Gebet zu Gott.
+Laß die hinausgehn und ich nenne dir
+Den Inhalt des Gebets.
+
+KARL. Was ich dem Himmel
+Vertraut, brauch ich vor Menschen nicht zu bergen.
+Entdecke mir den Inhalt meines Flehns,
+So zweifl ich nicht mehr, daß dich Gott begeistert.
+
+JOHANNA. Es waren drei Gebete, die du tatst,
+Gib wohl acht, Dauphin, ob ich dir sie nenne!
+Zum ersten flehtest du den Himmel an,
+Wenn unrecht Gut an dieser Krone hafte,
+Wenn eine andre schwere Schuld, noch nicht
+Gebüßt, von deiner Väter Zeiten her,
+Diesen tränenvollen Krieg herbeigerufen,
+Dich zum Opfer anzunehmen für dein Volk,
+Und auszugießen auf dein einzig Haupt
+Die ganze Schale seines Zorns.
+
+KARL (tritt mit Schrecken zurück).
+Wer bist du, mächtig Wesen?
+Woher kommst du?
+(Alle zeigen ihr Erstaunen)
+
+JOHANNA. Du tatst dem Himmel diese zweite Bitte.
+Wenn es sein hoher Schluß und Wille sei,
+Das Szepter deinem Stamme zu entwinden,
+Dir alles zu entziehn, was deine Väter,
+Die Könige in diesem Reich besaßen,
+Drei einzge Güter flehtest du ihn an
+Dir zu bewahren, die zufriedne Brust,
+Des Freundes Herz und deiner Agnes Liebe.
+(König verbirgt das Gesicht heftig weinend, große Bewegung des
+Erstaunens unter den Anwesenden. Nach einer Pause)
+Soll ich dein dritt Gebet dir nun noch nennen?
+
+KARL. Genug! Ich glaube dir! Soviel vermag
+Kein Mensch! Dich hat der höchste Gott gesendet.
+
+ERZBISCHOF. Wer bist du heilig wunderbares Mädchen!
+Welch glücklich Land gebar dich? Sprich! Wer sind
+Die gottgeliebten Eltern, die dich zeugten?
+
+JOHANNA. Ehrwürdger Herr, Johanna nennt man mich,
+Ich bin nur eines Hirten niedre Tochter
+Aus meines Königs Flecken Dom Remi,
+Der in dem Kirchensprengel liegt von Tour
+Und hütete die Schafe meines Vaters
+Von Kind auf--Und ich hörte viel und oft
+Erzählen von dem fremden Inselvolk,
+Das über Meer gekommen, uns zu Knechten
+Zu machen, und den fremdgebornen Herrn
+Uns aufzuzwingen, der das Volk nicht liebt,
+Und daß sie schon die große Stadt Paris
+Innhätten und des Reiches sich ermächtigt.
+Da rief ich flehend Gottes Mutter an,
+Von uns zu wenden fremder Ketten Schmach,
+Uns den einheimschen König zu bewahren.
+Und vor dem Dorf, wo ich geboren, steht
+Ein uralt Muttergottesbild, zu dem
+Der frommen Pilgerfahrten viel geschahn,
+Und eine heilge Eiche steht darneben,
+Durch vieler Wunder Segenskraft berühmt.
+Und in der Eiche Schatten saß ich gern,
+Die Herde weidend, denn mich zog das Herz.
+Und ging ein Lamm mir in den wüsten Bergen
+Verloren, immer zeigte mirs der Traum,
+Wenn ich im Schatten dieser Eiche schlief.
+--Und einsmals als ich eine lange Nacht
+In frommer Andacht unter diesem Baum
+Gesessen und dem Schlafe widerstand,
+Da trat die Heilige zu mir, ein Schwert
+Und Fahne tragend, aber sonst wie ich
+Als Schäferin gekleidet, und sie sprach zu mir:
+"Ich bins. Steh auf, Johanna. Laß die Herde.
+Dich ruft der Herr zu einem anderen Geschäft!
+Nimm diese Fahne! Dieses Schwert umgürte dir!
+Damit vertilge meines Volkes Feinde,
+Und führe deines Herren Sohn nach Reims,
+Und krön ihn mit der königlichen Krone!"
+Ich aber sprach: "Wie kann ich solcher Tat
+Mich unterwinden, eine zarte Magd,
+Unkundig des verderblichen Gefechts!"
+Und sie versetzte: "Eine reine Jungfrau
+Vollbringt jedwedes Herrliche auf Erden,
+Wenn sie der irdschen Liebe widersteht.
+Sich mich an! Eine keusche Magd wie du
+Hab ich den Herrn, den göttlichen, geboren,
+Und göttlich bin ich selbst!"--Und sie berührte
+Mein Augenlid, und als ich aufwärts sah,
+Da war der Himmel voll von Engelknaben,
+Die trugen weiße Lilien in der Hand,
+Und süßer Ton verschwebte in den Lüften.
+--Und so drei Nächte nacheinander ließ
+Die Heilige sich sehn, und rief: "Steh auf, Johanna,
+Dich ruft der Herr zu einem anderen Geschäft."
+Und als sie in der dritten Nacht erschien,
+Da zürnte sie und scheltend sprach sie dieses Wort:
+Gehorsam ist des Weibes Pflicht auf Erden,
+Das harte Dulden ist ihr schweres Los,
+Durch strengen Dienst muß sie geläutert werden,
+Die hier gedienet, ist dort oben groß."
+Und also sprechend ließ sie das Gewand
+Der Hirtin fallen und als Königin
+Der Himmel stand sie da im Glanz der Sonnen,
+Und goldne Wolken trugen sie hinauf
+Langsam verschwindend in das Land der Wonnen.
+(Alle sind gerührt. Agnes Sorel heftig weinend verbirgt ihr
+Gesicht an des Königs Brust)
+
+ERZBISCHOF (nach einem langen Stillschweigen).
+Vor solcher göttlicher Beglaubigung
+Muß jeder Zweifel irdscher Klugheit schweigen.
+Die Tat bewährt es, daß sie Wahrheit spricht,
+Nur Gott allein kann solche Wunder wirken.
+
+DUNOIS. Nicht ihren Wundern, ihrem Auge glaub ich,
+Der reinen Unschuld ihres Angesichts.
+
+KARL. Und bin ich Sündger solcher Gnade wert!
+Untrüglich allerforschend Aug, du siehst
+Mein Innerstes und kennest meine Demut!
+
+JOHANNA. Der Hohen Demut leuchtet hell dort oben,
+Du beugtest dich, drum hat er dich erhoben.
+
+KARL. So werd ich meinen Feinden widerstehn?
+
+JOHANNA. Bezwungen leg ich Frankreich dir zu Füßen!
+
+KARL. Und Orleans sagst du, wird nicht übergehn?
+
+JOHANNA. Eh siehest du die Loire zurückefließen.
+
+KARL. Werd ich nach Reims als Überwinder ziehn?
+
+JOHANNA. Durch tausend Feinde führ ich dich dahin.
+(Alle anwesende Ritter erregen ein Getöse mit ihren Lanzen und
+Schilden, und geben Zeichen des Muts)
+
+DUNOIS. Stell uns die Jungfrau an des Heeres Spitze,
+Wir folgen blind, wohin die Göttliche
+Uns führt! Ihr Seherauge soll uns leiten,
+Und schützen soll sie dieses tapfre Schwert!
+
+LA HIRE. Nicht eine Welt in Waffen fürchten wir,
+Wenn sie einher vor unsern Scharen zieht.
+Der Gott des Sieges wandelt ihr zur Seite,
+Sie führ uns an, die Mächtige, im Streite!
+(Die Ritter erregen ein großes Waffengetös und treten vorwärts)
+
+KARL. Ja heilig Mädchen, führe du mein Heer,
+Und seine Fürsten sollen. dir gehorchen.
+Dies Schwert der höchsten Kriegsgewalt, das uns
+Der Kronfeldherr im Zorn zurückgesendet,
+Hat eine würdigere Hand gefunden.
+Empfange du es, heilige Prophetin,
+Und sei fortan--
+
+JOHANNA. Nicht also, edler Dauphin!
+Nicht durch dies Werkzeug irdischer Gewalt
+Ist meinem Herrn der Sieg verliehn. Ich weiß
+Ein ander Schwert, durch das ich siegen werde.
+Ich will es dir bezeichnen, wie's der Geist
+Mich lehrte, sende hin und laß es holen.
+
+KARL. Nenn es, Johanna.
+
+JOHANNA. Sende nach der alten Stadt
+Fierboys, dort, auf Sankt Kathrinens Kirchhof
+Ist ein Gewölb, wo vieles Eisen liegt,
+Von alter Siegesbeute aufgehäuft.
+Das Schwert ist drunter, das mir dienen soll.
+An dreien goldnen Lilien ists zu kennen,
+Die auf der Klinge eingeschlagen sind,
+Dies Schwert laß holen, denn durch dieses wirst du siegen.
+
+KARL. Man sende hin und tue, wie sie sagt.
+
+JOHANNA. Und eine weiße Fahne laß mich tragen,
+Mit einem Saum von Purpur eingefaßt.
+Auf dieser Fahne sei die Himmelskönigin
+Zu sehen mit dem schönen Jesusknaben,
+Die über einer Erdenkugel schwebt,
+Denn also zeigte mirs die heilge Mutter.
+
+KARL. Es sei so, wie du sagst.
+
+JOHANNA (zum Erzbischof). Ehrwürdger Bischof,
+Legt Eure priesterliche Hand auf mich,
+Und sprecht den Segen über Eure Tochter!
+(Kniet nieder)
+
+ERZBISCHOF. Du bist gekommen, Segen auszuteilen,
+Nicht zu empfangen--Geh mit Gottes Kraft!
+Wir aber sind Unwürdige und Sünder!
+(Sie steht auf)
+
+EDELKNECHT. Ein Herold kommt vom engelländschen Feldherrn.
+
+JOHANNA. Laß ihn eintreten, denn ihn sendet Gott!
+
+(Der König winkt den Edelknecht, der hinausgeht)
+
+
+
+ERSTER AUFZUG
+
+Eilfter Auftritt
+
+Der Herold zu den Vorigen
+
+KARL. Was bringst du, Herold? Sage deinen Auftrag.
+
+HEROLD. Wer ist es, der für Karin von Valois,
+Den Grafen von Ponthieu das Wort hier führt?
+
+DUNOIS. Nichtswürdger Herold! Niederträchtger Bube!
+Erfrechst du dich, den König der Franzosen
+Auf seinem eignen Boden zu verleugnen.
+Dich schützt dein Wappenrock, sonst solltest du--
+
+HEROLD. Frankreich erkennt nur einen einzgen König,
+Und dieser lebt im engelländischen Lager.
+
+KARL. Seid ruhig, Vetter! Deinen Auftrag, Herold!
+
+HEROLD. Mein edler Feldherr, den des Blutes jammert,
+Das schon genossen und noch Lieben soll,
+Hält seiner Krieger Schwert noch in der Scheide,
+Und ehe Orleans im Sturme fällt,
+Läßt er noch gütlichen Vergleich dir bieten.
+
+KARL. Laß hören!
+
+JOHANNA (tritt hervor). Sire! Laß mich an deiner Statt
+Mit diesem Herold reden.
+
+KARL. Tu das, Mädchen!
+Entscheide du, ob Krieg sei oder Friede.
+
+JOHANNA (zum Herold).
+Wer sendet dich und spricht durch deinen Mund?
+
+HEROLD. Der Briten Feldherr, Graf von Salisbury.
+
+JOHANNA. Herold, du lügst! Der Lord spricht nicht durch dich.
+Nur die Lebendgen sprechen, nicht die Toten.
+
+HEROLD. Mein Feldherr lebt in Fülle der Gesundheit
+Und Kraft, und lebt euch allen zum Verderben.
+
+JOHANNA. Er lebte, da du abgingst. Diesen Morgen
+Streckt' ihn ein Schuß aus Orleans zu Boden,
+Als er von Turm La Tournelle niedersaß.
+--Du lachst, weil ich Entferntes dir verkünde?
+Nicht meiner Rede, deinen Augen glaube!
+Begegnen wird dir seiner Leiche Zug,
+Wenn deine Füße dich zurücketragen!
+Jetzt Herold, sprich und sage deinen Auftrag.
+
+HEROLD. Wenn du Verborgnes zu enthüllen weißt,
+So kennst du ihn, noch eh ich dir ihn sage.
+
+JOHANNA. Ich brauch ihn nicht zu wissen, aber du
+Vernimm den meinen jetzt! und diese Worte
+Verkündige den Fürsten, die dich sandten!
+--König von England, und ihr, Herzoge
+Bedford und Gloster, die das Reich verwesen!
+Gebt Rechenschaft dem Könige des Himmels
+Von wegen des vergoßnen Blutes! Gebt
+Heraus die Schlüssel alle von den Städten,
+Die ihr bezwungen wider göttlich Recht,
+Die Jungfrau kommt vom Könige des Himmels,
+Euch Frieden zu bieten oder blutgen Krieg.
+Wählt! Denn das sag ich euch, damit ihre wisset,
+Euch ist das schöne Frankreich nicht beschieden
+Vom Sohne der Maria--sondern Karl
+Mein Herr und Dauphin, dem es Gott gegeben,
+Wird königlich einziehen zu Paris,
+Von allen Großen seines Reichs begleitet.
+--Jetzt Herold, geh und mach dich eilends fort,
+Denn eh du noch das Lager magst erreichen,
+Und Botschaft bringen, ist die Jungfrau dort,
+Und pflanzt in Orleans das Siegeszeichen.
+
+(Sie geht, alles setzt sich in Bewegung, der Vorhang fällt)
+
+
+
+ZWEITER AUFZUG
+
+Gegend von Felsen begrenzt
+
+Erster Auftritt
+
+Talbot und Lionel, englische Heerführer. Philipp Herzog von
+Burgund. Ritter Fastolf und Chatillon mit Soldaten und Fahnen
+
+TALBOT. Hier unter diesen Felsen lasset uns
+Haltmachen und ein festes Lager schlagen,
+Ob wir vielleicht die tüchtgen Völker wieder sammeln,
+Die in dem ersten Schrecken sich zerstreut.
+Stellt gute Wachen aus, besetzt die Höhn!
+Zwar sichert uns die Nacht vor der Verfolgung,
+Und wenn der Gegner nicht auch Flügel hat,
+So fürcht ich keinen Überfall.--Dennoch
+Bedarfs der Vorsicht, denn wir haben es
+Mit einem kecken Feind und sind geschlagen.
+(Ritter Fastolf geht ab mit den Soldaten)
+
+LIONEL. Geschlagen! Feldherr, nennt das Wort nicht mehr.
+Ich darf es mir nicht denken, daß der Franke
+Des Engelländers Rücken heut gesehn.
+--O Orleans! Orleans! Grab unsers Ruhms!
+Auf deinen Feldern liegt die Ehre Englands.
+Beschimpfend lächerliche Niederlage!
+Wer wird es glauben in der künftgen Zeit!
+Die Sieger bei Poitiers, Crequi
+Und Azincourt gejagt von einem Weibe!
+
+BURGUND. Das muß uns trösten. Wir sind nicht von Menschen
+Besiegt, wir sind vom Teufel überwunden.
+
+TALBOT. Vom Teufel unsrer Narrheit--Wie, Burgund?
+Schreckt dies Gespenst des Pöbels auch die Fürsten?
+Der Aberglaube ist ein schlechter Mantel
+Für Eure Feigheit--Eure Völker Hohn zuerst.
+
+BURGUND. Niemand hielt stand. Das Fliehn war allgemein.
+
+TALBOT. Nein, Herr! Auf Eurem Flügel fing es an.
+Ihr stürztet Euch in unser Lager, schreiend:
+"Die Höll ist los, der Satan kämpft für Frankreich!"
+Und brachtet so die Unsern in Verwirrung.
+
+LIONEL. Ihr könnts nicht leugnen. Euer Flügel wich zuerst.
+
+BURGUND. Weil dort der erste Angriff war.
+
+TALBOT. Das Mädchen kannte unsers Lagers Blöße,
+Sie wußte, wo die Furcht zu finden war.
+
+BURGUND. Wie? Soll Burgund die Schuld des Unglücks tragen?
+
+LIONEL. Wir Engelländer, waren wir allein,
+Bei Gott! Wir hätten Orleans nicht verloren!
+
+BURGUND. Nein--denn ihr hättet Orleans nie gesehn!
+Wer bahnte euch den Weg in dieses Reich,
+Reicht' euch die treue Freundeshand, als ihr
+An diese feindlich fremde Küste stieget?
+Wer krönte euren Heinrich zu Paris,
+Und unterwarf ihm der Franzosen Herzen?
+Bei Gott! Wenn dieser starke Arm euch nicht
+Hereingeführt, ihr sahet nie den Rauch
+Von einem Fränkischen Kamine steigen!
+
+LIONEL. Wenn es die großen Worte täten, Herzog,
+So hättet Ihr allein Frankreich erobert.
+
+BURGUND. Ihr seid unlustig, weil euch Orleans
+Entging, und laßt nun eures Zornes Galle
+An mir, dem Bundsfreund, aus. Warum entging
+Uns Orleans, als eurer Habsucht wegen?
+Es war bereit, sich mir zu übergeben,
+Ihr, euer Neid allein hat es verhindert.
+
+TALBOT. Nicht Eurentwegen haben wirs belagert.
+
+BURGUND. Wie stünds um euch, zög ich mein Heer zurück?
+
+Lionel. Nicht schlimmer, glaubt mir, als bei Azincourt,
+Wo wir mit Euch und mit ganz Frankreich fertig wurden.
+
+BURGUND. Doch tats euch sehr um unsre Freundschaft not,
+Und teuer kaufte sie der Reichsverweser.
+
+TALBOT. Ja teuer, teuer haben wir sie heut
+Vor Orleans bezahlt mit unsrer Ehre.
+
+BURGUND. Treibt es nicht weiter, Lord, es könnt Euch reuen!
+Verließ ich meines Herrn gerechte Fahnen,
+Lud auf mein Haupt den Namen des Verräters,
+Um von dem Fremdling solches zu ertragen?
+Was tu ich hier und fechte gegen Frankreich?
+Wenn ich dem Undankbaren dienen soll,
+So will ichs meinem angebornen König.
+
+TALBOT. Ihr steht in Unterhandlung mit dem Dauphin,
+Wir Wissens, doch wir werden Mittel finden,
+Uns vor Verrat zu schützen.
+
+BURGUND. Tod und Hölle!
+Begegnet man mir so?--Chatillon!
+Laß meine Völker sich zum Aufbruch rüsten,
+Wir gehn in unser Land zurück.
+(Chatillon geht ab)
+
+LIONEL. Glück auf den Weg!
+Nie war der Ruhm des Briten glänzender,
+Als da er seinem guten Schwert allein
+Vertrauend ohne Helfershelfer focht.
+Es kämpfe jeder seine Schlacht allein,
+Denn ewig bleibt es wahr! Französisch Blut
+Und englisch kann sich redlich nie vermischen.
+
+
+
+ZWEITER AUFZUG
+
+Zweiter Auftritt
+
+Königin Isabella von einen Pagen begleitet zu den Vorigen
+
+ISABEAU. Was muß ich hören, Feldherrn! Haltet ein!
+Was für ein hirnverrückender Planet
+Verwirrt euch also die gesunden Sinne?
+Jetzt, da euch Eintracht nur erhalten kann,
+Wollt ihr in Haß euch trennen und euch selbst
+Befehdend euren Untergang bereiten?
+--Ich bitt Euch, edler Herzog.
+Ruft den raschen Befehl zurück.--Und Ihr, ruhmvoller Talbot,
+Besänftiget den aufgebrachten Freund!
+Kommt, Lionel, helft mir die stolzen Geister
+Zufriedensprechen und Versöhnung stiften.
+
+LIONEL. Ich nicht, Mylady. Mir ist alles gleich.
+Ich denke so: was nicht zusammen kann
+Bestehen, tut am besten sich zu lösen.
+
+ISABEAU. Wie? Wirkt der Hölle Gaukelkunst, die uns
+Im Treffen so verderblich war, auch hier
+Noch fort uns sinnverwirrend zu betören?
+Wer fing den Zank an? Redet!--Edler Lord!
+(Zu Talbot) Seid Ihrs, der seines Vorteils so vergaß,
+Den werten Bundsgenossen zu verletzen?
+Was wollt Ihr schaffen ohne diesen Arm?
+Er baute Eurem König seinen Thron,
+Er hält ihn noch und stürzt ihn, wenn er will,
+Sein Heer verstärkt Euch und noch mehr sein Name.
+Ganz England, strömt' es alle seine Bürger
+Auf unsre Küsten aus, vermöchte nicht
+Dies Reich zu zwingen, wenn es einig ist,
+Nur Frankreich konnte Frankreich überwinden.
+
+TALBOT. Wir wissen den getreuen Freund zu ehren.
+Dem falschen wehren ist der Klugheit Pflicht.
+
+BURGUND. Wer treulos sich des Dankes will entschlagen,
+Dem fehlt des Lügners freche Stirne nicht.
+
+ISABEAU. Wie, edler Herzog, Könntet Ihr so sehr
+Der Scham absagen und der Fürstenehre,
+In jene Hand, die Euren Vater mordete,
+Die Eurige zu legen? Wärt Ihr rasend
+Genug, an eine redliche Versöhnung
+Zu glauben mit dem Dauphin, den Ihr selbst
+An des Verderbens Rand geschleudert habt?
+So nah dem Falle wolltet Ihr ihn halten,
+Und Euer Werk wahnsinnig selbst zerstören?
+Hier stehen Eure Freunde. Euer Heil
+Ruht in dem festen Bunde nur mit England.
+
+BURGUND. Fern ist mein Sinn vom Frieden mit dem Dauphin,
+Doch die Verachtung und den Übermut
+Des stolzen Englands kann ich nicht ertragen.
+
+ISABEAU. Kommt! Haltet ihm ein rasches Wort zugut.
+Schwer ist der Kummer, der den Feldherrn drückt,
+Und ungerecht, Ihr wißt es, macht das Unglück.
+Kommt! Kommt! Umarmt euch, laßt mich diesen Riß
+Schnell heilend schließen, eh er ewig wird.
+
+TALBOT. Was dünket Euch, Burgund? Ein edles Herz
+Bekennt sich gern von der Vernunft besiegt.
+Die Königin hat ein kluges Wort geredet,
+Laßt diesen Händedruck die Wunde heilen,
+Die meine Zunge übereilend schlug.
+
+BURGUND. Madame sprach ein verständig Wort, und mein
+Gerechter Zorn weicht der Notwendigkeit.
+
+ISABEAU. Wohl! So besiegelt den erneuten Bund
+Mit einem brüderlichen Kuß und mögen
+Die Winde das Gesprochene verwehen.
+(Burgund und Talbot umarmen sich)
+
+LIONEL (betrachtet die Gruppe, für sich).
+Glück zu dem Frieden, den die Furie stiftet!
+
+ISABEAU. Wir haben eine Schlacht verloren, Feldherrn,
+Das Glück war uns zuwider, darum aber
+Entsink euch nicht der edle Mut. Der Dauphin
+Verzweifelt an des Himmels Schutz und ruft
+Des Satans Kunst zu Hülfe, doch er habe
+Umsonst sich der Verdammnis übergeben,
+Und seine Hölle selbst errett ihn nicht.
+Ein sieghaft Mädchen führt des Feindes Heer,
+Ich will das eure führen, ich will euch
+Statt einer Jungfrau und Prophetin sein.
+
+LIONEL.. Madame, geht nach Paris zurück. Wir wollen
+Mit guten Waffen, nicht mit Weibern siegen.
+
+TALBOT. Geht! Geht! Seit Ihr im Lager seid, geht alles
+Zurück, kein Segen ist mehr in unsern Waffen.
+
+BURGUND. Geht! Eure Gegenwart schafft hier nichts Gutes,
+Der Krieger nimmt ein Ärgernis an Euch.
+
+ISABEAU (sieht einen um den andern erstaunt an).
+Ihr auch, Burgund? Ihr nehmet wider mich
+Partei mit diesen undankbaren Lords?
+
+BURGUND. Geht! Der Soldat verliert den guten Mut,
+Wenn er für Eure Sache glaubt zu fechten.
+
+ISABEAU. Ich hab kaum Frieden zwischen euch gestiftet,
+So macht ihr schon ein Bündnis wider mich?
+
+TALBOT. Geht, geht mit Gott, Madame. Wir fürchten uns
+Vor keinem Teufel mehr, sobald Ihr wegseid.
+
+ISABEAU. Bin ich nicht eure treue Bundsgenossin?
+Ist eure Sache nicht die meinige?
+
+TALBOT. Doch Eure nicht die unsrige. Wir sind
+In einem ehrlich guten Streit begriffen.
+
+BURGUND. Ich räche eines Vaters blutgen Mord,
+Die fromme Sohnspflicht heiligt meine Waffen.
+
+TALBOT. Doch gradheraus! Was Ihr am Dauphin tut,
+Ist weder menschlich gut, noch göttlich recht.
+
+ISABEAU. Fluch soll ihn treffen bis ins zehnte Glied!
+Er hat gefrevelt an dem Haupt der Mutter.
+
+BURGUND. Er rächte einen Vater und Gemahl.
+
+ISABEAU. Er warf sich auf zum Richter meiner Sitten!
+
+LIONEL. Das war unehrerbietig von dem Sohn!
+
+ISABEAU. In die Verbannung hat er mich geschickt.
+
+TALBOT. Die öffentliche Stimme zu vollziehn.
+
+ISABEAU. Fluch treffe mich, wenn ich ihm je vergebe!
+Und eh er herrscht in seines Vaters Reich--
+
+TALBOT. Eh opfert Ihr die Ehre seiner Mutter!
+
+ISABEAU. Ihr wißt nicht, schwache Seelen,
+Was ein beleidigt Mutterherz vermag.
+Ich liebe, wer mir Gutes tut, und hasse,
+Wer mich verletzt, und ists der eigne Sohn,
+Den ich geboren, desto hassenswerter.
+Dem ich das Dasein gab, will ich es rauben,
+Wenn er mit ruchlos frechem Übermut
+Den eignen Schoß verletzt, der ihn getragen.
+Ihr die ihr Krieg führt gegen meinen Sohn,
+Ihr habt nicht Recht, noch Grund ihn zu berauben.
+Was hat der Dauphin Schweres gegen euch
+Verschuldet? Welche Pflichten brach er euch?
+Euch treibt die Ehrsucht, der gemeine Neid,
+Ich darf ihn hassen, ich hab ihn geboren.
+
+TALBOT. Wohl, an der Rache fühlt er seine Mutter!
+
+ISABEAU. Armselge Gleisner, wie veracht ich euch,
+Die ihr euch selbst so wie die Welt belügt!
+Ihr Engelländer streckt die Räuberhände
+Nach diesem Frankreich aus, wo ihr nicht Recht
+Noch gültgen Anspruch habt auf so viel Erde,
+Als eines Pferdes Huf bedeckt.--Und dieser Herzog,
+Der sich den Guten schelten läßt, verkauft
+Sein Vaterland, das Erbreich seiner Ahnen
+Dem Reichsfeind und dem fremden Herrn.--Gleichwohl
+Ist euch das dritte Wort Gerechtigkeit.
+--Die Heuchelei veracht ich. Wie ich bin,
+So sehe mich das Aug der Welt.
+
+BURGUND. Wahr ists!
+Den Ruhm habt Ihr mit starkem Geist behauptet.
+
+ISABEAU. Ich habe Leidenschaften, warmes Blut
+Wie eine andre, und ich kam als Königin
+In dieses Land, zu leben, nicht zu scheinen.
+Sollt ich der Freud absterben, weil der Fluch
+Des Schicksals meine lebensfrohe Jugend
+Zu dem wahnsinngen Gatten hat gesellt?
+Mehr als das Leben lieb ich meine Freiheit,
+Und wer mich hier verwundet--Doch warum
+Mit euch mich streiten über meine Rechte?
+Schwer fließt das dicke Blut in euren Adern,
+Ihr kennt nicht das Vergnügen, nur die Wut!
+Und dieser Herzog, der sein Lebenlang
+Geschwankt hat zwischen Bös und Gut, kann nicht
+Von Herzen hassen noch von Herzen lieben.
+--Ich geh nach Melun. Gebt mir diesen da,
+(auf Lionel zeigend) Der mir gefällt, zur Kurzweil und Gesellschaft,
+Und dann macht, was ihr wollt! Ich frage nichts
+Nach den Burgundern noch den Engelländern.
+(Sie winkt ihrem Pagen und will gehen)
+
+LIONEL. Verlaßt Euch drauf. Die schönsten Frankenknaben,
+Die wir erbeuten, schicken wir nach Melun.
+
+ISABEAU (zurückkommend).
+Wohl taugt ihr, mit dem Schwerte dreinzuschlagen,
+Der Franke nur weiß Zierliches zu sagen. (Sie geht ab)
+
+
+
+ZWEITER AUFZUG
+
+Dritter Auftritt
+
+Talbot. Burgund. Lionel
+
+TALBOT. Was für ein Weib!
+
+LIONEL. Nun eure Meinung, Feldherrn!
+Fliehn wir noch weiter oder wenden uns
+Zurück, durch einen schnellen kühnen Streich
+Den Schimpf des heutgen Tages auszulöschen?
+
+BURGUND. Wir sind zu schwach, die Völker sind zerstreut,
+Zu neu ist noch der Schrecken in dem Heer.
+
+TALBOT. Ein blinder Schrecken nur hat uns besiegt,
+Der schnelle Eindruck eines Augenblicks.
+Dies Furchtbild der erschreckten Einbildung
+Wird, näher angesehn, in nichts verschwinden.
+Drum ist mein Rat, wir führen die Armee
+Mit Tagesanbruch über den Strom zurück,
+Dem Feind entgegen.
+
+BURGUND. Überlegt--
+
+LIONEL. Mit Eurer
+Erlaubnis. Hier ist nichts zu überlegen.
+Wir müssen das Verlorne schleunig wieder
+Gewinnen oder sind beschimpft auf ewig.
+
+TALBOT. Es ist beschlossen. Morgen schlagen wir.
+Und dies Phantom des Schreckens zu zerstören,
+Das unsre Völker blendet und entmannt,
+Laßt uns mit diesem jungfräulichen Teufel
+Uns messen in persönlichem Gefecht.
+Stellt sie sich unserm tapfern Schwert, nun dann,
+So hat sie uns zum letztenmal geschadet,
+Stellt sie sich nicht, und seid gewiß, sie meidet
+Den ernsten Kampf, so ist das Heer entzaubert.
+
+LIONEL. So seis! Und mir, mein Feldherr, überlasset
+Dies leichte Kampfspiel, wo kein Blut soll fließen.
+Denn lebend denk ich das Gespenst zu fangen,
+Und vor des Bastards Augen, ihres Buhlen,
+Trag ich auf diesen Armen sie herüber
+Zur Lust des Heers, in das britannsche Lager.
+
+BURGUND. Versprechet nicht zu viel.
+
+TALBOT. Erreich ich sie,
+Ich denke sie so sanft nicht zu umarmen.
+Kommt jetzo, die ermüdete Natur
+Durch einen leichten Schlummer zu erquicken,
+Und dann zum Aufbruch mit der Morgenröte. (Sie gehen ab)
+
+
+
+ZWEITER AUFZUG
+
+Vierter Auftritt
+
+Johanna mit der Fahne, in Helm und Brustharnisch, sonst aber
+weiblich gekleidet, Dunois, La Hire, Ritter und Soldaten zeigen
+sich oben auf dem Felsenweg, ziehen still darüber hinweg, und
+erscheinen gleich darauf auf der Szene
+
+JOHANNA (zu den Rittern, die sie umgeben, indem der Zug oben
+immer noch fortwährt). Erstiegen ist der Wall, wir sind im Lager!
+Jetzt werft die Hülle der verschwiegner Nacht
+Von euch, die euren stillen Zug verhehlte,
+Und macht dem Feinde eure Schreckensnähe
+Durch lauten Schlachtruf kund--Gott und die Jungfrau!
+
+ALLE (rufen laut unter wildem Waffengetös).
+Gott und die Jungfrau! (Trommeln und Trompeten)
+
+SCHILDWACHE (hinter der Szene). Feinde! Feinde! Feinde!
+
+JOHANNA. Jetzt Fackeln her! Werft Feuer in die Zelte!
+Der Flammen Wut vermehre das Entsetzen,
+Und drohend rings umfange sie der Tod!
+(Soldaten eilen fort, sie will folgen)
+
+DUNOIS (hält sie zurück). Du hast das Deine nun erfüllt, Johanna!
+Mitten ins Lager hast du uns geführt,
+Den Feind hast du in unsre Hand gegeben.
+Jetzt aber bleibe von dem Kampf zurück,
+Uns überlaß die blutige Entscheidung.
+
+LA HIRE. Den Weg des Siegs bezeichne du dem Heer,
+Die Fahne trag uns vor in reiner Hand,
+Doch nimm das Schwert, das tödliche, nicht selbst,
+Versuche nicht den falschen Gott der Schlachten,
+Denn blind und ohne Schonung waltet er.
+
+JOHANNA. Wer darf mir Halt gebieten? Wer dem Geist
+Vorschreiben, der mich führt? Der Pfeil muß fliegen,
+Wohin die Hand ihn seines Schützen treibt.
+Wo die Gefahr ist, muß Johanna sein,
+Nicht heut, nicht hier ist mir bestimmt zu fallen,
+Die Krone muß ich sehn auf meines Königs Haupt,
+Dies Leben wird kein Gegner mir entreißen,
+Bis ich vollendet, was mir Gott geheißen. (Sie geht ab)
+
+LA HIRE. Kommt, Dunois! Laßt uns der Heldin folgen,
+Und ihr die tapfre Brust zum Schilde leihn! (Gehen ab)
+
+
+
+ZWEITER AUFZUG
+
+Fünfter Auftritt
+
+Englische Soldaten fliehen über die Bühne. Hierauf Talbot
+
+ERSTER. Das Mädchen! Mitten im Lager!
+
+ZWEITER. Nicht möglich! Nimmermehr! Wie kam sie in das Lager?
+
+DRITTER. Durch die Luft! Der Teufel hilft ihr!
+
+VIERTER und FÜNFTER.
+Flieht! Flieht! Wir sind alle des Todes! (Gehen ab)
+
+TALBOT (kommt). Sie hören nicht--Sie wollen mir nicht stehn!
+Gelöst sind alle Bande des Gehorsams,
+Als ob die Hölle ihre Legionen
+Verdammter Geister ausgespieen, reißt
+Ein Taumelwahn den Tapfern und den Feigen
+Gehirnlos fort, nicht eine kleine Schar
+Kann ich der Feinde Flut entgegenstellen,
+Die wachsend, wogend in das Lager dringt!
+--Bin ich der einzig Nüchterne und alles
+Muß um mich her in Fiebers Hitze rasen?
+Vor diesen fränkschen Weichlingen zu fliehn,
+Die wir in zwanzig Schlachten überwunden!--
+Wer ist sie denn, die Unbezwingliche,
+Die Schreckensgöttin, die der Schlachten Glück
+Auf einmal wendet, und ein schüchtern Heer
+Von feigen Rehn in Löwen umgewandelt?
+Eine Gauklerin, die die gelernte Rolle
+Der Heldin spielt, soll wahre Helden schrecken?
+Ein Weib entriß mir allen Siegesruhm?
+
+SOLDAT (stürzt herein). Das Mädchen! Flieh! Flieh, Feldherr!
+
+TALBOT (stößt ihn nieder). Flieh zur Hölle
+Du selbst! Den soll dies Schwert durchbohren,
+Der mir von Furcht spricht und von feiger Flucht. (Er geht ab)
+
+
+
+ZWEITER AUFZUG
+
+Sechster Auftritt
+
+Der Prospekt öffnet sich. Man sieht das englische Lager in
+vollen Flammen stehen. Trommeln, Flucht und Verfolgung. Nach
+einer Weile kommt Montgomery
+
+MONTGOMERY (allein).
+Wo soll ich hinfliehn? Feinde ringsumher und Tod!
+Hier der ergrimmte Feldherr, der mit drohndem Schwert
+Die Flucht versperrend uns dem Tod entgegentreibt.
+Dort die Fürchterliche, die verderblich um sich her
+Wie die Brunst des Feuers raset--Und ringsum kein Busch,
+Der mich verbärge, keiner Höhle sichtet Raum!
+O wär ich nimmer über Meer hieher geschifft,
+Ich Unglückselger! Eitler Wahn betörte mich,
+Wohlfeilen Ruhm zu suchen in dem Frankenkrieg,
+Und jetzo führt mich das verderbliche Geschick
+In diese blutge Mordschlacht.--Wär ich weit von hier
+Daheim noch an der Savern' blühendem Gestad,
+Im sichern Vaterhause, wo die Mutter mir
+In Gram zurückblieb und die zarte süße Braut.
+(Johanna zeigt sich in der Ferne)
+Weh mir! Was seh ich! Dort erscheint die Schreckliche!
+Aus Brandes Flammen, düster leuchtend, hebt sie sich,
+Wie aus der Hölle Rachen ein Gespenst der Nacht
+Hervor.--Wohin entrinn ich! Schon ergreift sie mich
+Mit ihren Feueraugen, wirft von fern
+Der Blicke Schlingen nimmer fehlend nach mir aus.
+Um meine Füße, fest und fester, wirret sich
+Das Zauberknäuel, daß sie gefesselt mir die Flucht
+Versagen! Hinsehn muß ich, wie das Herz mir auch
+Dagegen kämpfe, nach der tödlichen Gestalt!
+(Johanna tut einige Schritte ihm entgegen, und bleibt wieder
+stehen)
+Sie naht! Ich will nicht warten, bis die Grimmige
+Zuerst mich anfällt! Bittend will ich ihre Knie
+Umfassen, um mein Leben flehn, sie ist ein Weib,
+Ob ich vielleicht durch Tränen sie erweichen kann!
+
+(Indes er auf sie zugehen will, tritt sie ihm rasch entgegen)
+
+
+
+ZWEITER AUFZUG
+
+Siebenter Auftritt
+
+Johanna. Montgomery
+
+JOHANNA. Du bist des Todes! Eine britsche Mutter zeugte dich.
+
+MONTGOMERY (fällt ihr zu Füßen).
+Halt ein, Furchtbare! Nicht den Unverteidigten
+Durchbohre. Weggeworfen hab ich Schwert und Schild,
+Zu deinen Füßen sink ich wehrlos, flehend hin.
+Laß mir das Licht des Lebens, nimm ein Lösegeld.
+Reich an Besitztum wohnt der Vater mir daheim
+Im schönen Lande Wallis, wo die schlängelnde
+Savern' durch grüne Auen rollt den Silberstrom,
+Und fünfzig Dörfer kennen seine Herrschaft an.
+Mit reichem Golde löst er den geliebten Sohn,
+Wenn er mich im Frankenlager lebend noch vernimmt.
+
+JOHANNA. Betrogner Tor! Verlorner! In der Jungfrau Hand
+Bist du gefallen, die verderbliche, woraus
+Nicht Rettung noch Erlösung mehr zu hoffen ist.
+Wenn dich das Unglück in des Krokodils Gewalt
+Gegeben oder des gefleckten Tigers Klaun,
+Wenn du der Löwenmutter junge Brut geraubt,
+Du könntest Mitleid finden und Barmherzigkeit,
+Doch tödlich ists, der Jungfrau zu begegnen.
+Denn dem Geisterreich, dem strengen, unverletzlichen,
+Verpflichtet mich der furchtbar bindende Vertrag,
+Mit dem Schwert zu töten alles Lebende, das mir
+Der Schlachten Gott verhängnisvoll entgegenschickt.
+
+MONTGOMERY. Furchtbar ist deine Rede, doch dein Blick ist sanft,
+Nicht schrecklich bist du in der Nähe anzuschaun,
+Es zieht das Herz mich zu der lieblichen Gestalt.
+O bei der Milde deines zärtlichen Geschlechts
+Fleh ich dich an. Erbarme meiner Jugend dich!
+
+JOHANNA. Nicht mein Geschlecht beschwöre! Nenne mich nicht Weib.
+Gleichwie die körperlosen Geister, die nicht frein
+Auf irdsche Weise, schließ ich mich an kein Geschlecht
+Der Menschen an, und dieser Panzer deckt kein Herz.
+
+MONTGOMERY. O bei der Liebe heilig wallendem Gesetz,
+Dem alle Herzen huldigen, beschwör ich dich.
+Daheimgelassen hab ich eine holde Braut,
+Schön wie du selbst bist, blühend in der Jugend
+Sie harret weinend des Geliebten Wiederkunft,
+O wenn du selber je zu lieben hoffst, und hoffst
+Beglückt zu sein durch Liebe! Trenne grausam nicht
+Zwei Herzen, die der Liebe heilig Bündnis knüpft!
+
+JOHANNA. Du rufest lauter irdisch fremde Götter an,
+Die mir nicht heilig, noch verehrlich sind. Ich weiß
+Nichts von der Liebe Bündnis, das du mir beschwörst,
+Und nimmer kennen werd ich ihren eiteln Dienst.
+Verteidige dein Leben, denn dir ruft der Tod.
+
+MONTGOMERY. O so erbarme meiner jammervollen Eltern dich,
+Die ich zu Haus verlassen. Ja gewiß auch du
+Verließest Eltern, die die Sorge quält um dich.
+
+JOHANNA. Unglücklicher! Und du erinnerst mich daran,
+Wie viele Mütter dieses Landes kinderlos,
+Wie viele zarte Kinder vaterlos, wie viel
+Verlobte Bräute Witwen worden sind durch euch!
+Auch Englands Mütter mögen die Verzweiflung nun
+Erfahren, und die Tränen kennenlernen,
+Die Frankreichs jammervolle Gattinnen geweint.
+
+MONTGOMERY. O schwer ists, in der Fremde sterben unbeweint.
+
+JOHANNA. Wer rief euch in das fremde Land, den blühnden Fleiß
+Der Felder zu verwüsten, von dem heimschen Herd
+Uns zu verjagen und des Krieges Feuerbrand
+Zu werfen in der Städte friedlich Heiligtum?
+Ihr träumtet schon in eures Herzens eitelm Wahn,
+Den freigebornen Franken in der Knechtschaft Schmach
+Zu stürzen und dies große Land, gleichwie ein Boot,
+An euer stolzes Meerschiff zu befestigen!
+Ihr Toren! Frankreichs königliches Wappen hängt
+Am Throne Gottes, eher rißt ihr einen Stern
+Vom Himmelwagen, als ein Dorf aus diesem Reich,
+Dem unzertrennlich ewig einigen!--Der Tag
+Der Rache ist gekommen, nicht lebendig mehr
+Zurückemessen werdet ihr das heilge Meer,
+Das Gott zur Länderscheide zwischen euch und uns
+Gesetzt, und das ihr frevelnd überschritten habt.
+
+MONTGOMERY (läßt ihre Hand los).
+O ich muß sterben! Grausend faßt mich schon der Tod.
+
+JOHANNA. Stirb, Freund! Warum so zaghaft zittern vor dem Tod,
+Dem unentfliehbaren Geschick?--Sieh mich an! Sieh!
+Ich bin nur eine Jungfrau, eine Schäferin
+Geboren, nicht des Schwerts gewohnt ist diese Hand,
+Die den unschuldig frommen Hirtenstab geführt.
+Doch weggerissen von der heimatlichen Flur,
+Vom Vaters Busen, von der Schwestern lieber Brust
+Muß ich hier, ich muß--mich treibt die Götterstimme, nicht
+Eignes Gelüsten,--euch zu bitterm Harm, mir nicht
+Zur Freude, ein Gespenst des Schreckens würgend gehn,
+Den Tod verbreiten und sein Opfer sein zuletzt!
+Denn nicht den Tag der frohen Heimkehr werd ich sehn,
+Noch vielen von den Euren werd ich tödlich sein,
+Noch viele Witwen machen, aber endlich werd
+Ich selbst umkommen und erfüllen mein Geschick.
+--Erfülle du auch deines. Greife frisch zum Schwert,
+Und um des Lebens süße Beute kämpfen wir.
+
+MONTGOMERY (steht auf).
+Nun, wenn du sterblich bist wie ich und Waffen dich
+Verwunden, kanns auch meinem Arm beschieden sein,
+Zur Höll dich sendend Englands Not zu endigen.
+In Gottes gnädge Hände leg ich mein Geschick.
+Ruf du Verdammte deine Höllengeister an,
+Dir beizustehen! Wehre deines Lebens dich!
+
+(Er ergreift Schild und Schwert und dringt auf sie ein,
+kriegerische Musik erschallt in der Ferne, nach einen kurzen
+Gefechte fällt Montgomery)
+
+
+
+ZWEITER AUFZUG
+
+Achter Auftritt
+
+Johanna allein
+
+Dich trug dein Fuß zum Tode--Fahre hin!
+(Sie tritt von ihm weg und bleibt gedankenvoll stehen)
+Erhabne Jungfrau, du wirkst Mächtiges in mir!
+Du rüstest den unkriegerischen Arm mit Kraft,
+Dies Herz mit Unerbittlichkeit bewaffnest du.
+In Mitleid schmilzt die Seele und die Hand erbebt,
+Als bräche sie in eines Tempels heilgen Bau,
+Den blühenden Leib des Gegners zu verletzen,
+Schon vor des Eisens blanker Schneide schaudert mir,
+Doch wenn es not tut, alsbald ist die Kraft mir da,
+Und nimmer irrend in der zitternden Hand regiert
+Das Schwert sich selbst, als wär es ein lebendger Geist.
+
+
+
+ZWEITER AUFZUG
+
+Neunter Auftritt
+
+Ein Ritter mit geschloßnem Visier. Johanna
+
+RITTER. Verfluchte! Deine Stunde ist gekommen,
+Dich sucht ich auf dem ganzen Feld der Schlacht.
+Verderblich Blendwerk! Fahre zu der Hölle
+Zurück, aus der du aufgestiegen bist.
+
+JOHANNA. Wer bist du, den sein böser Engel mir
+Entgegen schickt? Gleich eines Fürsten ist
+Dein Anstand, auch kein Brite scheinst du mir,
+Denn dich bezeichnet die burgundsche Binde,
+Vor der sich meines Schwertes Spitze neigt.
+
+RITTER. Verworfne, du verdientest nicht zu fallen
+Von eines Fürsten edler Hand. Das Beil
+Des Henkers sollte dein verdammtes Haupt
+Vom Rumpfe trennen, nicht der tapfre Degen
+Des königlichen Herzogs von Burgund.
+
+JOHANNA. So bist du dieser edle Herzog selbst?
+
+RITTER (schlägt das Visier auf).
+Ich bins. Elende, zittre und verzweifle!
+Die Satanskünste schützen dich nicht mehr,
+Du hast bis jetzt nur Schwächlinge bezwungen,
+Ein Mann steht vor dir.
+
+
+
+ZWEITER AUFZUG
+
+Zehnter Auftritt
+
+Dunois und La Hire zu den Vorigen
+
+DUNOIS. Wende dich, Burgund!
+Mit Männern kämpfe, nicht mit Jungfrauen.
+
+LA HIRE. Wir schützen der Prophetin heilig Haupt,
+Erst muß dein Degen diese Brust durchbohren--
+
+BURGUND. Nicht diese buhlerische Circe fürcht ich,
+Noch euch, die sie so schimpflich hat verwandelt.
+Erröte, Bastard, Schande dir, La Hire,
+Daß du die alte Tapferkeit zu Künsten
+Der Höll erniedrigst, den verächtlichen
+Schildknappen einer Teufelsdirne machst.
+Kommt her! Euch allen biet ichs! Der verzweifelt
+An Gottes Schutz, der zu dem Teufel flieht.
+(Sie bereiten sich zum Kampf, Johanna tritt dazwischen)
+
+JOHANNA. Haltet inne!
+
+BURGUND. Zitterst du für deinen Buhlen?
+Vor deinen Augen soll er--(Dringt auf Dunois ein)
+
+JOHANNA. Haltet inne!
+Trennt sie, La Hire--Kein französisch Blut soll fließen!
+Nicht Schwerter sollen diesen Streit entscheiden.
+Ein andres ist beschlossen in den Sternen--
+Auseinander sag ich--Höret und verehrt
+Den Geist, der mich ergreift, der aus mir redet!
+
+DUNOIS. Was hältst du meinen aufgehobnen Arm,
+Und hemmst des Schwertes blutige Entscheidung?
+Das Eisen ist gezückt, es fällt der Streich,
+Der Frankreich rächen und versöhnen soll.
+
+JOHANNA (stellt sich in die Mitte und trennt beide Teile durch
+einen weiten Zwischenraum, zum Bastard). Tritt auf die Seite!
+(Zu La Hire) Bleib gefesselt stehen!
+Ich habe mit dem Herzoge zu reden.
+(Nachdem alles ruhig ist)
+Was willst du tun, Burgund? Wer ist der Feind,
+Den deine Blicke mordbegierig suchen?
+Dieser edle Prinz ist Frankreichs Sohn wie du
+Dieser Tapfre ist dein Waffenfreund und Landsmann,
+Ich selbst bin deines Vaterlandes Tochter.
+Wir alle, die du zu vertilgen strebst,
+Gehören zu den Deinen--unsre Arme
+Sind aufgetan dich zu empfangen, unsre Knie
+Bereit dich zu verehren--unser Schwert
+Hat keine Spitze gegen dich. Ehrwürdig
+Ist uns das Antlitz, selbst im Feindeshelm,
+Das unsers Königs teure Züge trägt.
+
+BURGUND. Mit süßer Rede schmeichlerischem Ton
+Willst du Sirene! deine Opfer locken.
+Arglistge, mich betörst du nicht. Verwahrt
+Ist mir das Ohr vor deiner Rede Schlingen
+Und deines Auges Feuerpfeile gleiten
+Am guten Harnisch meines Busens ab.
+Zu den Waffen, Dunois!
+Mit Streichen nicht mit Worten laß uns fechten.
+
+DUNOIS. Erst Worte und dann Streiche. Fürchtest du
+Vor Worten dich? Auch das ist Feigheit
+Und der Verräter einer bösen Sache.
+
+JOHANNA. Uns treibt nicht die gebieterische Not
+Zu deinen Füßen, nicht als Flehende
+Erscheinen wir vor dir.--Blick um dich her!
+In Asche liegt das engelländsche Lager,
+Und eure Toten decken das Gefild.
+Du hörst der Franken Kriegstrommete tönen,
+Gott hat entschieden, unser ist der Sieg.
+Des schönen Lorbeers frisch gebrochnen Zweig
+Sind wir bereit, mit unserm Freund zu teilen.
+--O komm herüber! Edler Flüchtling komm!
+Herüber, wo das Recht ist und der Sieg.
+Ich selbst, die Gottgesandte, reiche dir
+Die schwesterliche Hand. Ich will dich rettend
+Herüberziehn auf unsre reine Seite!--
+Der Himmel ist für Frankreich. Seine Engel,
+Du siehst sie nicht, sie fechten für den König,
+Sie alle sind mit Lilien geschmückt,
+Lichtweiß wie diese Fahn ist unsre Sache,
+Die reine Jungfrau ist ihr keusches Sinnbild.
+
+BURGUND. Verstrickend ist der Lüge trüglich Wort,
+Doch ihre Rede ist wie eines Kindes.
+Wenn böse Geister ihr die Worte leihn,
+So ahmen sie die Unschuld siegreich nach.
+Ich will nicht weiter hören. Zu den Waffen!
+Mein Ohr, ich fühle, ist schwächer als mein Arm.
+
+JOHANNA. Du nennst mich eine Zauberin, gibst mir Künste
+Der Hölle schuld--Ist Frieden stiften, Haß
+Versöhnen ein Geschäft der Hölle? Kommt
+Die Eintracht aus dem ewgen Pfuhl hervor?
+Was ist unschuldig, heilig, menschlich gut,
+Wenn es der Kampf nicht ist ums Vaterland?
+Seit wann ist die Natur so mit sich selbst
+Im Streite, daß der Himmel die gerechte Sache
+Verläßt, und daß die Teufel sie beschützen?
+Ist aber das, was ich dir sage, gut,
+Wo anders als von oben könnt ichs schöpfen?
+Wer hätte sich auf meiner Schäfertrift
+Zu mir gesellt, das kindsche Hirtenmädchen
+In königlichen Dingen einzuweihn?
+Ich bin vor hohen Fürsten nie gestanden,
+Die Kunst der Rede ist dem Munde fremd.
+Doch jetzt, da ichs bedarf dich zu bewegen,
+Besitz ich Einsicht, hoher Dinge Kunde,
+Der Länder und der Könige Geschick
+Liegt sonnenhell vor meinem Kindesblick,
+Und einen Donnerkeil führ ich im Munde.
+
+BURGUND (lebhaft bewegt, schlägt die Augen zu ihr auf und
+betrachtet sie mit Erstaunen und Rührung).
+Wie wird mir? Wie geschieht mir? Ists ein Gott,
+Der mir das Herz im tiefsten Busen wendet!
+--Sie trügt nicht, diese rührende Gestalt!
+Nein! Nein! Bin ich durch Zaubers Macht geblendet,
+So ists durch eine himmlische Gewalt,
+Mir sagts das Herz, sie ist von Gott gesendet.
+
+JOHANNA. Er ist gerührt, er ists! Ich habe nicht
+Umsonst gefleht, des Zornes Donnerwolke schmilzt
+Von seiner Stirne tränentauend hin,
+Und aus den Augen, Friede strahlend, bricht
+Die goldne Sonne des Gefühls hervor.
+--Weg mit den Waffen--drücket Herz an Herz--
+Er weint, er ist bezwungen, er ist unser!
+(Schwert und Fahne entsinken ihr, sie eilt auf ihn zu mit
+ausgebreiteten Armen und umschlingt ihn mit leidenschaftlichem
+Ungestüm. La Hire und Dunois lassen die Schwerter fallen und
+eilen ihn zu umarmen)
+
+
+
+DRITTER AUFZUG
+
+Hoflager des Königs zu Chalons an der Marne
+
+Erster Auftritt
+
+Dunois und La Hire
+
+DUNOIS. Wir waren Herzensfreunde, Waffenbrüder,
+Für eine Sache hoben wir den Arm
+Und hielten fest in Not und Tod zusammen.
+Laßt Weiberliebe nicht das Band zertrennen,
+Das jeden Schicksalswechsel ausgehalten.
+
+LA HIRE. Prinz, hört mich an!
+
+DUNOIS. Ihr liebt das wunderbare Mädchen,
+Und mir ist wohl bekannt, worauf Ihr sinnt.
+Zum König denkt Ihr stehnden Fußes jetzt
+Zu gehen, und die Jungfrau zum Geschenk
+Euch zu erbitten--Eurer Tapferkeit
+Kann er den wohlverdienten Preis nicht weigern.
+Doch wißt--eh ich in eines andern Arm
+Sie sehe--
+
+LA HIRE. Hört mich, Prinz!
+
+DUNOIS. Es zieht mich nicht
+Der Augen flüchtig schnelle Lust zu ihr.
+Den unbezwungnen Sinn hat nie ein Weib
+Gerührt, bis ich die Wunderbare sah,
+Die eines Gottes Schickung diesem Reich
+Zur Retterin bestimmt und mir zum Weibe,
+Und in dem Augenblick gelobt ich mir
+Mit heilgem Schwur als Braut sie heimzuführen.
+Denn nur die Starke kann die Freundin sein
+Des starken Mannes, und dies glühnde Herz
+Sehnt sich an einer gleichen Brust zu ruhn,
+Die seine Kraft kann fassen und ertragen.
+
+LA HIRE. Wie könnt ichs wagen, Prinz, mein schwach Verdienst
+Mit Eures Namens Heldenruhm zu messen!
+Wo sich Graf Dunois in die Schranken stellt,
+Muß jeder andre Mitbewerber weichen.
+Doch eine niedre Schäferin kann nicht
+Als Gattin würdig Euch zur Seite stehn,
+Das königliche Blut, das Eure Adern
+Durchrinnt, verschmäht so niedrige Vermischung.
+
+DUNOIS. Sie ist das Götterkind der heiligen
+Natur, wie ich, und ist mir ebenbürtig.
+Sie sollte eines Fürsten Hand entehren,
+Die eine Braut der reinen Engel ist,
+Die sich das Haupt mit einem Götterschein
+Umgibt, der heller strahlt als irdsche Kronen,
+Die jedes Größte, Höchste dieser Erden
+Klein unter ihren Füßen liegen sieht;
+Denn alle Fürstenthronen aufeinander
+Gestellt, bis zu den Sternen fortgebaut,
+Erreichten nicht die Höhe, wo sie steht,
+In ihrer Engelsmajestät!
+
+LA HIRE. Der König mag entscheiden.
+
+DUNOIS. Nein, sie selbst
+Entscheide! Sie hat Frankreich frei gemacht
+Und selber frei muß sie ihr Herz verschenken.
+
+LA HIRE. Da kommt der König!
+
+
+
+DRITTER AUFZUG
+
+Zweiter Auftritt
+
+Karl. Agnes Sorel. Du Chatel, der Erzbischof und Chatillon zu
+den Vorigen
+
+KARL (zu Chatillon). Er kommt! Er will als seinen König mich
+Erkennen, sagt Ihr, und mir huldigen?
+
+CHATILLON. Hier, Sire, in deiner königlichen Stadt
+Chalons will sich der Herzog, mein Gebieter,
+Zu deinen Füßen werfen.--Mir befahl er,
+Als meinen Herrn und König dich zu grüßen,
+Er folgt mir auf dem Fuß, gleich naht er selbst.
+
+SOREL. Er kommt! O schöne Sonne dieses Tags,
+Der Freude bringt und Frieden und Versöhnung!
+
+CHATILLON. Mein Herr wird kommen mit zweihundert Rittern,
+Er wird zu deinen Füßen niederknien,
+Doch er erwartet, daß du es nicht duldest,
+Als deinen Vetter freundlich ihn umarmest.
+
+KARL. Mein Herz glüht, an dem seinigen zu schlagen.
+
+CHATILLON. Der Herzog bittet, daß des alten Streits
+Beim ersten Wiedersehn mit keinem Worte Meldung gescheh!
+
+KARL. Versenkt im Lethe sei
+Auf ewig das Vergangene. Wir wollen
+Nur in der Zukunft heitre Tage sehn.
+
+CHATILLON. Die für Burgund gefochten, alle sollen
+In die Versöhnung aufgenommen sein.
+
+KARL. Ich werde so mein Königreich verdoppeln!
+
+CHATILLON. Die Königin Isabeau soll in dem Frieden
+Mit eingeschlossen sein, wenn sie ihn annimmt.
+
+KARL. Sie führet Krieg mit mir, nicht ich mit ihr.
+Unser Streit ist aus, sobald sie selbst ihn endigt.
+
+CHATILLON. Zwölf Ritter sollen bürgen für dein Wort.
+
+KARL. Mein Wort ist heilig.
+
+CHATILLON. Und der Erzbischof
+Soll eine Hostie teilen zwischen dir und ihm,
+Zum Pfand und Siegel redlicher Versöhnung.
+
+KARL. So sei mein Anteil an dem ewgen Heil,
+Als Herz und Handschlag bei mir einig sind.
+Welch andres Pfand verlangt der Herzog noch?
+
+CHATILLON (mit einem Blick auf Du Chatel).
+Hier seh ich einen, dessen Gegenwart
+Den ersten Gruß vergiften könnte.
+
+(Du Chatel geht schweigend)
+
+KARL. Geh,
+Du Chatel! Bis der Herzog deinen Anblick
+Ertragen kann, magst du verborgen bleiben!
+(Er folgt ihm mit den Augen, dann eilt er ihm nach und umarmt ihn)
+Rechtschaffner Freund! Du wolltest mehr als dies
+Für meine Ruhe tun!
+(Du Chatel geht ab)
+
+CHATILLON. Die andern Punkte nennt dies Instrument.
+
+KARL (zum Erzbischof). Bringt es in Ordnung. Wir genehmgen alles,
+Für einen Freund ist uns kein Preis zu hoch.
+Geht, Dunois! Nehmt hundert edle Ritter
+Mit Euch und holt den Herzog freundlich ein.
+Die Truppen alle sollen sich mit Zweigen
+Bekränzen, ihre Brüder zu empfangen.
+Zum Feste schmücke sich die ganze Stadt,
+Und alle Glocken sollen es verkünden,
+Daß Frankreich und Burgund sich neu verbünden.
+(Ein Edelknecht kommt. Man hört Trompeten)
+Horch! Was bedeutet der Trompeten Ruf?
+
+EDELKNECHT. Der Herzog von Burgund hält seinen Einzug. (Geht ab)
+
+DUNOIS (geht mit La Hire und Chatillon). Auf! Ihm entgegen!
+
+KARL (zur Sorel). Agnes, du weinst? Beinah gebricht auch mir
+Die Stärke, diesen Auftritt zu ertragen.
+Wie viele Todesopfer mußten fallen,
+Bis wir uns friedlich konnten wiedersehen.
+Doch endlich legt sich jedes Sturmes Wut,
+Tag wird es auf die dickste Nacht, und kommt
+Die Zeit, so reifen auch die spätsten Früchte!
+
+ERZBISCHOF (am Fenster).
+Der Herzog kann sich des Gedränges kaum
+Erledigen. Sie heben ihn vom Pferd,
+Sie küssen seinen Mantel, seine Sporen.
+
+KARL. Es ist ein gutes Volk, in seiner Liebe
+Raschlodernd wie in seinem Zorn.--Wie schnell
+Vergessen ists, daß eben dieser Herzog
+Die Väter ihnen und die Söhne schlug,
+Der Augenblick verschlingt ein ganzes Leben!
+--Faß dich, Sorel! Auch deine heftge Freude
+Möcht ihm ein Stachel in die Seele sein,
+Nichts soll ihn hier beschämen, noch betrüben.
+
+
+
+DRITTER AUFZUG
+
+Dritter Auftritt
+
+Die Vorigen. Herzog von Burgund. Dunois. La Hire. Chatillon und
+noch zwei andere Ritter von des Herzogs Gefolge. Der Herzog
+bleibt am Eingang stehen, der König bewegt sich gegen ihn,
+sogleich nähert sich Burgund und in dem Augenblick, wo er sich
+auf ein Knie will niederlassen, empfängt ihn der König in seinen
+Armen
+
+KARL. Ihr habt uns überrascht--Euch einzuholen
+Gedachten wir--Doch Ihr habt schnelle Pferde.
+
+BURGUND. Sie trugen mich zu meiner Pflicht.
+(Er umarmt die Sorel und küßt sie auf die Stirne)
+Mit Eurer Erlaubnis,
+Base. Das ist unser Herrenrecht
+Zu Arras und kein schönes Weib darf sich
+Der Sitte weigern.
+
+KARL. Eure Hofstatt ist
+Der Sitz der Minne, sagt man, und der Markt,
+Wo alles Schöne muß den Stapel halten.
+
+BURGUND. Wir sind ein handeltreibend Volk, mein König.
+Was köstlich wächst in allen Himmelstrichen,
+Wird ausgestellt zur Schau und zum Genuß
+Auf unserm Markt zu Brügg, das höchste aber
+Von allen Gütern ist der Frauen Schönheit.
+
+SOREL. Der Frauen Treue gilt noch höhern Preis,
+Doch auf dem Markte wird sie nicht gesehn.
+
+KARL. Ihr steht in bösem Ruf und Leumund, Vetter,
+Daß Ihr der Frauen schönste Tugend schmäht.
+
+BURGUND. Die Ketzerei straft sich am schwersten selbst.
+Wohl Euch, mein König! Früh hat Euch das Herz,
+Was mich ein wildes Leben spät, gelehrt!
+(Er bemerkt den Erzbischof und reicht ihm die Hand)
+Ehrwürdger Mann Gottes! Euren Segen!
+Euch trifft man immer auf dem rechten Platz,
+Wer Euch will finden, muß im Guten wandeln.
+
+ERZBISCHOF. Mein Meister rufe, wenn er will, dies Herz
+Ist freudensatt und ich kann fröhlich scheiden,
+Da meine Augen diesen Tag gesehn!
+
+BURGUND (zur Sorel). Man spricht, Ihr habt Euch Eurer edeln Steine
+Beraubt, um Waffen gegen mich daraus
+Zu schmieden? Wie? Seid Ihr so kriegerisch
+Gesinnt? Wars Euch so ernst mich zu verderben,
+Doch unser Streit ist nun vorbei, es findet
+Sich alles wieder, was verloren war,
+Auch Euer Schmuck hat sich zurückgefunden,
+Zum Kriege wider mich war er bestimmt,
+Nehmt ihn aus meiner Hand zum Friedenszeichen.
+(Er empfängt von einem seiner Begleiter das Schmuckkästchen und
+überreicht es ihr geöffnet. Agnes Sorel sieht den König betroffen
+an)
+
+KARL. Nimm das Geschenk, es ist ein zweifach teures Pfand
+Der schönen Liebe mir und der Versöhnung.
+
+BURGUND (indem er eine brillantne Rose in ihre Haare steckt).
+Warum ist es nicht Frankreichs Königskrone?
+Ich würde sie mit gleich geneigtem Herzen
+Auf diesem schönen Haupt befestigen.
+(Ihre Hand bedeutend fassend)
+Und--zählt auf mich, wenn Ihr dereinst des Freundes
+Bedürfen solltet!
+(Agnes Sorel in Tränen ausbrechend tritt auf die Seite, auch
+der König bekämpft eine große Bewegung, alle Umstehende blicken
+gerührt auf beide Fürsten)
+
+BURGUND (nachdem er alle der Reihe nach angesehen, wirft er
+sich in die Arme des Königs).
+O mein König!
+(In demselben Augenblick eilen die drei burgundischen Ritter
+auf Dunois, La Hire und den Erzbischof zu und umarmen einander.
+Beide Fürsten liegen eine Zeitlang einander sprachlos in den Armen)
+Euch konnt ich hassen! Euch konnt ich entsagen!
+
+KARL. Still! Still! Nicht weiter!
+
+BURGUND. Diesen Engelländer
+Konnt ich krönen! Diesem Fremdling Treue schwören!
+Euch meinen König ins Verderben stürzen!
+
+KARL. Vergeßt es! Alles ist verziehen. Alles
+Tilgt dieser einzge Augenblick. Es war
+Ein Schicksal, ein unglückliches Gestirn!
+
+BURGUND (faßt seine Hand).
+Ich will gutmachen! Glaubet mir, ich wills.
+Alle Leiden sollen Euch erstattet werden,
+Euer ganzes Königreich sollt Ihr zurück
+Empfangen--nicht ein Dorf soll daran fehlen!
+
+KARL. Wir sind vereint. Ich fürchte keinen Feind mehr.
+
+BURGUND. Glaubt mir, ich führte nicht mit frohem Herzen
+Die Waffen wider Euch. O wüßtet Ihr--
+Warum habt Ihr mir diese nicht geschickt?
+(Auf die Sorel zeigend) Nicht widerstanden hätt ich ihren Tränen!
+--Nun soll uns keine Macht der Hölle mehr
+Entzweien, da wir Brust an Brust geschlossen!
+Jetzt hab ich meinen wahren Ort gefunden,
+An diesem Herzen endet meine Irrfahrt.
+
+ERZBISCHOF (tritt zwischen beide).
+Ihr seid vereinigt, Fürsten! Frankreich steigt
+Ein neu verjüngter Phönix aus der Asche,
+Uns lächelt eine schöne Zukunft an.
+Des Landes tiefe Wunden werden heilen,
+Die Dörfer, die verwüsteten, die Städte
+Aus ihrem Schutt sich prangender erheben,
+Die Felder decken sich mit neuem Grün
+Doch, die das Opfer eures Zwists gefallen,
+Die Toten stehen nicht mehr auf, die Tränen,
+Die eurem Streit geflossen, sind und bleiben
+Geweint! Das kommende Geschlecht wird blühen,
+Doch das vergangne war des Elends Raub,
+Der Enkel Glück erweckt nicht mehr die Väter.
+Das sind die Früchte eures Bruderzwists!
+Laßts euch zur Lehre dienen! Fürchtet die Gottheit
+Des Schwerts, eh ihrs der Scheid entreißt. Loslassen
+Kann der Gewaltige den Krieg, doch nicht
+Gelehrig wie der Falk sich aus den Lüften
+Zurückschwingt auf des Jägers Hand, gehorcht
+Der wilde Gott dem Ruf der Menschenstimme.
+Nicht zweimal kommt im rechten Augenblick
+Wie heut die Hand des Retters aus den Wolken.
+
+BURGUND. O Sire! Euch wohnt ein Engel an der Seite.
+--Wo ist sie? Warum seh ich sie nicht hier?
+
+KARL. Wo ist Johanna? Warum fehlt sie uns
+In diesem festlich schönen Augenblick,
+Den sie uns schenkte?
+
+ERZBISCHOF. Sire! Das heilge Mädchen
+Liebt nicht die Ruhe eines müßgen Hofs,
+Und ruft sie nicht der göttliche Befehl
+Ans Licht der Welt hervor, so meidet sie
+Verschämt den eitlen Blick gemeiner Augen!
+Gewiß bespricht sie sich mit Gott, wenn sie
+Für Frankreichs Wohlfahrt nicht geschäftig ist,
+Denn allen ihren Schritten folgt der Segen.
+
+
+
+DRITTER AUFZUG
+
+Vierter Auftritt
+
+Johanna zu den Vorigen. Sie ist im Harnisch, aber ohne Helm,
+und trägt einen Kranz in den Haaren
+
+KARL Du kommst als Priesterin geschmückt, Johanna,
+Den Bund, den du gestiftet, einzuweihn?
+
+BURGUND. Wie schrecklich war die Jungfrau in der Schlacht,
+Und wie umstrahlt mit Anmut sie der Friede!
+--Hab ich mein Wort gelöst, Johanna? Bist du
+Befriedigt und verdien ich deinen Beifall?
+
+JOHANNA. Dir selbst hast du die größte Gunst erzeigt.
+Jetzt schimmerst du in segenvollem Licht,
+Da du vorhin in blutrotdüsterm Schein
+Ein Schreckensmond an diesem Himmel hingst.
+(Sich umschauend)
+Viel edle Ritter find ich hier versammelt
+Und alle Augen glänzen freudenhell,
+Nur einem Traurigen hab ich begegnet,
+Der sich verbergen muß, wo alles jauchzt.
+
+BURGUND. Und wer ist sich so schwerer Schuld bewußt,
+Daß er an unsrer Huld verzweifeln müßte,
+
+JOHANNA. Darf er sich nahn? O sage, daß ers darf?
+Mach dein Verdienst vollkommen. Eine Versöhnung
+Ist keine, die das Herz nicht ganz befreit.
+Ein Tropfe Haß, der in dem Freudenbecher
+Zurückbleibt, macht den Segenstrank zum Gift.
+--Kein Unrecht sei so blutig, daß Burgund
+An diesem Freudentag es nicht vergebe!
+
+BURGUND. Ha, ich verstehe dich!
+
+JOHANNA. Und willst verzeihn?
+Du willst es, Herzog?--Komm herein, Du Chatel!
+(Sie öffnet die Tür und führt Du Chatel herein, dieser bleibt
+in der Entfernung stehen)
+Der Herzog ist mit seinen Feinden allen
+Versöhnt, er ist es auch mit dir.
+(Du Chatel tritt einige Schritte näher und sucht in den Augen
+des Herzogs zu lesen)
+
+BURGUND. Was machst du
+Aus mir, Johanna? Weißt du, was du foderst?
+
+JOHANNA. Ein gütger Herr tut seine Pforten auf
+Für alle Gäste, keinen schließt er aus;
+Frei wie das Firmament die Welt umspannt,
+So muß die Gnade Freund und Feind umschließen.
+Es schickt die Sonne ihre Strahlen gleich
+Nach allen Räumen der Unendlichkeit,
+Gleichmessend gießt der Himmel seinen Tau
+Auf alle durstenden Gewächse aus.
+Was irgend gut ist und von oben kommt,
+Ist allgemein und ohne Vorbehalt,
+Doch in den Falten wohnt die Finsternis!
+
+BURGUND. O sie kann mit mir schalten wie sie will,
+Mein Herz ist weiches Wachs in ihrer Hand.
+--Umarmt mich, Du Chatel; ich vergeb Euch.
+Geist meines Vaters, zürne nicht, wenn ich
+Die Hand, die dich getötet, freundlich fasse.
+Ihr Todesgötter, rechnet mirs nicht zu,
+Daß ich mein schrecklich Rachgelübde breche.
+Bei euch dort unten in der ewgen Nacht,
+Da schlägt kein Herz mehr, da ist alles ewig,
+Steht alles unbeweglich fest--doch anders
+Ist es hier oben in der Sonne Licht.
+Der Mensch ist, der lebendig fühlende,
+Der leichte Raub des mächtgen Augenblicks.
+
+KARL (zu Johanna). Was dank ich dir nicht alles, hohe Jungfrau!
+Wie schön hast du dein Wort gelöst!
+Wie schnell mein ganzes Schicksal umgewandelt!
+Die Freunde hast du mir versöhnt, die Feinde
+Mir in den Staub gestürzt, und meine Städte
+Dem fremden Joch entrissen--Du allein
+Vollbrachtest alles.--Sprich, wie lohn ich dir!
+
+JOHANNA. Sei immer menschlich, Herr, im Glück, wie dus
+Im Unglück warst--und auf der Größe Gipfel
+Vergiß nicht, was ein Freund wiegt in der Not,
+Du hasts in der Erniedrigung erfahren.
+Verweigre nicht Gerechtigkeit und Gnade
+Dem letzten deines Volks, denn von der Herde
+Berief dir Gott die Retterin--du wirst
+Ganz Frankreich sammeln unter deinen Szepter,
+Der Ahn, und Stammherr großer Fürsten sein,
+Die nach dir kommen, werden heller leuchten,
+Als die dir auf dem Thron vorangegangen.
+Dein Stamm wird blühn, solang er sich die Liebe
+Bewahrt im Herzen seines Volks,
+Der Hochmut nur kann ihn zum Falle fahren,
+Und von den niedern Hütten, wo dir jetzt
+Der Retter ausging, droht geheimnisvoll
+Den schuldgefleckten Enkeln das Verderben!
+
+BURGUND. Erleuchtet Mädchen, das der Geist beseelt,
+Wenn deine Augen in die Zukunft dringen,
+So sprich mir auch von meinem Stamm! Wird er
+Sich herrlich breiten wie er angefangen?
+
+JOHANNA. Burgund! Hoch bis zu Throneshöhe hast
+Du deinen Stuhl gesetzt, und höher strebt
+Das stolze Herz, es hebt bis in die Wolken
+Den kühnen Bau.--Doch eine Hand von oben
+Wird seinem Wachstum schleunig Halt gebieten.
+Doch fürchte drum nicht deines Hauses Fall!
+In einer Jungfrau lebt es glänzend fort,
+Und zeptertragende Monarchen, Hirten
+Der Völker werden ihrem Schoß entblühn.
+Sie werden herrschen auf zwei großen Thronen,
+Gesetze schreiben der bekannten Welt
+Und einer neuen, welche Gottes Hand
+Noch zudeckt hinter unbeschifften Meeren.
+
+KARL. O sprich, wenn es der Geist dir offenbaret,
+Wird dieses Freundesbündnis, das wir jetzt
+Erneut, auch noch die späten Enkelsöhne
+Vereinigen?
+
+JOHANNA (nach einem Stillschweigen).
+Ihr Könige und Herrscher!
+Fürchtet die Zwietracht! Wecket nicht den Streit
+Aus seiner Höhle, wo er schläft, denn einmal
+Erwacht bezähmt er spät sich wieder! Enkel
+Erzeugt er sich, ein eisernes Geschlecht,
+Fortzündet an dem Brande sich der Brand.
+--Verlangt nicht mehr zu wissen! Freuet euch
+Der Gegenwart, laßt mich die Zukunft still
+Bedecken!
+
+SOREL. Heilig Mädchen, du erforschest
+Mein Herz, du weißt, ob es nach Größe eitel strebt.
+Auch mir gib ein erfreuliches Orakel.
+
+JOHANNA. Mir zeigt der Geist nur große Weltgeschicke,
+Dein Schicksal ruht in deiner eignen Brust!
+
+Dunois. Was aber wird dein eigen Schicksal sein,
+Erhabnes Mädchen, das der Himmel liebt!
+Dir blüht gewiß das schönste Glück der Erden,
+Da du so fromm und heilig bist.
+
+JOHANNA. Das Glück
+Wohnt droben in dem Schoß des ewgen Vaters.
+
+KARL. Dein Glück sei fortan deines Königs Sorge!
+Denn deinen Namen will ich herrlich machen
+In Frankreich, selig preisen sollen dich
+Die spätesten Geschlechter--und gleich jetzt
+Erfüll ich es.--Knie nieder!
+(Er zieht das Schwert und berührt sie mit demselben)
+Und steh auf Als eine Edle! Ich erhebe dich,
+Dein König, aus dem Staube deiner dunkeln
+Geburt--Im Grabe adl ich deine Väter--
+Du sollst die Lilie im Wappen tragen,
+Den Besten sollst du ebenbürtig sein
+In Frankreich, nur das königliche Blut
+Von Valois sei edler als das deine!
+Der Größte meiner Großen fühle sich
+Durch deine Hand geehrt, mein sei die Sorge,
+Dich einem edeln Gatten zu vermählen.
+
+DUNOIS (tritt vor). Mein Herz erkor sie, da sie niedrig war,
+Die neue Ehre, die ihr Haupt umglänzt,
+Erhöht nicht ihr Verdienst, noch meine Liebe.
+Hier in dem Angesichte meines Königs
+Und dieses heilgen Bischofs reich ich ihr
+Die Hand als meiner fürstlichen Gemahlin,
+Wenn sie mich würdig hält, sie zu empfangen.
+
+KARL. Unwiderstehlich Mädchen, du häufst Wunder
+Auf Wunder! Ja, nun glaub ich, daß dir nichts
+Unmöglich ist. Du hast dies stolze Herz
+Bezwungen, das der Liebe Allgewalt
+Hohn sprach bis jetzt.
+
+LA HIRE (tritt vor). Johannas schönster Schmuck,
+Kenn ich sie recht, ist ihr bescheidnes Herz.
+Der Huldigung des Größten ist sie wert,
+Doch nie wird sie den Wunsch so hoch erheben.
+Sie strebt nicht schwindelnd irdscher Hoheit nach,
+Die treue Neigung eines redlichen
+Gemüts genügt ihr, und das stille Los,
+Das ich mit dieser Hand ihr anerbiete.
+
+KARL. Auch du, La Hire? Zwei treffliche Bewerber
+An Heldentugend gleich und Kriegesruhm!
+--Willst du, die meine Feinde mir versöhnt,
+Mein Reich vereinigt, mir die liebsten Freunde
+Entzwein? Es kann sie einer nur besitzen,
+Und jeden acht ich solches Preises wert.
+So rede du, dein Herz muß hier entscheiden.
+
+SOREL (tritt näher). Die edle Jungfrau seh ich überrascht
+Und ihre Wangen färbt die züchtge Scham.
+Man geb ihr Zeit, ihr Herz zu fragen, sich
+Der Freundin zu vertrauen und das Siegel
+Zu lösen von der fest verschloßnen Brust.
+Jetzt ist der Augenblick gekommen, wo
+Auch ich der strengen Jungfrau schwesterlich
+Mich nahen, ihr den treu verschwiegnen Busen
+Darbieten darf--Man laß uns weiblich erst
+Das Weibliche bedenken und erwarte,
+Was wir beschließen werden.
+
+KARL (im Begriff zu gehen). Also seis!
+
+JOHANNA. Nicht also, Sire! Was meine Wangen färbte,
+War die Verwirrung nicht der blöden Scham.
+Ich habe dieser edeln Frau nichts zu vertraun,
+Dess' ich vor Männern mich zu schämen hätte.
+Hoch ehrt mich dieser edeln Ritter Wahl.
+Doch nicht verließ ich meine Schäfertrift,
+Um weltlich eitle Hoheit zu erlagen,
+Noch mir den Brautkranz in das Haar zu flechten,
+Legt ich die ehrne Waffenrüstung an.
+Berufen bin ich zu ganz anderm Werk,
+Die reine Jungfrau nur kann es vollenden.
+Ich bin die Kriegerin des höchsten Gottes,
+Und keinem Manne kann ich Gattin sein.
+
+ERZBISCHOF. Dem Mann zur liebenden Gefährtin ist
+Das Weib geboren--wenn sie der Natur
+Gehorcht, dient sie am würdigsten dem Himmel!
+Und hast du dem Befehle deines Gottes,
+Der in das Feld dich rief, genuggetan,
+So wirst du deine Waffen von dir legen,
+Und wiederkehren zu dem sanfteren
+Geschlecht, das du verleugnet hast, das nicht
+Berufen ist zum blutgen Werk der Waffen.
+
+JOHANNA. Ehrwürdger Herr, ich weiß noch nicht zu sagen,
+Was mir der Geist gebieten wird zu tun;
+Doch wenn die Zeit kommt, wird mir seine Stimme
+Nicht schweigen, und gehorchen werd ich ihr.
+Jetzt aber heißt er mich mein Werk vollenden,
+Die Stirne meines Herren ist noch nicht
+Gekrönt, das heilge Öl hat seine Scheitel
+Noch nicht benetzt, noch heißt mein Herr nicht König.
+
+KARL. Wir sind begriffen auf dem Weg nach Reims.
+
+JOHANNA. Laß uns nicht still stehn, denn geschäftig sind
+Die Feinde rings, den Weg dir zu verschließen.
+Doch mitten durch sie alle führ ich dich!
+
+DUNOIS. Wenn aber alles wird vollendet sein,
+Wenn wir zu Reims nun siegend eingezogen,
+Wirst du mir dann vergönnen, heilig Mädchen--
+
+JOHANNA. Will es der Himmel, daß ich sieggekrönt
+Aus diesem Kampf des Todes wiederkehre,
+So ist mein Werk vollendet--und die Hirtin
+Hat kein Geschäft mehr in des Königs Hause.
+
+KARL (ihre Hand fassend).
+Dich treibt des Geistes Stimme jetzt, es schweigt
+Die Liebe in dem gotterfüllten Busen.
+Sie wird nicht immer schweigen, glaube mir!
+Die Waffen werden ruhn, es führt der Sieg
+Den Frieden an der Hand, dann kehrt die Freude
+In jeden Busen ein, und sanftere
+Gefühle wachen auf in allen Herzen--
+Sie werden auch in deiner Brust erwachen,
+Und Tränen süßer Sehnsucht wirst du weinen,
+Wie sie dein Auge nie vergoß--dies Herz,
+Das jetzt der Himmel ganz erfüllt, wird sich
+Zu einem irdschen Freunde liebend wenden--
+Jetzt hast du rettend Tausende beglückt,
+Und einen zu beglücken wirst du enden!
+
+JOHANNA. Dauphin! Bist du der göttlichen Erscheinung
+Schon müde, daß du ihr Gefäß zerstören,
+Die reine Jungfrau, die dir Gott gesendet,
+Herab willst ziehn in den gemeinen Staub,
+Ihr blinden Herzen! Ihr Kleingläubigen!
+Des Himmels Herrlichkeit umleuchtet euch,
+Vor eurem Aug enthüllt er seine Wunder,
+Und ihr erblickt in mir nichts als ein Weib.
+Darf sich ein Weib mit kriegerischem Erz
+Umgeben, in die Männerschlacht sich mischen?
+Weh mir, wenn ich das Rachschwert meines Gottes
+In Händen führte, und im eiteln Herzen
+Die Neigung trüge zu dem irdschen Mann!
+Mir wäre besser, ich wär nie geboren!
+Kein solches Wort mehr, sag ich euch, wenn ihr
+Den Geist in mir nicht zürnend wollt entrüsten!
+Der Männer Auge schon, das mich begehrt,
+Ist mir ein Grauen und Entheiligung.
+
+KARL. Brecht ab. Es ist umsonst sie zu bewegen.
+
+JOHANNA. Befiehl, daß man die Kriegstrommete blase!
+Mich preßt und ängstigt diese Waffenstille,
+Es jagt mich auf aus dieser müßgen Ruh,
+Und treibt mich fort, daß ich mein Werk erfülle,
+Gebietrisch mahnend meinem Schicksal zu.
+
+
+
+DRITTER AUFZUG
+
+Fünfter Auftritt
+
+Ein Ritter eilfertig
+
+KARL. Was ists?
+
+RITTER. Der Feind ist über die Marne gegangen,
+Und stellt sein Heer zum Treffen.
+
+JOHANNA (begeistert). Schlacht und Kampf!
+Jetzt ist die Seele ihrer Banden frei.
+Bewaffnet euch, ich ordn indes die Scharen. (Sie eilt hinaus)
+
+KARL. Folgt ihr, La Hire--Sie wollen uns am Tore
+Von Reims noch um die Krone kämpfen lassen!
+
+DUNOIS. Sie treibt nicht wahrer Mut. Es ist der letzte
+Versuch ohnmächtig wütender Verzweiflung.
+
+KARL. Burgund, Euch sporn ich nicht. Heut ist der Tag,
+Um viele böse Tage zu vergüten.
+
+BURGUND. Ihr sollt mit mir zufrieden sein.
+
+KARL. Ich selbst
+Will Euch vorangehn auf dem Weg des Ruhms,
+Und in dem Angesicht der Krönungsstadt
+Die Krone mir erfechten.--Meine Agnes!
+Dein Ritter sagt dir Lebewohl!
+
+AGNES (umarmt ihn). Ich weine nicht, ich zittre nicht für dich,
+Mein Glaube greift vertrauend in die Wolken!
+So viele Pfänder seiner Gnade gab
+Der Himmel nicht, daß wir am Ende trauern!
+Vom Sieg gekrönt umarm ich meinen Herrn,
+Mir sagts das Herz, in Reims' bezwungnen Mauern.
+
+(Trompeten erschallen mit mutigem Ton und gehen, während daß
+verwandelt wird, in ein wildes Kriegsgetümmel über, das
+Orchester fällt ein bei offener Szene und wird von kriegerischen
+Instrumenten hinter der Szene begleitet)
+Der Schauplatz verwandelt sich in eine freie Gegend, die von
+Bäumen begrenzt wird. Man sieht während der Musik Soldaten über
+den Hintergrund schnell wegziehen
+
+
+
+DRITTER AUFZUG
+
+Sechster Auftritt
+
+Talbot auf Fastolf gestützt und von Soldaten begleitet. Gleich
+darauf Lionel
+
+TALBOT. Hier unter diesen Bäumen setzt mich nieder,
+Und ihr begebt euch in die Schlacht zurück,
+Ich brauche keines Beistands, um zu sterben.
+
+FASTOLF. O unglückselig jammervoller Tag!
+(Lionel tritt auf)
+Zu welchem Anblick kommt Ihr, Lionel!
+Hier liegt der Feldherr auf den Tod verwundet.
+
+LIONEL. Das wolle Gott nicht! Edler Lord, steht auf!
+Jetzt ists nicht Zeit, ermattet hinzusinken.
+Weicht nicht dem Tod, gebietet der Natur
+Mit Eurem mächtgen Willen, daß sie lebe!
+
+TALBOT. Umsonst! Der Tag des Schicksals ist gekommen,
+Der unsern Thron in Frankreich stürzen soll.
+Vergebens in verzweiflungsvollem Kampf
+Wagt ich das Letzte noch, ihn abzuwenden.
+Vom Stahl dahin geschmettert lieg ich hier,
+Um nicht mehr aufzustehn.--Reims ist verloren,
+So eilt, Paris zu retten!
+
+LIONEL. Paris hat sich vertragen mit dem Dauphin,
+Soeben bringt ein Eilbot uns die Nachricht.
+
+TALBOT (reißt den Verband ab).
+So strömet hin, ihr Bäche meines Bluts,
+Denn überdrüssig bin ich dieser Sonne!
+
+LIONEL. Ich kann nicht bleiben.--Fastolf, bringt den Feldherrn
+An einen sichern Ort, wir können uns
+Nicht lange mehr auf diesem Posten halten.
+Die Unsern fliehen schon von allen Seiten,
+Unwiderstehlich dringt das Mädchen vor--
+
+TALBOT. Unsinn, du siegst und ich muß untergehn!
+Mit der Dummheit kämpfen Götter selbst vergebens.
+Erhabene Vernunft, lichthelle Tochter
+Des göttlichen Hauptes, weise Gründerin
+Des Weltgebäudes, Führerin der Sterne,
+Wer bist du denn, wenn du dem tollen Roß
+Des Aberwitzes an den Schweif gebunden,
+Ohnmächtig rufend, mit dem Trunkenen
+Dich sehend in den Abgrund stürzen mußt!
+Verflucht sei, wer sein Leben an das Große
+Und Würdge wendet und bedachte Plane
+Mit weisem Geist entwirft! Dem Narrenkönig
+Gehört die Welt--
+
+LIONEL. Mylord! Ihr habt nur noch
+Für wenig Augenblicke Leben--denkt
+An Euren Schöpfer!
+
+TALBOT. Wären wir als Tapfre
+Durch andre Tapfere besiegt, wir könnten
+Uns trösten mit dem allgemeinen Schicksal,
+Das immer wechselnd seine Kugel dreht--
+Doch solchem groben Gaukelspiel erliegen!
+War unser ernstes arbeitvolles Leben
+Keines ernsthaftem Ausgangs wert?
+
+LIONEL (reicht ihm die Hand).
+Mylord, fahrt wohl! Der Tränen schuldgen Zoll
+Will ich Euch redlich nach der Schlacht entrichten,
+Wenn ich alsdann noch übrig bin. Jetzt aber
+Ruft das Geschick mich fort, das auf dem Schlachtfeld
+Noch richtend sitzt und seine Lose schüttelt.
+Auf Wiedersehn in einer andern Welt,
+Kurz ist der Abschied für die lange Freundschaft. (Geht ab)
+
+TALBOT. Bald ists vorüber und der Erde geb ich,
+Der ewgen Sonne die Atome wieder,
+Die sich zu Schmerz und Lust in mir gefügt--
+Und von dem mächtgen Talbot, der die Welt
+Mit seinem Kriegsruhm füllte, bleibt nichts übrig,
+Als eine Handvoll leichten Staubs.--So geht
+Der Mensch zu Ende--und die einzige
+Ausbeute, die wir aus dem Kampf des Lebens
+Wegtragen, ist die Einsicht in das Nichts,
+Und herzliche Verachtung alles dessen,
+Was uns erhaben schien und wünschenswert--
+
+
+
+DRITTER AUFZUG
+
+Siebenter Auftritt
+
+Karl. Burgund. Dunois. Du Chatel und Soldaten treten auf
+
+BURGUND. Die Schanze ist erstürmt.
+
+DUNOIS. Der Tag ist unser.
+
+KARL (Talbot bemerkend).
+Seht, wer es ist, der dort vom Licht der Sonne
+Den unfreiwillig schweren Abschied nimmt?
+Die Rüstung zeigt mir keinen schlechten Mann,
+Geht, springt ihm bei, wenn ihm noch Hülfe frommt.
+(Soldaten aus des Königs Gefolge treten hinzu)
+
+Fastolf. Zurück! Bleibt fern! Habt Achtung vor dem Toten,
+Dem ihr im Leben nie zu nahn gewünscht!
+
+BURGUND. Was seh ich! Talbot liegt in seinem Blut!
+(Er geht auf ihn zu. Talbot blickt ihn starr an und stirbt)
+
+FASTOLF. Hinweg, Burgund! Den letzten Blick des Helden
+Vergifte nicht der Anblick des Verräters!
+
+DUNOIS. Furchtbarer Talbot! Unbezwinglicher!
+Nimmst du vorlieb mit so geringem Raum,
+Und Frankreichs weite Erde konnte nicht
+Dem Streben deines Riesengeistes gnügen.
+--Erst jetzo, Sire, begrüß ich Euch als König,
+Die Krone zitterte auf Eurem Haupt,
+So lang ein Geist in diesem Körper lebte.
+
+KARL (nachdem er den Toten stillschweigend betrachtet).
+Ihn hat ein Höherer besiegt, nicht wir!
+Er liegt auf Frankreichs Erde, wie der Held
+Auf seinem Schild, den er nicht lassen wollte.
+Bringt ihn hinweg!
+(Soldaten heben den Leichnam auf und tragen ihn fort)
+Fried sei mit seinem Staube!
+Ihm soll ein ehrenvolles Denkmal werden,
+Mitten in Frankreich, wo er seinen Lauf
+Als Held geendet, ruhe sein Gebein!
+So weit als er, drang noch kein feindlich Schwert,
+Seine Grabschrift sei der Ort, wo man ihn findet.
+
+FASTOLF (gibt sein Schwert ab). Herr, ich bin dein Gefangener.
+
+KARL (gibt ihm sein Schwert zurück). Nicht also!
+Die fromme Pflicht ehrt auch der rohe Krieg,
+Frei sollt Ihr Eurem Herrn zu Grabe folgen.
+Jetzt eilt, Du Chatel--Meine Agnes zittert--
+Entreißt sie ihrer Angst um uns--Bringt ihr
+Die Botschaft, daß wir leben, daß wir siegten,
+Und führt sie im Triumph nach Reims!
+(Du Chatel geht ab)
+
+
+
+DRITTER AUFZUG
+
+Achter Auftritt
+
+La Hire zu den Vorigen
+
+DUNOIS. La Hire!
+Wo ist die Jungfrau?
+
+LA HIRE. Wie? Das frag ich Euch.
+An Eurer Seite fechtend ließ ich sie.
+
+DUNOlS. Von Eurem Arme glaubt ich sie beschützt,
+Als ich dem König beizuspringen eilte.
+
+BURGUND. Im dichtsten Feindeshaufen sah ich noch
+Vor kurzem ihre weiße Fahne wehn.
+
+DUNOlS. Weh uns, wo ist sie? Böses ahndet mir!
+Kommt, eilen wir sie zu befrein.--Ich fürchte,
+Sie hat der kühne Mut zu weit geführt,
+Umringt von Feinden kämpft sie ganz allein,
+Und hülflos unterliegt sie jetzt der Menge.
+
+KARL. Eilt, rettet sie!
+
+LA HIRE. Ich folg euch, kommt!
+
+BURGUND. Wir alle! (Sie eilen fort)
+
+
+
+DRITTER AUFZUG
+
+Eine andre öde Gegend des Schlachtfelds
+Man sieht die Türme von Reims in der Ferne, von der Sonne
+beleuchtet
+
+Neunter Auftritt
+
+Ein Ritter in ganz schwarzer Rüstung, mit geschloßnem Visier.
+Johanna verfolgt ihn bis auf die vordere Bühne, wo er stille
+steht und sie erwartet
+
+JOHANNA. Arglistger! Jetzt erkenn ich deine Tücke!
+Du hast mich trüglich durch verstellte Flucht
+Vom Schlachtfeld weggelockt und Tod und Schicksal
+Von vieler Britensöhne Haupt entfernt.
+Doch jetzt ereilt dich selber das Verderben.
+
+SCHWARZER RITTER. Warum verfolgst du mich und heftest dich
+So wutentbrannt an meine Fersen? Mir
+Ist nicht bestimmt, von deiner Hand zu fallen.
+
+JOHANNA. Verhaßt in tiefster Seele bist du mir,
+Gleich wie die Nacht, die deine Farbe ist.
+Dich weg zu tilgen von dem Licht des Tags
+Treibt mich die unbezwingliche Begier.
+Wer bist du? Öffne dein Visier.--Hätt ich
+Den kriegerischen Talbot in der Schlacht
+Nicht fallen sehn, so sagt ich, du wärst Talbot.
+
+SCHWARZER RITTER. Schweigt dir die Stimme des Prophetengeistes?
+
+JOHANNA. Sie redet laut in meiner tiefsten Brust,
+Daß mir das Unglück an der Seite steht.
+
+SCHWARZER RITTER. Johanna d'Arc! Bis an die Tore Reims
+Bist du gedrungen auf des Sieges Flügeln.
+Dir gnüge der erworbne Ruhm. Entlasse
+Das Glück, das dir als Sklave hat gedient,
+Eh es sich zürnend selbst befreit, es haßt
+Die Treu und keinem dient es bis ans Ende.
+
+JOHANNA. Was heißest du in Mitte meines Laufs
+Mich stille stehen und mein Werk verlassen?
+Ich führ es aus und löse mein Gelübde!
+
+SCHWARZER RITTER. Nichts kann dir, du Gewaltge, widerstehn,
+In jedem Kampfe siegst du.--Aber gehe
+In keinen Kampf mehr. Höre meine Warnung!
+
+JOHANNA. Nicht aus den Händen leg ich dieses Schwert,
+Als bis das stolze England niederliegt.
+
+SCHWARZER RITTER. Schau hin! Dort hebt sich Reims mit seinen Türmen,
+Das Ziel und Ende deiner Fahrt--die Kuppel
+Der hohen Kathedrale siehst du leuchten,
+Dort wirst du einziehn im Triumphgepräng,
+Deinen König krönen, dein Gelübde lösen.
+--Geh nicht hinein. Kehr um. Hör meine Warnung.
+
+JOHANNA. Wer bist du, doppelzüngig falsches Wesen,
+Das mich erschrecken und verwirren will?
+Was maßest du dir an, mir falsch Orakel
+Betrüglich zu verkündigen?
+(Der schwarze Ritter will abgehen, sie tritt ihm in den Weg)
+Nein, du stehst
+Mir Rede, oder stirbst von meinen Händen!
+(Sie will einen Streich auf ihn führen)
+
+SCHWARZER RITTER (berührt sie mit der Hand, sie bleibt
+unbeweglich stehen). Töte, was sterblich ist!
+(Nacht, Blitz und Donnerschlag. Der Ritter versinkt)
+
+JOHANNA (steht anfangs erstaunt, faßt sich aber bald wieder).
+Es war nichts Lebendes.--Ein trüglich Bild
+Der Hölle wars, ein widerspenstger Geist,
+Heraufgestiegen aus dem Feuerpfuhl,
+Mein edles Herz im Busen zu erschüttern.
+Wen fürcht ich mit dem Schwerte meines Gottes?
+Siegreich vollenden will ich meine Bahn,
+Und käm die Hölle selber in die Schranken,
+Mir soll der Mut nicht weichen und nicht wanken!
+(Sie will abgehen)
+
+
+
+DRITTER AUFZUG
+
+Zehnter Auftritt
+
+Lionel. Johanna
+
+LIONEL. Verfluchte, rüste dich zum Kampf--Nicht beide
+Verlassen wir lebendig diesen Platz.
+Du hast die Besten meines Volks getötet,
+Der edle Talbot hat die große Seele
+In meinen Busen ausgehaucht.--Ich räche
+Den Tapfern oder teile sein Geschick.
+Und daß du wissest, wer dir Ruhm verleiht,
+Er sterbe oder siege--Ich bin Lionel,
+Der letzte von den Fürsten unsers Heers,
+Und unbezwungen noch ist dieser Arm.
+(Er dringt auf sie ein, nach einem kurzen Gefecht schlägt sie
+ihm das Schwert aus der Hand)
+Treuloses Glück! (Er ringt mit ihr)
+
+JOHANNA (ergreift ihn von hinten zu am Helmbusch und reißt
+ihm den Helm gewaltsam herunter, daß sein Gesicht entblößt
+wird, zugleich zückt sie das Schwert mit der Rechten).
+Erleide, was du suchtest,
+Die heilge Jungfrau opfert dich durch mich!
+(In diesem Augenblick sieht sie ihm ins Gesicht, sein Anblick
+ergreift sie, sie bleibt unbeweglich stehen und läßt dann
+langsam den Arm sinken)
+
+LIONEL. Was zauderst du und hemmst den Todesstreich?
+Nimm mir das Leben auch, du nahmst den Ruhm,
+Ich bin in deiner Hand, ich will nicht Schonung.
+(Sie gibt ihm ein Zeichen mit der Hand, sich zu entfernen)
+Entfliehen soll ich? Dir soll ich mein Leben
+Verdanken?--Eher sterben!
+
+JOHANNA (mit abgewandtem Gesicht). Rette dich!
+Ich will nichts davon wissen, daß dein Leben
+In meine Macht gegeben war.
+
+LIONEL. Ich hasse dich und dein Geschenk--Ich will
+Nicht Schonung--Töte deinen Feind, der dich
+Verabscheut, der dich töten wollte.
+
+JOHANNA. Töte mich
+--Und fliehe!
+
+LIONEL Ha! Was ist das?
+
+JOHANNA (verbirgt das Gesicht). Weh mir!
+
+LIONEL (tritt ihr näher). Du tötest, sagt man, alle Engelländer,
+Die du im Kampf bezwingst--Warum nur mich
+Verschonen?
+
+JOHANNA (erhebt das Schwert mit einer raschen Bewegung gegen ihn,
+läßt es aber, wie sie ihn ins Gesicht faßt, schnell wieder sinken).
+Heilge Jungfrau!
+
+
+LIONEL. Warum nennst du
+Die Heilge? Sie weiß nichts von dir, der Himmel
+Hat keinen Teil an dir.
+
+JOHANNA (in der heftigsten Beängstigung). Was hab ich
+Getan! Gebrochen hab ich mein Gelübde!
+(Sie ringt verzweifelnd die Hände)
+
+LIONEL (betrachtet sie mit Teilnahme und tritt ihr näher).
+Unglücklich Mädchen! Ich beklage dich,
+Du rührst mich, du hast Großmut ausgeübt
+An mir allein, ich fühle, daß mein Haß
+Verschwindet, ich muß Anteil an dir nehmen!
+--Wer bist du? Woher kommst du?
+
+JOHANNA. Fort! Entfliehe!
+
+LIONEL. Mich jammert deine Jugend, deine Schönheit!
+Dein Anblick dringt mir an das Herz. Ich möchte
+Dich gerne retten--Sage mir, wie kann ichs!
+Komm! Komm! Entsage dieser gräßlichen
+Verbindung--Wirf sie von dir, diese Waffen!
+
+JOHANNA. Ich bin unwürdig, sie zu führen!
+
+LIONEL. Wirf
+Sie von dir, schnell, und folge mir!
+
+JOHANNA (mit Entsetzen). Dir folgen!
+
+LIONEL. Du kannst gerettet werden. Folge mir!
+Ich will dich retten, aber säume nicht.
+Mich faßt ein ungeheurer Schmerz um dich,
+Und ein unnennbar Sehnen, dich zu retten--
+(Bemächtigt sich ihres Armes)
+
+JOHANNA. Der Bastard naht! Sie sinds! Sie suchen mich!
+Wenn sie dich finden--
+
+LIONEL. Ich beschütze dich!
+
+JOHANNA. Ich sterbe, wenn du fällst von ihren Händen!
+
+LIONEL. Bin ich dir teuer?
+
+JOHANNA. Heilige des Himmels!
+
+LIONEL. Werd ich dich wiedersehen? Von dir hören?
+
+JOHANNA. Nie! Niemals!
+
+LIONEL. Dieses Schwert zum Pfand, daß ich
+Dich wiedersehe!
+(Er entreißt ihr das Schwert)
+
+JOHANNA. Rasender, du wagst es?
+
+LIONEL. Jetzt weich ich der Gewalt, ich seh dich wieder!
+(Er geht ab)
+
+
+
+DRITTER AUFZUG
+
+Eilfter Auftritt
+
+Dunois und La Hire. Johanna
+
+LA HIRE. Sie lebt! Sie ists!
+
+DUNOIS. Johanna, fürchte nichts!
+Die Freunde stehen mächtig dir zur Seite.
+
+LA HIRE. Flieht dort nicht Lionel?
+
+DUNOIS. Laß ihn entfliehn!
+Johanna, die gerechte Sache siegt,
+Reims öffnet seine Tore, alles Volk
+Strömt jauchzend seinem Könige entgegen--
+
+LA HIRE. Was ist der Jungfrau? Sie erbleicht, sie sinkt!
+(Johanna schwindelt und will sinken)
+
+DUNOIS. Sie ist verwundet--Reißt den Panzer auf--
+Es ist der Arm und leicht ist die Verletzung.
+
+LA HIRE. Ihr Blut fließt.
+
+JOHANNA. Laßt es mit meinem Leben
+Hinströmen! (Sie liegt ohnmächtig in La Hires Armen)
+
+
+
+VIERTER AUFZUG
+
+Ein festlich ausgeschmückter Saal, die Säulen sind mit Festons
+umwunden, hinter der Szene Flöten und Hoboen
+
+Erster Auftritt
+
+JOHANNA. Die Waffen ruhn, des Krieges Stürme schweigen,
+Auf blutge Schlachten folgt Gesang und Tanz,
+Durch alle Straßen tönt der muntre Reigen,
+Altar und Kirche prangt in Festes Glanz,
+Und Pforten bauen sich aus grünen Zweigen,
+Und um die Säule windet sich der Kranz,
+Das weite Reims faßt nicht die Zahl der Gäste,
+Die wallend strömen zu dem Völkerfeste.
+
+Und einer Freude Hochgefühl entbrennet,
+Und ein Gedanke schlägt in jeder Brust,
+Was sich noch jüngst in blutgem Haß getrennet,
+Das teilt entzückt die allgemeine Lust,
+Wer nur zum Stamm der Franken sich bekennet,
+Der ist des Namens stolzer sich bewußt,
+Erneuert ist der Glanz der alten Krone,
+Und Frankreich huldigt seinem Königssohne.
+
+Doch mich, die all dies Herrliche vollendet,
+Mich rührt es nicht, das allgemeine Glück,
+Mir ist das Herz verwandelt und gewendet,
+Es flieht von dieser Festlichkeit zurück,
+Ins britsche Lager ist es hingewendet,
+Hinüber zu dem Feinde schweift der Blick,
+Und aus der Freude Kreis muß ich mich stehlen,
+Die schwere Schuld des Busens zu verhehlen.
+
+Wer? Ich? Ich eines Mannes Bild
+In meinem reinen Busen tragen?
+Dies Herz, von Himmels Glanz erfüllt,
+Darf einer irdschen Liebe schlagen?
+Ich meines Landes Retterin,
+Des höchsten Gottes Kriegerin,
+Für meines Landes Feind entbrennen!
+Darf ichs der keuschen Sonne nennen,
+Und mich vernichtet nicht die Scham!
+
+(Die Musik hinter der Szene geht in eine weich schmelzende
+Melodie über)
+
+Wehe! Weh mir! Welche Töne!
+Wie verführen sie mein Ohr!
+Jeder ruft mir seine Stimme,
+Zaubert mir sein Bild hervor!
+
+Daß der Sturm der Schlacht mich faßte.
+Speere sausend mich umtönten
+In des heißen Streites Wut!
+Wieder fänd ich meinen Mut!
+
+Diese Stimmen, diese Töne,
+Wie umstricken sie mein Herz,
+Jede Kraft in meinem Busen
+Lösen sie in weichem Sehnen,
+Schmelzen sie in Wehmuts-Tränen!
+
+(Nach einer Pause lebhafter)
+
+Sollt ich ihn töten? Konnt ichs, da ich ihm
+Ins Auge sah? Ihn töten! Eher hätt ich
+Den Mordstahl auf die eigne Brust gezückt!
+Und bin ich strafbar, weil ich menschlich war?
+Ist Mitleid Sünde?--Mitleid! Hörtest du
+Des Mitleids Stimme und der Menschlichkeit
+Auch bei den andern, die dein Schwert geopfert?
+Warum verstummte sie, als der Walliser dich,
+Der zarte Jüngling um sein Leben flehte?
+Arglistig Herz! Du lügst dem ewgen Licht,
+Dich trieb des Mitleids fromme Stimme nicht!
+
+Warum mußt ich ihm in die Augen sehn!
+Die Züge schaun des edeln Angesichts!
+Mit deinem Blick fing dein Verbrechen an,
+Unglückliche! Ein blindes Werkzeug fodert Gott,
+Mit blinden Augen mußtest dus vollbringen!
+Sobald du sahst, verließ dich Gottes Schild,
+Ergriffen dich der Hölle Schlingen!
+(Die Flöten wiederholen, sie versinkt in eine stille Wehmut )
+
+Frommer Stab! O hätt ich nimmer
+Mit dem Schwerte dich vertauscht!
+Hätt es nie in deinen Zweigen,
+Heilge Eiche! mir gerauscht!
+Wärst du nimmer mir erschienen,
+Hohe Himmelskönigin!
+Nimm, ich kann sie nicht verdienen,
+Deine Krone, nimm sie hin!
+
+Ach, ich sah den Himmel offen
+Und der Selgen Angesicht!
+Doch auf Erden ist mein Hoffen,
+Und im Himmel ist es nicht!
+Mußtest du ihn auf mich laden
+Diesen furchtbaren Beruf,
+Konnt ich dieses Herz verhärten,
+Das der Himmel fühlend schuf!
+
+Willst du deine Macht verkünden,
+Wähle sie, die frei von Sünden
+Stehn in deinem ewgen Haus,
+Deine Geister sende aus,
+Die Unsterblichen, die Reinen,
+Die nicht fühlen, die nicht weinen!
+Nicht die zarte Jungfrau wähle,
+Nicht der Hirtin weiche Seele!
+
+Kümmert mich das Los der Schlachten,
+Mich der Zwist der Könige?
+Schuldlos trieb ich meine Lämmer
+Auf des stillen Berges Höh.
+Doch du rissest mich ins Leben,
+In den stolzen Fürstensaal,
+Mich der Schuld dahinzugeben,
+Ach! es war nicht meine Wahl!
+
+
+
+VIERTER AUFZUG
+
+Zweiter Auftritt
+
+Agnes Sorel. Johanna
+
+SOREL (kommt in lebhafter Rührung, wie sie die Jungfrau erblickt,
+eilt sie auf sie zu und fällt ihr um den Hals; plötzlich besinnt
+sie sich, läßt sie los und fällt vor ihr nieder).
+Nein! Nicht so! Hier im Staub vor dir--
+
+JOHANNA (will sie aufheben). Steh auf!
+Was ist dir? Du vergissest dich und mich.
+
+SOREL. Laß mich! Es ist der Freude Drang, der mich
+Zu deinen Füßen niederwirft--ich muß
+Mein überwallend Herz vor Gott ergießen,
+Den Unsichtbaren bet ich an in dir.
+Du bist der Engel, der mir meinen Herrn
+Nach Reims geführt und mit der Krone schmückt.
+Was ich zu sehen nie geträumt, es ist
+Erfüllt! Der Krönungszug bereitet sich,
+Der König steht im festlichen Ornat,
+Versammelt sind die Pairs, die Mächtigen
+Der Krone, die Insignien zu tragen,
+Zur Kathedrale wallend strömt das Volk,
+Es schallt der Reigen und die Glocken tönen,
+O dieses Glückes Fülle trag ich nicht!
+(Johanna hebt sie sanft in die Höhe. Agnes Sorel hält einen
+Augenblick inne, indem sie der Jungfrau näher ins Auge sieht)
+Doch du bleibst immer ernst und streng, du kannst
+Das Glück erschaffen, doch du teilst es nicht.
+Dein Herz ist kalt, du fühlst nicht unsre Freuden,
+Du hast der Himmel Herrlichkeit gesehn,
+Die reine Brust bewegt kein irdisch Glück.
+
+(Johanna ergreift ihre Hand mit Heftigkeit, läßt sie aber
+schnell wieder fahren)
+O könntest du ein Weib sein und empfinden!
+Leg diese Rüstung ab, kein Krieg ist mehr,
+Bekenne dich zum sanfteren Geschlechte!
+Mein liebend Herz flieht scheu vor dir zurück,
+Solange du der strengen Pallas gleichst.
+
+JOHANNA. Was foderst du von mir!
+
+SOREL. Entwaffne dich! Leg diese Rüstung ab, die Liebe fürchtet,
+Sich dieser stahlbedeckten Brust zu nahn.
+O sei ein Weib und du wirst Liebe fühlen!
+
+JOHANNA. Jetzt soll ich mich entwaffnen! Jetzt! Dem Tod
+Will ich die Brust entblößen in der Schlacht!
+Jetzt nicht--o möchte siebenfaches Erz
+Vor euren Festen, vor mir selbst mich schützen!
+
+SOREL. Dich liebt Graf Dunois. Sein edles Herz,
+Dem Ruhm nur offen und der Heldentugend,
+Es glüht für dich in heiligem Gefühl.
+O es ist schön, von einem Helden sich geliebt
+Zu sehn--es ist noch schöner, ihn zu lieben!
+(Johanna wendet sich mit Abscheu hinweg)
+Du hassest ihn!--Nein, nein, du kannst ihn nur
+Nicht lieben--Doch wie solltest du ihn hassen!
+Man haßt nur den, der den Geliebten uns
+Entreißt, doch dir ist keiner der Geliebte!
+Dein Herz ist ruhig--Wenn es fühlen könnte--
+
+JOHANNA. Beklage mich! Beweine mein Geschick!
+
+SOREL. Was könnte dir zu deinem Glücke mangeln?
+Du hast dein Wort gelöst, Frankreich ist frei,
+Bis in die Krönungsstadt hast du den König
+Siegreich geführt, und hohen Ruhm erstritten,
+Dir huldiget, dich preist ein glücklich Volk,
+Von allen Zungen überströmend fließt
+Dein Lob, du bist die Göttin dieses Festes,
+Der König selbst mit seiner Krone strahlt
+Nicht herrlicher als du.
+
+JOHANNA. O könnt ich mich
+Verbergen in den tiefsten Schoß der Erde!
+
+SOREL. Was ist dir? Welche seltsame Bewegung!
+Wer dürfte frei aufschaun an diesem Tage,
+Wenn du die Blicke niederschlagen sollst!
+Mich laß erröten, mich, die neben dir
+So klein sich fühlt, zu deiner Heldenstärke sich,
+Zu deiner Hoheit nicht erheben kann!
+Denn soll ich meine ganze Schwäche dir
+Gestehen,--Nicht der Ruhm des Vaterlandes,
+Nicht der erneute Glanz des Thrones, nicht
+Der Völker Hochgefühl und Siegesfreude
+Beschäftigt dieses schwache Herz. Es ist
+Nur einer, der es ganz erfüllt, es hat
+Nur Raum für dieses einzige Gefühl:
+Er ist der Angebetete, ihm jauchzt das Volk,
+Ihn segnet es, ihm streut es diese Blumen,
+Er ist der Meine, der Geliebte ists.
+
+JOHANNA. O du bist glücklich! Selig preise dich!
+Du liebst, wo alles liebt! Du darfst dein Herz
+Aufschließen, laut aussprechen dein Entzücken
+Und offen tragen vor der Menschen Blicken!
+Dies Fest des Reichs ist deiner Liebe Fest,
+Die Völker alle, die unendlichen,
+Die sich in diesen Mauren flutend drängen,
+Sie teilen dein Gefühl, sie heilgen es,
+Dir jauchzen sie, dir flechten sie den Kranz,
+Eins bist du mit der allgemeinen Wonne,
+Du liebst das Allerfreuende, die Sonne,
+Und was du siehst, ist deiner Liebe Glanz!
+
+SOREL (ihr um den Hals fallend).
+O du entzückst mich, du verstehst mich ganz!
+Ja ich verkannte dich, du kennst die Liebe,
+Und was ich fühle, sprichst du mächtig aus.
+Von seiner Furcht und Scheue löst sich mir
+Das Herz, es wallt vertrauend dir entgegen
+
+JOHANNA (entreißt sich mit Heftigkeit ihren Armen).
+Verlaß mich. Wende dich von mir! Beflecke
+Dich nicht mit meiner pesterfüllten Nähe!
+Sei glücklich, geh, mich laß in tiefster Nacht
+Mein Unglück, meine Schande, mein Entsetzen
+Verbergen--
+
+SOREL. Du erschreckst mich, ich begreife
+Dich nicht, doch ich begriff dich nie--und stets
+Verhüllt war mir dein dunkel tiefes Wesen.
+Wer möcht es fassen, was dein heilig Herz,
+Der reinen Seele Zartgefühl erschreckt!
+
+JOHANNA. Du bist die Heilige! Du bist die Reine!
+Sähst du mein Innerstes, du stießest schaudernd
+Die Feindin von dir, die Verräterin!
+
+
+
+VIERTER AUFZUG
+
+Dritter Auftritt
+
+Die Vorigen. Dunois. Du Chatel und La Hire mit der Fahne der
+Johanna
+
+DUNOIS. Dich suchen wir, Johanna. Alles ist
+Bereit, der König sendet uns, er will,
+Daß du vor ihm die heilge Fahne tragest,
+Du sollst dich schließen an der Fürsten Reihn,
+Die Nächste an ihm selber sollst du gehn,
+Denn er verleugnete nicht und alle Welt
+Soll es bezeugen, daß er dir allein
+Die Ehre dieses Tages zuerkennt.
+
+LA HIRE. Hier ist die Fahne. Nimm sie, edle Jungfrau,
+Die Fürsten warten und es harrt das Volk.
+
+JOHANNA Ich vor ihm herziehn! Ich die Fahne tragen!
+
+DUNOIS. Wem anders ziemt' es! Welche andre Hand
+Ist rein genug, das Heiligtum zu tragen!
+Du schwangst sie im Gefechte, trage sie
+Zur Zierde nun auf diesem Weg der Freude.
+(La Hire will ihr die Fahne überreichen, sie bebt schaudernd
+davor zurück)
+
+JOHANNA. Hinweg! Hinweg!
+
+LA HIRE. Was ist dir? Du erschrickst
+Vor deiner eignen Fahne!--Sieh sie an!
+(Er rollt die Fahne auseinander)
+Es ist dieselbe, die du siegend schwangst.
+Die Himmelskönigin ist drauf gebildet,
+Die über einer Erdenkugel schwebt,
+Denn also lehrte dichs die heilge Mutter.
+
+JOHANNA (mit Entsetzen hinschauend).
+Sie ists! Sie selbst! Ganz so erschien sie mir.
+Seht, wie sie herblickt und die Stirne faltet,
+Zornglühend aus den finstern Wimpern schaut!
+
+SOREL. O sie ist außer sich! Komm zu dir selbst!
+Erkenne dich, du siehst nichts Wirkliches!
+Das ist ihr irdisch nachgeahmtes Bild,
+Sie selber wandelt in des Himmels Chören!
+
+JOHANNA. Furchtbare, kommst du dein Geschöpf zu strafen?
+Verderbe, strafe mich, nimm deine Blitze,
+Und laß sie fallen auf mein schuldig Haupt.
+Gebrochen hab ich meinen Bund, entweiht,
+Gelästert hab ich deinen heilgen Namen!
+
+DUNOIS. Weh uns! Was ist das! Welch unselge Reden!
+
+LA HIRE (erstaunt zu Du Chatel).
+Begreift Ihr diese seltsame Bewegung?
+
+DU CHATEL. Ich sehe, was ich seh. Ich hab es längst
+Gefürchtet.
+
+DUNOIS. Wie? Was sagt Ihr?
+
+DU CHATEL. Was ich denke,
+Darf ich nicht sagen. Wollte Gott, es wäre
+Vorüber und der König wär gekrönt!
+
+LA HIRE. Wie? Hat der Schrecken, der von dieser Fahne
+Ausging, sich auf dich selbst zurückgewendet?
+Den Briten laß vor diesem Zeichen zittern,
+Den Feinden Frankreichs ist es fürchterlich,
+Doch seinen treuen Bürgern ist es gnädig.
+
+JOHANNA. Ja du sagst recht! Den Freunden ist es hold
+Und auf die Feinde sendet es Entsetzen!
+(Man hört den Krönungsmarsch)
+
+DUNOIS. So nimm die Fahne! Nimm sie! Sie beginnen
+Den Zug, kein Augenblick ist zu verlieren!
+
+(Sie dringen ihr die Fahne auf, sie ergreift sie mit heftigem
+Widerstreben und geht ab, die andern folgen)
+
+
+
+VIERTER AUFZUG
+
+Die Szene verwandelt sich in einen freien Platz vor der
+Kathedralkirche
+
+Vierter Auftritt
+
+Zuschauer erfüllen den Hintergrund, aus ihnen heraus treten
+Bertrand, Claude Marie und Etienne und kommen vorwärts. Der
+Krönungsmarsch erschallt gedämpft aus der Ferne
+
+BERTRAND. Hört die Musik! Sie sinds! Sie nahen schon!
+Was ist das Beste? Steigen wir hinauf
+Auf die Platforme, oder drängen uns
+Durchs Volk, daß wir vom Aufzug nichts verlieren,
+
+ETIENNE. Es ist nicht durchzukommen. Alle Straßen sind
+Von Menschen vollgedrängt, zu Roß und Wagen.
+Laßt uns hieher an diese Häuser treten,
+Hier können wir den Zug gemächlich sehen,
+Wenn er vorüberkommt!
+
+CLAUDE MARIE. Ists doch, als ob
+Halb Frankreich sich zusammen hier gefunden!
+So allgewaltig ist die Flut, daß sie
+Auch uns im fernen lothringischen Land
+Hat aufgehoben und hieher gespült!
+
+BERTRAND. Wer wird
+In seinem Winkel müßig sitzen, wenn
+Das Große sich begibt im Vaterland!
+Es hat auch Schweiß und Blut genug gekostet,
+Bis daß die Krone kam aufs rechte Haupt!
+Und unser König, der der wahre ist,
+Dem wir die Kron itzt geben, soll nicht schlechter
+Begleitet sein, als der Pariser ihrer,
+Den sie zu Saint Denis gekrönt! Der ist
+Kein Wohlgesinnter, der von diesem Fest
+Wegbleibt, und nicht mit ruft: es lebe der König!
+
+
+
+VIERTER AUFZUG
+
+Fünfter Auftritt
+
+Margot und Louison treten zu ihnen
+
+LOUISON. Wir werden unsre Schwester sehen, Margot!
+Mir pocht das Herz.
+
+MARGOT. Wir werden sie im Glanz
+Und in der Hoheit sehn, und zu uns sagen:
+Es ist Johanna, es ist unsre Schwester!
+
+LOUISON. Ich kanns nicht glauben, bis ich sie mit Augen
+Gesehn, daß diese Mächtige, die man
+Die Jungfrau nennt von Orleans, unsre Schwester
+Johanna ist, die uns verlorenging.
+(Der Marsch kommt immer näher)
+
+MARGOT. Du zweifelst noch! Du wirsts mit Augen sehn!
+
+BERTRAND. Gebt acht! Sie kommen!
+
+
+
+VIERTER AUFZUG
+
+Sechster Auftritt
+
+Flötenspieler und Hoboisten eröffnen den Zug. Kinderfolgen,
+weiß gekleidet, mit Zweigen in der Hand, hinter diesen zwei
+Herolde. Darauf ein Zug von Hellebardierern. Magistratspersonen
+in der Robe folgen. Hierauf zwei Marschälle mit dem Stabe,
+Herzog von Burgund das Schwert tragend, Dunois mit dem Szepter,
+andere Große mit der Krone, dem Reichsapfel und dem
+Gerichtsstabe, andere mit Opfergaben; hinter diesen Ritter
+in ihrem Ordensschmuck, Chorknaben mit dem Rauchfaß, dann zwei
+Bischöfe mit der Sainte Ampoule. Erzbischof mit dem Kruzifix;
+ihm folgt Johanna mit der Fahne. Sie geht mit gesenktem Haupt
+und ungewissen Schritten, die Schwestern geben bei ihrem
+Anblick Zeichen des Erstaunens und der Freude. Hinter ihr
+kommt der König, unter einem Thronhimmel, welchen vier Barone
+tragen, Hofleute folgen, Soldaten schließen. Wenn der Zug in
+die Kirche hinein ist, schweigt der Marsch
+
+
+
+VIERTER AUFZUG
+
+Siebenter Auftritt
+
+Louison. Margot. Claude Marie. Etienne. Bertrand
+
+MARGOT. Sahst du die Schwester?
+
+CLAUDE MARIE. Die im goldnen Harnisch,
+Die vor dem König herging mit der Fahne!
+
+MARGOT. Sie wars. Es war Johanna, unsre Schwester!
+
+LOUISON. Und sie erkannt uns nicht! Sie ahndete
+Die Nähe nicht der schwesterlichen Brust.
+Sie sah zur Erde und erschien so blaß,
+Und unter ihrer Fahne ging sie zitternd--
+Ich konnte mich nicht freun, da ich sie sah.
+
+MARGOT. So hab ich unsre Schwester nun im Glanz
+Und in der Herrlichkeit gesehn.--Wer hätte
+Auch nur im Traum geahndet und gedacht,
+Da sie die Herde trieb auf unsern Bergen,
+Daß wir in solcher Pracht sie würden schauen.
+
+LOUISON. Der Traum des Vaters ist erfüllt, daß wir
+Zu Reims uns vor der Schwester würden neigen.
+Das ist die Kirche, die der Vater sah
+Im Traum, und alles hat sich nun erfüllt.
+Doch der Vater sah auch traurige Gesichte,
+Ach, mich bekümmerts, sie so groß zu sehn!
+
+BERTRAND. Was stehn wir müßig hier? Kommt in die Kirche,
+Die heilge Handlung anzusehn!
+
+MARGOT. Ja kommt!
+Vielleicht, daß wir der Schwester dort begegnen.
+
+LOUISON. Wir haben sie gesehen, kehren wir
+In unser Dorf zurück.
+
+MARGOT. Was? Eh wir sie
+Begrüßt und angeredet?
+
+LOUISON. Sie gehört
+Uns nicht mehr an, bei Fürsten ist ihr Platz
+Und Königen--Wer sind wir, daß wir uns
+Zu ihrem Glanze rühmend eitel drängen?
+Sie war uns fremd, da sie noch unser war!
+
+MARGOT. Wird sie sich unser schämen, uns verachten?
+
+BERTRAND. Der König selber schämt sich unser nicht,
+Er grüßte freundlich auch den Niedrigsten.
+Sei sie so hoch gestiegen als sie will,
+Der König ist doch größer!
+(Trompeten und Pauken erschallen aus der Kirche)
+
+CLAUDE MARIE. Kommt zur Kirche!
+(Sie eilen nach dem Hintergrund, wo sie sich unter dem Volke
+verlieren)
+
+
+
+VIERTER AUFZUG
+
+Achter Auftritt
+
+Thibaut kommt, schwarz gekleidet, Raimond folgt ihm und will
+ihn zurückehalten
+
+RAIMOND. Bleibt, Vater Thibaut! Bleibt aus dem Gedränge
+Zurück! Hier seht Ihr lauter frohe Menschen,
+Und Euer Gram beleidigt dieses Fest.
+Kommt! Fliehn wir aus der Stadt mit eilgen Schritten.
+
+THIBAUT. Sahst du mein unglückselig Kind? Hast du
+Sie recht betrachtet?
+
+RAIMOND. O ich bitt Euch, flieht!
+
+THIBAUT. Bemerktest du, wie ihre Schritte wankten,
+Wie bleich und wie verstört ihr Antlitz war!
+Die Unglückselige fühlt ihren Zustand,
+Das ist der Augenblick, mein Kind zu retten,
+Ich will ihn nutzen.
+(Er will gehen)
+
+RAIMOND. Bleibt! Was wollt Ihr tun?
+
+THIBAUT. Ich will sie überraschen, will sie stürzen
+Von ihrem eiteln Glück, ja mit Gewalt
+Will ich zu ihrem Gott, dem sie entsagt,
+Zurück sie führen.
+
+RAIMOND. Ach! Erwägt es wohl!
+Stürzt Euer eigen Kind nicht ins Verderben!
+
+THIBAUT. Lebt ihre Seele nur, ihr Leib mag sterben.
+(Johanna stürzt aus der Kirche heraus, ohne ihre Fahne, Volk
+dringt zu ihr, adoriert sie rund küßt ihre Kleider, sie wird
+durch das Gedränge im Hintergrunde aufgehalten)
+Sie kommt! Sie ists! Bleich stürzt sie aus der Kirche,
+Es treibt die Angst sie aus dem Heiligtum,
+Das ist das göttliche Gericht, das sich
+An ihr verkündiget!--
+
+RAIMOND. Lebt wohl!
+Verlangt nicht, daß ich länger Euch begleite!
+Ich kam voll Hoffnung und ich geh voll Schmerz.
+Ich habe Eure Tochter wieder gesehn,
+Und fühle, daß ich sie aufs neu verliere!
+(Er geht ab, Thibaut entfernt sich auf der entgegengesetzten Seite)
+
+
+
+VIERTER AUFZUG
+
+Neunter Auftritt
+
+Johanna. Volk. Hernach ihre Schwestern
+
+JOHANNA (hat sich des Volks erwehrt und kommt vorwärts).
+Ich kann nicht bleiben--Geister jagen mich,
+Wie Donner schallen mir der Orgel Töne,
+Des Doms Gewölbe stürzen auf mich ein,
+Des freien Himmels Weite muß ich suchen!
+Die Fahne ließ ich in dem Heiligtum,
+Nie, nie soll diese Hand sie mehr berühren!
+--Mir wars, als hält ich die geliebten Schwestern,
+Margot und Louison, gleich einem Traum
+An mir vorüber gleiten sehen.--Ach!
+Es war nur eine täuschende Erscheinung!
+Fern sind sie, fern und unerreichbar weit,
+Wie meiner Kindheit, meiner Unschuld Glück!
+
+MARGOT (hervortretend). Sie ists, Johanna ists.
+
+LOUISON (eilt ihr entgegen). O meine Schwester!
+
+JOHANNA. So wars kein Wahn--Ihr seid es--Ich umfaß euch,
+Dich meine Louison! Dich meine Margot!
+Hier in der fremden menschenreichen Öde
+Umfang ich die vertraute Schwesterbrust!
+
+MARGOT. Sie kennt uns noch, ist noch die gute Schwester.
+
+JOHANNA. Und eure Liebe führt euch zu mir her
+So weit, so weit! Ihr zürnt der Schwester nicht,
+Die lieblos ohne Abschied euch verließ!
+
+LOUISON. Dich führte Gottes dunkle Schickung fort.
+
+MARGOT. Der Ruf von dir, der alle Welt bewegt,
+Der deinen Namen trägt auf allen Zungen,
+Hat uns erweckt in unserm stillen Dorf,
+Und hergeführt zu dieses Festes Feier.
+Wir kommen deine Herrlichkeit zu sehn,
+Und wir sind nicht allein!
+
+JOHANNA (schnell). Der Vater ist mit euch!
+Wo, wo ist er? Warum verbirgt er sich?
+
+MARGOT. Der Vater ist nicht mit uns.
+
+JOHANNA. Nicht? Er will sein Kind
+Nicht sehn? Ihr bringt mir seinen Segen nicht?
+
+LOUISON. Er weiß nicht, daß wir hier sind.
+
+JOHANNA. Weiß es nicht!
+Warum nicht?--Ihr verwirret euch? Ihr schweigt
+Und seht zur Erde! Sagt, wo ist der Vater?
+
+MARGOT. Seitdem du weg bist
+
+LOUISON (winkt ihr). Margot!
+
+MARGOT. Ist der Vater
+Schwermütig worden.
+
+JOHANNA. Schwermütig!
+
+LOUISON. Tröste dich!
+Du kennst des Vaters ahndungsvolle Seele!
+Er wird sich fassen, sich zufrieden geben,
+Wenn wir ihm sagen, daß du glücklich bist.
+
+MARGOT. Du bist doch glücklich? Ja du mußt es sein,
+Da du so groß bist und geehrt!
+
+JOHANNA. Ich bins.
+Da ich euch wieder sehe, eure Stimme
+Vernehme, den geliebten Ton, mich heim
+Erinnre an die väterliche Flur.
+Da ich die Herde trieb auf unsern Höhen,
+Da war ich glücklich wie im Paradies--
+Kann ichs nicht wieder sein, nicht wieder werden!
+(Sie verbirgt ihr Gesicht an Louisons Brust. Claude Marie,
+Etienne und Bertrand zeigen sich und bleiben schüchtern in
+der Ferne stehen)
+
+MARGOT. Kommt, Etienne! Bertrand! Claude Marie!
+Die Schwester ist nicht stolz, sie ist so sanft
+Und spricht so freundlich, als sie nie getan,
+Da sie noch in dem Dorf mit uns gelebt.
+(Jene treten näher und wollen ihr die Hand reichen, Johanna
+sieht sie mit starren Blicken an, und fällt in ein tiefes Staunen)
+
+JOHANNA. Wo war ich? Sagt mir! War das alles nur
+Ein langer Traum und ich bin aufgewacht?
+Bin ich hinweg aus Dom Remi? Nicht wahr!
+Ich war entschlafen unterm Zauberbaum,
+Und bin erwacht, und ihr steht um mich her,
+Die wohlbekannten traulichen Gestalten?
+Mir hat von diesen Königen und Schlachten
+Und Kriegestaten nur geträumt--es waren
+Nur Schatten, die an mir vorübergingen,
+Denn lebhaft träumt sichs unter diesem Baum.
+Wie kämet ihr nach Reims? Wie käm ich selbst
+Hieher? Nie, nie verließ ich Dom Remi!
+Gesteht mirs offen und erfreut mein Herz.
+
+LOUISON. Wir sind zu Reims. Dir hat von diesen Taten
+Nicht bloß geträumt, du hast sie alle wirklich
+Vollbracht.--Erkenne dich, blick um dich her,
+Befühle deine glänzend goldne Rüstung!
+(Johanna fährt mit der Hand nach der Brust, besinnt sich und
+erschrickt)
+
+BERTRAND. Aus meiner Hand empfingt Ihr diesen Helm.
+
+CLAUDE MARIE. Es ist kein Wunder, daß Ihr denkt zu träumen,
+Denn was Ihr ausgerichtet und getan,
+Kann sich im Traum nicht wunderbarer fügen.
+
+JOHANNA (schnell). Kommt, laßt uns fliehn! Ich geh mit euch,
+ich kehre
+In unser Dorf, in Vaters Schoß zurück.
+
+LOUISON. O komm! komm mit uns!
+
+JOHANNA. Diese Menschen alle
+Erheben mich weit über mein Verdienst!
+Ihr habt mich kindisch, klein und schwach gesehn,
+Ihr liebt mich, doch ihr betet mich nicht an!
+
+MARGOT. Du wolltest allen diesen Glanz verlassen!
+
+JOHANNA. Ich werf ihn von mir, den verhaßten Schmuck,
+Der euer Herz von meinem Herzen trennt,
+Und eine Hirtin will ich wieder werden.
+Wie eine niedre Magd will ich euch dienen,
+Und büßen will ichs mit der strengsten Buße,
+Daß ich mich eitel über euch erhob!
+
+(Trompeten erschallen)
+
+
+
+VIERTER AUFZUG
+
+Zehenter Auftritt
+
+Der König tritt aus der Kirche, er ist im Krönungsornat,
+Agnes Sorel, Erzbischof, Burgund, Dunois, La Hire, Du Chatel,
+Ritter, Hofleute und Volk
+
+ALLE STIMMEN (rufen wiederholt, während daß der König
+vorwärtskommt).
+Es lebe der König! Karl der Siebente!
+(Trompeten fallen ein. Auf ein Zeichen, das der König gibt,
+gebieten die Herolde mit erhobenem Stabe Stillschweigen)
+
+KÖNIG. Mein gutes Volk! Habt Dank für eure Liebe!
+Die Krone, die uns Gott aufs Haupt gesetzt,
+Durchs Schwert ward sie gewonnen und erobert,
+Mit edelm Bürgerblut ist sie benetzt,
+Doch friedlich soll der Ölzweig sie umgrünen.
+Gedankt sei allen, die für uns gefochten,
+Und allen, die uns widerstanden, sei
+Verziehn, denn Gnade hat uns Gott erzeigt,
+Und unser erstes Königswort sei--Gnade!
+
+VOLK. Es lebe der König! Karl der Gütige!
+
+KÖNIG. Von Gott allein, dem höchsten Herrschenden,
+Empfangen Frankreichs Könige die Krone.
+Wir aber haben sie sichtbarer Weise
+Aus seiner Hand empfangen.
+(Zur Jungfrau sich wendend)
+Hier steht die Gottgesendete, die euch
+Den angestammten König wieder gab,
+Das Joch der fremden Tyrannei zerbrochen!
+Ihr Name soll dem heiligen Denis
+Gleich sein, der dieses Landes Schützer ist,
+Und ein Altar sich ihrem Ruhm erheben!
+
+VOLK. Heil, Heil der Jungfrau, der Erretterin! (Trompeten)
+
+KÖNIG (zu Johanna). Wenn du von Menschen bist gezeugt wie wir,
+So sage, welches Glück dich kann erfreuen;
+Doch wenn dein Vaterland dort oben ist,
+Wenn du die Strahlen himmlischer Natur
+In diesem jungfräulichen Leib verhüllst,
+So nimm das Band hinweg von unsern Sinnen
+Und laß dich sehn in deiner Lichtgestalt,
+Wie dich der Himmel sieht, daß wir anbetend
+Im Staube dich verehren.
+(Ein allgemeines Stillschweigen, jedes Auge ist auf die
+Jungfrau gerichtet)
+
+JOHANNA (plötzlich aufschreiend). Gott! Mein Vater!
+
+
+
+VIERTER AUFZUG
+
+Eilfter Auftritt
+
+Die Vorigen. Thibaut tritt aus der Menge und steht Johanna
+gerade gegenüber
+
+MEHRERE STIMMEN. Ihr Vater!
+
+THIBAUT. Ja ihr jammervoller Vater,
+Der die Unglückliche gezeugt, den Gottes
+Gericht hertreibt, die eigne Tochter anzuklagen.
+
+BURGUND. Ha! Was ist das!
+
+DU CHATEL. Jetzt wird es schrecklich tagen!
+
+THIBAUT (zum König).
+Gerettet glaubst du dich durch Gottes Macht?
+Betrogner Fürst! Verblendet Volk der Franken!
+Du bist gerettet durch des Teufels Kunst.
+(Alle treten mit Entsetzen zurück)
+
+DUNOIS. Rast dieser Mensch?
+
+THIBAUT. Nicht ich, du aber rasest,
+Und diese hier, und dieser weise Bischof,
+Die glauben, daß der Herr der Himmel sich
+Durch eine schlechte Magd verkünden werde.
+Laß sehn, ob sie auch in des Vaters Stirn
+Der dreisten Lüge Gaukelspiel behauptet,
+Womit sie Volk und König hinterging.
+Antworte mir im Namen des Dreieinen,
+Gehörst du zu den Heiligen und Reinen?
+(Allgemeine Stille, alle Blicke sind auf sie gespannt, sie
+steht unbeweglich)
+
+SOREL. Gott, sie verstummt!
+
+THIBAUT. Das muß sie vor dem furchtbarn Namen
+Der in der Höllen Tiefen selbst
+Gefürchtet wird!--Sie eine Heilige,
+Von Gott gesendet!--An verfluchter Stätte
+Ward es ersonnen, unterm Zauberbaum,
+Wo schon von alters her die bösen Geister
+Den Sabbat halten--hier verkaufte sie
+Dem Feind der Menschen ihr unsterblich Teil,
+Daß er mit kurzem Weltruhm sie verherrliche.
+Laßt sie den Arm aufstreifen, seht die Punkte,
+Womit die Hölle sie gezeichnet hat!
+
+BURGUND. Entsetzlich!--Doch dem Vater muß man glauben,
+Der wider seine eigne Tochter zeugt!
+
+DUNOIS. Nein, nicht zu glauben ist dem Rasenden,
+Der in dem eignen Kind sich selber schändet!
+
+SOREL (zur Johanna). O rede! Brich dies unglückselge Schweigen!
+Wir glauben dir! Wir trauen fest auf dich!
+Ein Wort aus deinem Mund, ein einzig Wort
+Soll uns genügen--Aber sprich! Vernichte
+Die gräßliche Beschuldigung--Erkläre,
+Du seist unschuldig, und wir glauben dir.
+(Johanna steht unbeweglich, Agnes Sorel tritt mit Entsetzen
+von ihr hinweg)
+
+LA HIRE. Sie ist erschreckt. Erstaunen und Entsetzen
+Schließt ihr den Mund.--Vor solcher gräßlichen
+Anklage muß die Unschuld selbst erheben.
+(Er nähert sich ihr)
+Faß dich, Johanna. Fühle dich. Die Unschuld
+Hat eine Sprache, einen Siegerblick,
+Der die Verleumdung mächtig niederblitzt!
+In edelm Zorn erhebe dich, blick auf,
+Beschäme, strafe den unwürdgen Zweifel,
+Der deine heilge Tugend schmäht.
+(Johanna steht unbeweglich. La Hire tritt entsetzt zurück,
+die Bewegung vermehrt sich)
+
+DUNOIS. Was zagt das Volk? Was zittern selbst die Fürsten?
+Sie ist unschuldig--Ich verbürge mich,
+Ich selbst, für sie mit meiner Fürstenehre!
+Hier werf ich meinen Ritterhandschuh hin,
+Wer wagte, sie eine Schuldige zu nennen?
+(Ein heftiger Donnerschlag, alle stehen entsetzt)
+
+THIBAUT. Antworte bei dem Gott, der droben donnert!
+Sprich, du seist schuldlos. Leugn es, daß der Feind
+In deinem Herzen ist, und straf mich Lügen!
+(Ein zweiter stärkerer Schlag, das Volk en Sieht zu allen Seiten)
+
+BURGUND. Gott schütz uns! Welche fürchterliche Zeichen!
+
+DU CHATEL (zum König).
+Kommt! Kommt, mein König! Fliehet diesen Ort!
+
+ERZBISCHOF (zur Johanna).
+Im Namen Gottes frag ich dich. Schweigst du
+Aus dem Gefühl der Unschuld oder Schuld,
+Wenn dieses Donners Stimme fiir dich zeugt,
+So fasse dieses Kreuz und gib ein Zeichen!
+
+(Johanna bleibt unbeweglich. Neue heftige Donnerschläge.
+Der König, Agnes Sorel, Erzbischof, Burgund, La Hire und
+Du Chatel gehen ab)
+
+
+
+VIERTER AUFZUG
+
+Zwölfter Auftritt
+
+Dunois. Johanna
+
+DUNOIS. Du bist mein Weib--Ich hab an dich geglaubt
+Beim ersten Blick, und also denk ich noch.
+Dir glaub ich mehr als diesen Zeichen allen,
+Als diesem Donner selbst, der droben spricht.
+Du schweigst in edelm Zorn, verachtest es,
+In deine heilge Unschuld eingehüllt,
+So schändlichen Verdacht zu widerlegen.
+--Veracht es, aber mir vertraue dich,
+An deiner Unschuld hab ich nie gezweifelt.
+Sag mir kein Wort, die Hand nur reiche mir
+Zum Pfand und Zeichen, daß du meinem Arme
+Getrost vertraust und deiner guten Sache.
+(Er reicht ihr die Hand hin, sie wendet sich mit einer
+zuckenden Bewegung von ihm hinweg; er bleibt in starrem
+Entsetzen stehen)
+
+
+
+VIERTER AUFZUG
+
+Dreizehnter Auftritt
+
+Johanna. Du Chatel. Dunois. Zuletzt Raimond
+
+DU CHATEL (zurückkommend).
+Johanna d'Arc! Der König will erlauben,
+Daß Ihr die Stadt verlasset ungekränkt.
+Die Tore stehn Euch offen. Fürchtet keine
+Beleidigung. Euch schützt des Königs Frieden--
+Folgt mir, Graf Dunois--Ihr habt nicht Ehre,
+Hier länger zu verweilen--Welch ein Ausgang!
+(Er geht. Dunois fährt aus seiner Erstarrung auf, wirft
+noch einen Blick auf Johanna und geht ab. Diese steht
+einen Augenblick ganz allein. Endlich erscheint Raimond,
+bleibt eine Weile in der Ferne stehen, und betrachtet sie
+mit stillem Schmerz. Dann tritt er auf sie zu und faßt sie
+bei der Hand)
+
+RAIMOND. Ergreift den Augenblick. Kommt! Kommt! Die Straßen
+Sind leer. Gebt mir die Hand. Ich will Euch führen.
+(Bei seinem Anblick gibt sie das erste Zeichen der Empfindung,
+sieht ihn starr an und blickt zum Himmel, dann ergreift sie
+ihn heftig bei der Hand und geht ab)
+
+
+
+FÜNFTER AUFZUG
+
+Ein wilder Wald, in der Ferne Köhlerhütten. Es ist ganz dunkel,
+heftiges Donnern und Blitzen, dazwischen Schießen
+
+Erster Auftritt
+
+Köhler und Köhlerweib
+
+KÖHLER. Das ist ein grausam, mördrisch Ungewitter,
+Der Himmel droht in Feuerbächen sich
+Herabzugießen, und am hellen Tag
+Ists Nacht, daß man die Sterne könnte sehn.
+Wie eine losgelaßne Hölle tobt
+Der Sturm, die Erde bebt und krachend beugen
+Die alt verjährten Eschen ihre Krone.
+Und dieser fürchterliche Krieg dort oben,
+Der auch die wilden Tiere Sanftmut lehrt,
+Daß sie sich zahm in ihre Gruben bergen,
+Kann unter Menschen keinen Frieden stiften--
+Aus dem Geheul der Winde und des Sturms
+Heraus hört ihr das Knallen des Geschützes;
+Die beiden Heere stehen sich so nah,
+Daß nur der Wald sie trennt, und jede Stunde
+Kann es sich blutig fürchterlich entladen.
+
+KÖHLERWEIB. Gott steh uns bei! Die Feinde waren ja
+Schon ganz aufs Haupt geschlagen und zerstreut,
+Wie kommts, daß sie aufs neu uns ängstigen?
+
+KÖHLER. Das macht, weil sie den König nicht mehr fürchten.
+Seitdem das Mädchen eine Hexe ward
+Zu Reims, der böse Feind uns nicht mehr hilft,
+Geht alles rückwärts.
+
+KÖHLERWEIB. Horch! Wer naht sich da?
+
+
+
+FÜNFTER AUFZUG
+
+Zweiter Auftritt
+
+Raimond und Johanna zu den Vorigen
+
+RAIMOND. Hier seh ich Hütten. Kommt, hier finden wir
+Ein Obdach vor dem wütgen Sturm. Ihr haltets
+Nicht länger aus, drei Tage schon seid Ihr
+Herumgeirrt, der Menschen Auge fliehend,
+Und wilde Wurzeln waren Eure Speise.
+(Der Sturm legt sich, es wird hell und heiter)
+Es sind mitleidge Köhler. Kommt herein.
+
+KÖHLER. Ihr scheint der Ruhe zu bedürfen. Kommt!
+Was unser schlechtes Dach vermag, ist euer.
+
+KÖHLERWEIB. Was will die zarte Jungfrau unter Waffen?
+Doch freilich! Jetzt ist eine schwere Zeit,
+Wo auch das Weib sich in den Panzer steckt!
+Die Königin selbst, Frau Isabeau, sagt man,
+Läßt sich gewaffnet sehn in Feindes Lager,
+Und eine Jungfrau, eines Schäfers Dirn,
+Hat für den König unsern Herrn gefochten.
+
+KÖHLER. Was redet Ihr? Geht in die Hütte, bringt
+Der Jungfrau einen Becher zur Erquickung.
+(Köhlerweib geht nach der Hütte)
+
+RAIMOND (zur Johanna).
+Ihr seht, es sind nicht alle Menschen grausam,
+Auch in der Wildnis wohnen sanfte Herzen.
+Erheitert Euch! Der Sturm hat ausgetobt,
+Und friedlich strahlend geht die Sonne nieder.
+
+KÖHLER. Ich denk, ihr wollt zu unsers Königs Heer,
+Weil ihr in Waffen reiset--Seht euch vor!
+Die Engelländer stehen nah gelagert,
+Und ihre Scharen streifen durch den Wald.
+
+RAIMOND. Weh uns! Wie ist da zu entkommen?
+
+KÖHLER. Bleibt,
+Bis daß mein Bub zurück ist aus der Stadt.
+Der soll euch auf verborgnen Pfaden führen,
+Daß ihr nichts zu befürchten habt. Wir kennen
+Die Schliche.
+
+RAIMOND (zur Johanna). Legt den Helm ab und die Rüstung,
+Sie macht Euch kenntlich und beschützt Euch nicht.
+(Johanna schüttelt den Kopf)
+
+KÖHLER. Die Jungfrau ist sehr traurig--Still! Wer kommt da?
+
+
+
+FÜNFTER AUFZUG
+
+Dritter Auftritt
+
+Vorige. Köhlerweib kommt aus der Hütte mit einem Becher. Köhlerbub
+
+KÖHLERWEIB. Es ist der Bub, den wir zurückerwarten.
+(Zur Johanna) Trinkt, edle Jungfrau! Mögs Euch Gott gesegnen!
+
+KÖHLER (zu seinem Sohn). Kommst du, Anet? Was bringst du?
+
+KÖHLERBUB (hat die Jungfrau ins Auge gefaßt, welche eben den
+Becher an den Mund setzt; er erkennet sie, tritt auf sie zu
+und reißt ihr den Becher vom Munde). Mutter! Mutter!
+Was macht Ihr? Wen bewirtet Ihr? Das ist die Hexe
+Von Orleans!
+
+KÖHLER und KÖHLERWEIB. Gott sei uns gnädig! (Bekreuzen sich und
+entfliehen)
+
+
+
+FÜNFTER AUFZUG
+
+Vierter Auftritt
+
+Raimond. Johanna
+
+JOHANNA (gefaßt und sanft).
+Du siehst, mir folgt der Fluch, und alles flieht mich,
+Sorg für dich selber und verlaß mich auch.
+
+RAIMOND. Ich Euch verlassen! Jetzt! Und wer soll Euer
+Begleiter sein?
+
+JOHANNA. Ich bin nicht unbegleitet.
+Du hast den Donner über mir gehört.
+Mein Schicksal führt mich. Sorge nicht, ich werde
+Ans Ziel gelangen, ohne daß ichs suche.
+
+RAIMOND. Wo wollt Ihr hin? Hier stehn die Engelländer,
+Die Euch die grimmig blutge Rache schwuren
+Dort stehn die Unsern, die Euch ausgestoßen,
+Verbannt--
+
+JOHANNA. Mich wird nichts treffen, als was sein muß.
+
+RAIMOND. Wer soll Euch Nahrung suchen? Wer Euch schützen
+Vor wilden Tieren und noch wildern Menschen?
+Euch pflegen, wenn Ihr krank und elend werdet?
+
+JOHANNA. Ich kenne alle Kräuter, alle Wurzeln,
+Von meinen Schafen lernt ich das Gesunde
+Vom Giftgen unterscheiden--ich verstehe
+Den Lauf der Sterne und der Wolken Zug
+Und die verborgnen Quellen hör ich rauschen.
+Der Mensch braucht wenig und an Leben reich
+Ist die Natur.
+
+RAIMOND (faßt sie bei der Hand).
+Wollt Ihr nicht in Euch gehn,
+Euch nicht mit Gott versöhnen--in den Schoß
+Der heilgen Kirche reuend wiederkehren,
+
+JOHANNA. Auch du hältst mich der schweren Sünde schuldig?
+
+RAIMOND. Muß ich nicht, Euer schweigendes Geständnis--
+
+JOHANNA. Du, der mir in das Elend nachgefolgt,
+Das einzge Wesen, das mir treu geblieben,
+Sich an mich kettet, da mich alle Welt
+Ausstieß, du hältst mich auch für die Verworfne,
+Die ihrem Gott entsagt--
+(Raimond schweigt) O das ist hart!
+
+RAIMOND (erstaunt). Ihr wäret wirklich keine Zauberin?
+
+JOHANNA. Ich eine Zauberin!
+
+RAIMOND. Und diese Wunder,
+Ihr hättet sie vollbracht mit Gottes Kraft
+Und seiner Heiligen?
+
+JOHANNA. Mit welcher sonst!
+
+RAIMOND. Und Ihr verstummtet auf die gräßliche
+Beschuldigung?--Ihr redet jetzt, und vor dem König,
+Wo es zu reden galt, verstummtet Ihr!
+
+JOHANNA. Ich unterwarf mich schweigend dem Geschick,
+Das Gott, mein Meister, über mich verhängte.
+
+RAIMOND. Ihr konntet Eurem Vater nichts erwidern!
+
+JOHANNA. Weil es vom Vater kam, so kams von Gott,
+Und väterlich wird auch die Prüfung sein.
+
+RAIMOND. Der Himmel selbst bezeugte Eure Schuld!
+
+JOHANNA. Der Himmel sprach, drum schwieg ich.
+
+RAIMOND. Wie? Ihr konntet
+Mit einem Wort Euch reinigen, und ließt
+Die Welt in diesem unglückselgen Irrtum?
+
+JOHANNA. Es war kein Irrtum, eine Schickung wars.
+
+RAIMOND. Ihr littet alle diese Schmach unschuldig,
+Und keine Klage kam von Euren Lippen!
+--Ich staune über Euch, ich steh erschüttert,
+Im tiefsten Busen kehrt sich mir das Herz!
+O gerne nehm ich Euer Wort für Wahrheit,
+Denn schwer ward mirs, an Eure Schuld zu glauben.
+Doch könnt ich träumen, daß ein menschlich Herz
+Das Ungeheure schweigend würde tragen!
+
+JOHANNA. Verdient ichs, die Gesendete zu sein,
+Wenn ich nicht blind des Meisters Willen ehrte!
+Und ich bin nicht so elend, als du glaubst.
+Ich leide Mangel, doch das ist kein Unglück
+Für meinen Stand, ich bin verbannt und flüchtig,
+Doch in der Öde lernt ich mich erkennen.
+Da, als der Ehre Schimmer mich umgab,
+Da war der Streit in meiner Brust, ich war
+Die Unglückseligste, da ich der Welt
+Am meisten zu beneiden schien--Jetzt bin ich
+Geheilt, und dieser Sturm in der Natur,
+Der ihr das Ende drohte, war mein Freund,
+Er hat die Welt gereinigt und auch mich.
+In mir ist Friede--Komme, was da will,
+Ich bin mir keiner Schwachheit mehr bewußt!
+
+RAIMOND. O kommt, kommt, laßt uns eilen, Eure Unschuld
+Laut, laut vor aller Welt zu offenbaren!
+
+JOHANNA. Der die Verwirrung sandte, wird sie lösen!
+Nur wenn sie reif ist, fällt des Schicksals Frucht!
+Ein Tag wird kommen, der mich reiniget.
+Und die mich jetzt verworfen und verdammt,
+Sie werden ihres Wahnes inne werden,
+Und Tränen werden meinem Schicksal fließen.
+
+RAIMOND. Ich sollte schweigend dulden, bis der Zufall--
+
+JOHANNA (ihn sanft bei der Hand fassend).
+Du siehst nur das Natürliche der Dinge,
+Denn deinen Blick umhüllt das irdsche Band.
+Ich habe das Unsterbliche mit Augen
+Gesehen--ohne Götter fällt kein Haar
+Vom Haupt des Menschen--Siehst du dort die Sonne
+Am Himmel niedergehen--So gewiß
+Sie morgen wiederkehrt in ihrer Klarheit,
+So unausbleiblich kommt der Tag der Wahrheit!
+
+
+
+FÜNFTER AUFZUG
+
+Fünfter Auftritt
+
+Die Vorigen. Königin Isabeau mit Soldaten erscheint im Hintergrund
+
+ISABEAU (noch hinter der Szene).
+Dies ist der Weg ins engelländsche Lager!
+
+RAIMOND. Weh uns! die Feinde!
+(Soldaten treten auf, bemerken im Hervorkommen die Johanna,
+und taumeln erschrocken zurück)
+
+ISABEAU. Nun! was hält der Zug!
+
+SOLDATEN. Gott steh uns bei!
+
+ISABEAU. Erschreckt euch ein Gespenst!
+Seid ihr Soldaten? Memmen seid ihr!--Wie,
+(Sie drängt sich durch die andern, tritt hervor und fährt
+zurück, wie sie die Jungfrau erblickt) Was seh ich! Ha!
+(Schnell faßt sie sich und tritt ihr entgegen) Ergib dich!
+Du bist meine
+Gefangene.
+
+JOHANNA. Ich bins.
+(Raimond entflieht mit Zeichen der Verzweiflung)
+
+ISABEAU (zu den Soldaten). Legt sie in Ketten!
+(Die Soldaten nahen sich der Jungfrau schüchtern, sie reicht
+den Arm hin und wird gefesselt)
+Ist das die Mächtige, Gefürchtete,
+Die eure Scharen wie die Lämmer scheuchte,
+Die jetzt sich selber nicht beschützen kann?
+Tut sie nur Wunder, wo man Glauben hat,
+Und wird zum Weib, wenn ihr ein Mann begegnet?
+(Zur Jungfrau) Warum verließest du dein Heer? Wo bleibt
+Graf Dunois, dein Ritter und Beschützer?
+
+JOHANNA. Ich bin verbannt.
+
+ISABEAU (erstaunt zurücktretend).
+Was? Wie? Du bist verbannt?
+Verbannt vom Dauphin!
+
+JOHANNA. Frage nicht! Ich bin
+In deiner Macht, bestimme mein Geschick.
+
+ISABEAU. Verbannt, weil du vom Abgrund ihn gerettet,
+Die Krone ihm hast aufgesetzt zu Reims,
+Zum König über Frankreich ihn gemacht?
+Verbannt! Daran erkenn ich meinen Sohn!
+--Führt sie ins Lager. Zeiget der Armee
+Das Furchtgespenst, vor dem sie so gezittert!
+Sie eine Zauberin! Ihr ganzer Zauber
+Ist euer Wahn und euer feiges Herz!
+Eine Närrin ist sie, die für ihren König
+Sich opferte, und jetzt den Königslohn
+Dafür empfängt--Bringt sie zu Lionel--
+Das Glück der Franken send ich ihm gebunden,
+Gleich folg ich selbst.
+
+JOHANNA. Zu Lionel! Ermorde mich
+Gleich hier, eh du zu Lionel mich sendest.
+
+ISABEAU (zu den Soldaten).
+Gehorchet dem Befehle. Fort mit ihr! (Geht ab)
+
+
+
+FÜNFTER AUFZUG
+
+Sechster Auftritt
+
+Johanna. Soldaten
+
+JOHANNA (zu den Soldaten).
+Engländer, duldet nicht, daß ich lebendig
+Aus eurer Hand entkomme! Rächet euch!
+Zieht eure Schwerter, taucht sie mir ins Herz,
+Reißt mich entseelt zu eures Feldherrn Füßen!
+Denkt, daß ichs war, die eure Trefflichsten
+Getötet, die kein Mitleid mit euch trug,
+Die ganze Ströme engelländschen Bluts
+Vergossen, euren tapfern Heldensöhnen
+Den Tag der frohen Wiederkehr geraubt!
+Nehmt eine blutge Rache! Tötet mich!
+Ihr habt mich jetzt, nicht immer möchtet ihr
+So schwach mich sehn--
+
+ANFÜHRER DER SOLDATEN. Tut, was die Königin befahl!
+
+JOHANNA Sollt ich
+Noch unglückselger werden als ich war!
+Furchtbare Heilge! deine Hand ist schwer!
+Hast du mich ganz aus deiner Huld verstoßen?
+Kein Gott erscheint, kein Engel zeigt sich mehr,
+Die Wunder ruhn, der Himmel ist verschlossen.
+(Sie folgt den Soldaten)
+
+
+
+FÜNFTER AUFZUG
+
+Das französische Lager
+
+Siebenter Auftritt
+
+Dunois zwischen dein Erzbischof und Du Chatel
+
+ERZBISCHOF. Bezwinget Euern finstern Unmut, Prinz!
+Kommt mit uns! Kehrt zurück zu Euerm König!
+Verlasset nicht die allgemeine Sache
+In diesem Augenblick, da wir aufs neu
+Bedränget, Eures Heldenarms bedürfen.
+
+DUNOIS. Warum sind wir bedrängt? Warum erhebt
+Der Feind sich wieder? Alles war getan,
+Frankreich war siegend und der Krieg geendigt.
+Die Retterin habt ihr verbannt, nun rettet
+Euch selbst! Ich aber will das Lager
+Nicht wieder sehen, wo sie nicht mehr ist.
+
+DU CHATEL. Nehmt bessern Rat an, Prinz. Entlaßt uns nicht
+Mit einer solchen Antwort!
+
+DUNOIS. Schweigt, Du Chatel! Ich hasse Euch,
+von Euch will ich nichts hören.
+Ihr seid es, der zuerst an ihr gezweifelt.
+
+ERZBISCHOF. Wer ward nicht irr an ihr und hätte nicht
+Gewankt an diesem unglückselgen Tage,
+Da alle Zeichen gegen sie bewiesen!
+Wir waren überrascht, betäubt, der Schlag
+Traf zu erschütternd unser Herz--Wer konnte
+In dieser Schreckensstunde prüfend wägen?
+Jetzt kehrt uns die Besonnenheit zurück,
+Wir sehn sie, wie sie unter uns gewandelt,
+Und keinen Tadel finden wir an ihr.
+Wir sind verwirrt--wir fürchten schweres Unrecht
+Getan zu haben.--Reue fühlt der König,
+Der Herzog klagt sich an, La Hire ist trostlos,
+Und jedes Herz hüllt sich in Trauer ein.
+
+DUNOIS. Sie eine Lügnerin! Wenn sich die Wahrheit
+Verkörpern will in sichtbarer Gestalt,
+So muß sie ihre Züge an sich tragen!
+Wenn Unschuld, Treue, Herzensreinigkeit
+Auf Erden irgend wohnt--auf ihren Lippen,
+In ihren klaren Augen muß sie wohnen!
+
+ERZBISCHOF. Der Himmel schlage durch ein Wunder sich
+Ins Mittel, und erleuchte dies Geheimnis,
+Das unser sterblich Auge nicht durchdringt--
+Doch wie sichs auch entwirren mag und lösen,
+Eins von den beiden haben wir verschuldet!
+Wir haben uns mit höllischen Zauberwaffen
+Verteidigt oder eine Heilige verbannt!
+Und beides ruft des Himmels Zorn und Strafen
+Herab auf dieses unglückselge Land!
+
+
+
+FÜNFTER AUFZUG
+
+Achter Auftritt
+
+Ein Edelmann zu den Vorigen, hernach Raimond
+
+EDELMANN. Ein junger Schäfer fragt nach deiner Hoheit,
+Er fodert dringend, mit dir selbst zu reden,
+Er komme, sagt er, von der Jungfrau--
+
+DUNOIS. Eile!
+Bring ihn herein! Er kommt von ihr!
+(Edelmann öffnet dem Raimond die Türe, Dunois eilt ihm entgegen)
+Wo ist sie?
+Wo ist die Jungfrau?
+
+RAIMOND. Heil Euch, edler Prinz,
+Und Heil mir, daß ich diesen frommen Bischof,
+Den heilgen Mann, den Schirm der Unterdrückten,
+Den Vater der Verlaßnen bei Euch finde!
+
+DUNOIS. Wo ist die Jungfrau?
+
+ERZBISCHOF. Sag es uns, mein Sohn!
+
+RAIMOND. Herr, sie ist keine schwarze Zauberin!
+Bei Gott und allen Heiligen bezeug ichs.
+Im Irrtum ist das Volk. Ihr habt die Unschuld
+Verbannt, die Gottgesendete verstoßen!
+
+DUNOIS. Wo ist sie? Sage!
+
+RAIMOND. Ihr Gefährte war ich
+Auf ihrer Flucht in dem Ardennerwald,
+Mir hat sie dort ihr Innerstes gebeichtet.
+In Martern will ich sterben, meine Seele
+Hab keinen Anteil an dem ewgen Heil,
+Wenn sie nicht rein ist, Herr, von aller Schuld!
+
+DUNOIS. Die Sonne selbst am Himmel ist nicht reiner!
+Wo ist sie, sprich!
+
+RAIMOND. O wenn Euch Gott das Herz
+Gewendet hat--So eilt! So rettet sie!
+Sie ist gefangen bei den Engelländern.
+
+DUNOIS. Gefangen! Was!
+
+ERZBISCHOF. Die Unglückselige!
+
+RAIMOND. In den Ardennen, wo wir Obdach suchten,
+Ward sie ergriffen von der Königin,
+Und in der Engelländer Hand geliefert.
+O rettet sie, die euch gerettet hat,
+Von einem grausenvollen Tode!
+
+DUNOIS. Zu den Waffen! Auf! Schlagt Lärmen! Rührt die Trommeln!
+Führt alle Völker ins Gefecht! Ganz Frankreich
+Bewaffne sich! Die Ehre ist verpfändet
+Die Krone, das Palladium entwendet,
+Setzt alles Blut! setzt euer Leben ein!
+Frei muß sie sein, noch eh der Tag sich endet! (Gehen ab)
+
+
+
+FÜNFTER AUFZUG
+
+Ein Wachturm, oben eine Öffnung
+
+Neunter Auftritt
+
+Johanna und Lionel. Fastolf. Isabeau
+
+FASTOLF (eilig hereintretend). Das Volk ist länger nicht
+zu bändigen.
+Sie fodern wütend, daß die Jungfrau sterbe.
+Ihr widersteht vergebens. Tötet sie,
+Und werft ihr Haupt von dieses Turmes Zinnen,
+Ihr fließend Blut allein versöhnt das Heer.
+
+ISABEAU (kommt). Sie setzen Leitern an, sie laufen Sturm!
+Befriediget das Volk. Wollt Ihr erwarten,
+Bis sie den ganzen Turm in blinder Wut
+Umkehren und wir alle mit verderben?
+Ihr könnt sie nicht beschützen, gebt sie hin.
+
+LIONEL. Laßt sie anstürmen! Laßt sie wütend toben!
+Dies Schloß ist fest, und unter seinen Trümmern
+Begrab ich mich, eh mich ihr Wille zwingt.
+--Antworte mir, Johanna! Sei die Meine,
+Und gegen eine Welt beschütz ich dich.
+
+ISABEAU. Seid Ihr ein Mann?
+
+LIONEL. Verstoßen haben dich
+Die Deinen, aller Pflichten bist du ledig
+Für dein unwürdig Vaterland. Die Feigen,
+Die um dich warben, sie verließen dich,
+Sie wagten nicht den Kampf um deine Ehre.
+Ich aber, gegen mein Volk und das deine
+Behaupt ich dich.--Einst ließest du mich glauben,
+Daß dir mein Leben teuer sei! Und damals
+Stand ich im Kampf als Feind dir gegenüber,
+Jetzt hast du keinen Freund als mich!
+
+JOHANNA. Du bist
+Der Feind mir, der verhaßte, meines Volks.
+Nichts kann gemein sein zwischen dir und mir.
+Nicht lieben kann ich dich, doch wenn dein Herz
+Sich zu mir neigt, so laß es Segen bringen
+Für unsre Völker.--Führe deine Heere
+Hinweg von meines Vaterlandes Boden,
+Die Schlüssel aller Städte gib heraus,
+Die ihr bezwungen, allen Raub vergüte,
+Gib die Gefangnen ledig, sende Geiseln
+Des heiligen Vertrags, so biet ich dir
+Den Frieden an in meines Königs Namen.
+
+ISABEAU. Willst du in Banden uns Gesetze geben?
+
+JOHANNA. Tu es bei Zeiten, denn du mußt es doch.
+Frankreich wird nimmer Englands Fesseln tragen.
+Nie, nie wird das geschehen! Eher wird es
+Ein weites Grab für eure Heere sein.
+Gefallen sind euch eure Besten, denkt
+Auf eine sichre Rückkehr, euer Ruhm
+Ist doch verloren, eure Macht ist hin.
+
+ISABEAU. Könnt Ihr den Trotz der Rasenden ertragen?
+
+
+
+FÜNFTER AUFZUG
+
+Zehnter Auftritt
+
+Die Vorigen. Ein Hauptmann kommt eilig
+
+HAUPTMANN--Eilt, Feldherr, eilt, das Heer zur Schlacht zu stellen,
+Die Franken rücken an mit fliegenden Fahnen,
+Von ihren Waffen blitzt das ganze Tal.
+
+JOHANNA (begeistert).
+Die Franken rücken an! Jetzt, stolzes England,
+Heraus ins Feld, jetzt gilt es, frisch zu fechten!
+
+FASTOLF. Unsinnige, bezähme deine Freude!
+Du wirst das Ende dieses Tags nicht sehn.
+
+JOHANNA. Mein Volk wird siegen und ich werde sterben,
+Die Tapfern brauchen meines Arms nicht mehr.
+
+LIONEL. Ich spotte dieser Weichlinge! Wir haben
+Sie vor uns her gescheucht in zwanzig Schlachten,
+Eh dieses Heldenmädchen für sie stritt!
+Das ganze Volk veracht ich bis auf eine,
+Und diese haben sie verbannt.--Kommt, Fastolf!
+Wir wollen ihnen einen zweiten Tag
+Bei Crequi und Poitiers bereiten.
+Ihr, Königin, bleibt in diesem Turm, bewacht
+Die Jungfrau, bis das Treffen sich entschieden,
+Ich laß Euch fünfzig Ritter zur Bedeckung.
+
+FASTOLF. Was? Sollen wir dem Feind entgegengehn,
+Und diese Wütende im Rücken lassen?
+
+JOHANNA. Erschreckt dich ein gefesselt Weib?
+
+LIONEL. Gib mir
+Dein Wort, Johanna, dich nicht zu befreien!
+
+JOHANNA. Mich zu befreien ist mein einzger Wunsch.
+
+ISABEAU Legt ihr dreifache Fesseln an. Mein Leben
+Verbürg ich, daß sie nicht entkommen soll.
+(Sie wird mit schweren Ketten um den Leib und um die Arme
+gefesselt)
+
+LIONEL (zur Johanna). Du willst es so! Du zwingst uns! Noch
+stehts bei dir!
+Entsage Frankreich! Trage Englands Fahne,
+Und du bist frei, und diese Wütenden,
+Die jetzt dein Blut verlangen, dienen dir!
+
+FASTOLF (dringend). Fort, fort, mein Feldherr!
+
+JOHANNA. Spare deine Worte!
+Die Franken rücken an, verteidge dich!
+(Trompeten ertönen, Lionel eilt fort)
+
+FASTOLF. Ihr wißt, was Ihr zu tun habt, Königin!
+Erklärt das Glück sich gegen uns, seht Ihr,
+Daß unsre Völker fliehen--
+
+ISABEAU (einen Dolch ziehend). Sorget nicht!
+Sie soll nicht leben, unsern Fall zu sehn.
+
+FASTOLF (zur Johanna). Du weißt, was dich erwartet. Jetzt erflehe
+Glück für die Waffen deines Volks! (Ergeht ab)
+
+
+
+FÜNFTER AUFZUG
+
+Eilfter Auftritt
+
+Isabeau. Johanna. Soldaten
+
+JOHANNA. Das will ich!
+Daran soll niemand mich verhindern.--Horch!
+Das ist der Kriegsmarsch meines Volks! Wie mutig
+Er in das Herz mir schallt und siegverkündend!
+Verderben über England! Sieg den Franken!
+Auf, meine Tapfern! Auf! Die Jungfrau ist
+Euch nah, sie kann nicht vor euch her wie sonst
+Die Fahne tragen--schwere Bande fesseln sie,
+Doch frei aus ihrem Kerker schwingt die Seele
+Sich auf den Flügeln eures Kriegsgesangs.
+
+ISABEAU (zu einem Soldaten).
+Steig auf die Warte dort, die nach dem Feld
+Hin sieht, und sag uns, wie die Schlacht sich wendet.
+(Soldat steigt hinauf)
+
+JOHANNA. Mut, Mut, mein Volk! Es ist der letzte Kampf!
+Den einen Sieg noch, und der Feind liegt nieder.
+
+ISABEAU. Was siehest du?
+
+SOLDAT. Schon sind sie aneinander.
+Ein Wütender auf einem Barberroß,
+Im Tigerfell, sprengt vor mit den Gendarmen.
+
+JOHANNA. Das ist Graf Dunois! Frisch, wackrer Streiter!
+Der Sieg ist mit dir!
+
+SOLDAT. Der Burgunder greift
+Die Brücke an.
+
+ISABEAU. Daß zehen Lanzen ihm
+Ins falsche Herz eindrängen, dem Verräter!
+
+SOLDAT. Lord Fastolf tut ihm mannhaft Widerstand.
+Sie sitzen ab, sie kämpfen Mann für Mann,
+Des Herzogs Leute und die unsrigen.
+
+ISABEAU. Siehst du den Dauphin nicht? Erkennst du nicht
+Die königlichen Zeichen?
+
+SOLDAT. Alles ist
+In Staub vermengt Ich kann nichts unterscheiden.
+
+JOHANNA. Hätt er mein Auge oder stünd ich oben,
+Das Kleinste nicht entginge meinem Blick!
+Das wilde Huhn kann ich im Fluge zählen,
+Den Falk erkenn ich in den höchsten Lüften.
+
+SOLDAT. Am Graben ist ein fürchterlich Gedräng,
+Die Größten, scheints, die Ersten kämpfen dort.
+
+ISABEAU. Schwebt unsre Fahne noch?
+
+SOLDAT. Hoch flattert sie.
+
+JOHANNA Könnt ich nur durch der Mauer Ritze schauen,
+Mit meinem Blick wollt ich die Schlacht regieren!
+
+SOLDAT. Weh mir! Was seh ich! Unser Feldherr ist
+Umzingelt!
+
+ISABEAU (zuckt den Dolch auf Johanna). Stirb, Unglückliche!
+
+SOLDAT (schnell). Er ist befreit.
+Im Rücken faßt der tapfere Fastolf
+Den Feind--er bricht in seine dichtsten Scharen.
+
+ISABEAU (zieht den Dolch zurück).
+Das sprach dein Engel!
+
+SOLDAT. Sieg! Sieg! Sie entfliehen!
+
+ISABEAU. Wer flieht?
+
+SOLDAT.
+Die Franken, die Burgunder fliehn,
+Bedeckt mit Flüchtigen ist das Gefilde.
+
+JOHANNA. Gott! Gott! So sehr wirst du mich nicht verlassen!
+
+SOLDAT. Ein schwer Verwundeter wird dort geführt.
+Viel Volk sprengt ihm zu Hülf, es ist ein Fürst.
+
+ISABEAU. Der Unsern einer oder Fränkischen?
+
+SOLDAT. Sie lösen ihm den Helm, Graf Dunois ists.
+
+JOHANNA (greift mit krampfhafter Anstrengung in ihre Ketten).
+Und ich bin nichts als ein gefesselt Weib!
+
+SOLDAT. Sie! Halt! Wer trägt den himmelblauen Mantel
+Verbrämt mit Gold,
+
+JOHANNA (lebhaft). Das ist mein Herr, der König!
+
+SOLDAT. Sein Roß wird scheu--es überschlägt sich--stürzt,
+Er windet schwer arbeitend sich hervor--
+(Johanna begleitet diese Worte mit leidenschaftlichen Bewegungen)
+Die Unsern nahen schon in vollem Lauf--
+Sie haben ihn erreicht--umringen ihn--
+
+JOHANNA. O hat der Himmel keine Engel mehr!
+
+ISABEAU (hohnlachend). Jetzt ist es Zeit! Jetzt, Retterin, errette!
+
+JOHANNA (stürzt auf die Knie, mit gewaltsam heftiger Stimme betend).
+Höre mich, Gott, in meiner höchsten Not,
+Hinauf zu dir, in heißem Flehenswunsch,
+In deine Himmel send ich meine Seele.
+Du kannst die Fäden eines Spinngewebs
+Stark machen wie die Taue eines Schiffs,
+Leicht ist es deiner Allmacht, ehrne Bande
+In dünnes Spinngewebe zu verwandeln--
+Du willst und diese Ketten fallen ab,
+Und diese Turmwand spaltet sich--du halfst
+Dem Simson, da er blind war und gefesselt,
+Und seiner stolzen Feinde bittern Spott
+Erduldete.--Auf dich vertrauend faßt' er
+Die Pfosten seines Kerkers mächtig an,
+Und neigte sich und stürzte das Gebäude--
+
+SOLDAT. Triumph! Triumph!
+
+ISABEAU. Was ists?
+
+SOLDAT. Der König ist
+Gefangen!
+
+JOHANNA (springt auf).
+So sei Gott mir gnädig!
+(Sie hat ihre Ketten mit beiden Händen kraftvoll gefaßt und
+zerrissen. In demselben Augenblick stürzt sie sich auf den
+nächststehenden Soldaten, entreißt ihm sein Schwert und eilt
+hinaus. Alle sehen ihr mit starrem Erstaunen nach)
+
+
+
+FÜNFTER AUFZUG
+
+Zwölfter Auftritt
+
+Vorige ohne Johanna
+
+ISABEAU (nach einer langen Pause).
+Was war das? Träumte mir? Wo kam sie hin?
+Wie brach sie diese zentnerschweren Bande?
+Nicht glauben würd ichs einer ganzen Welt,
+Hätt ichs nicht selbst gesehn mit meinen Augen.
+
+SOLDAT (auf der Warte).
+Wie? Hat sie Flügel? Hat der Sturmwind sie
+Hinabgeführt?
+
+ISABEAU. Sprich, ist sie unten?
+
+SOLDAT. Mitten
+Im Kampfe schreitet sie--Ihr Lauf ist schneller
+Als mein Gesicht--Jetzt ist sie hier--jetzt dort--
+Ich sehe sie zugleich an vielen Orten!
+--Sie teilt die Haufen--Alles weicht vor ihr,
+Die Franken stehn, sie stellen sich aufs neu!
+--Weh mir! Was seh ich! Unsre Völker werfen
+Die Waffen von sich, unsre Fahnen sinken--
+
+ISABEAU. Was? Will sie uns den sichern Sieg entreißen?
+
+SOLDAT. Grad auf den König dringt sie an--Sie hat ihn
+Erreicht--Sie reißt ihn mächtig aus dem Kampf.
+--Lord Fastolf stürzt--Der Feldherr ist gefangen.
+
+ISABEAU. Ich will nicht weiter hören. Komm herab.
+
+SOLDAT. Flieht, Königin! Ihr werdet überfallen.
+Gewaffnet Volk dringt an den Turm heran.
+(Er steigt herunter)
+
+ISABEAU (das Schwert ziehend). So fechtet, Memmen!
+
+
+
+FÜNFTER AUFZUG
+
+Dreizehnter Auftritt
+
+Vorige. La Hire mit Soldaten kommt. Bei seinem Eintritt
+streckt das Volk der Königin die Waffen
+
+LA HIRE (naht ihr ehrerbietig). Königin, unterwerft Euch
+Der Allmacht--Eure Ritter haben sich
+Ergeben, aller Widerstand ist unnütz!
+--Nehmt meine Dienste an. Befehlt, wohin
+Ihr wollt begleitet sein.
+
+ISABEAU. Jedweder Ort
+Gilt gleich, wo ich dem Dauphin nicht begegne.
+(Gibt ihr Schwert ab und folgt ihm mit den Soldaten)
+
+Die Szene verwandelt sich in das Schlachtfeld
+
+
+
+FÜNFTER AUFZUG
+
+Vierzehnter Auftritt
+
+Soldaten mit fliegenden Fahnen erfüllen den Hintergrund.
+Vor ihnen der König und der Herzog von Burgund, in den
+Armen beider Fürsten liegt Johanna tödlich verwundet,
+ohne Zeichen des Lebens. Sie treten langsam vorwärts.
+Agnes Sorel stürzt herein
+
+SOREL (wirft sich an des Königs Brust).
+Ihr seid befreit--Ihr lebt--Ich hab Euch wieder!
+
+KÖNIG. Ich bin befreit--Ich bins um diesen Preis!
+(Zeigt auf Johanna)
+
+SOREL. Johanna! Gott! Sie stirbt!
+
+BURGUND. Sie hat geendet!
+Seht einen Engel scheiden! Seht, wie sie daliegt,
+Schmerzlos und ruhig wie ein schlafend Kind!
+Des Himmels Friede spielt um ihre Züge,
+Kein Atem hebt den Busen mehr, doch Leben
+Ist noch zu spüren in der warmen Hand.
+
+König. Sie ist dahin--Sie wird nicht mehr erwachen,
+Ihr Auge wird das Irdsche nicht mehr schauen.
+Schon schwebt sie droben ein verklärter Geist,
+Sieht unsern Schmerz nicht mehr und unsre Reue.
+
+SOREL. Sie schlägt die Augen auf, sie lebt!
+
+BURGUND (erstaunt). Kehrt sie
+Uns aus dem Grab zurück? Zwingt sie den Tod,
+Sie richtet sich empor! Sie steht!
+
+JOHANNA (steht ganz aufgerichtet und schaut umher).
+Wo bin ich?
+
+BURGUND. Bei deinem Volk, Johanna! Bei den Deinen!
+
+KÖNIG. In deiner Freunde, deines Königs Armen!
+
+JOHANNA (nachdem sie ihn lange starr angesehen).
+Nein, ich bin keine Zauberin! Gewiß ich bins nicht.
+
+KÖNIG. Du bist heilig wie die Engel,
+Doch unser Auge war mit Nacht bedeckt.
+
+JOHANNA (sieht heiter lächelnd umher).
+Und ich bin wirklich unter meinem Volk.
+Und bin nicht mehr verachtet und verstoßen?
+Man flucht mir nicht, man sieht mich gütig an?
+--Ja, jetzt erkenn ich deutlich alles wieder!
+Das ist mein König! Das sind Frankreichs Fahnen!
+Doch meine Fahne seh ich nicht--Wo ist sie?
+Nicht ohne meine Fahne darf ich kommen,
+Von meinem Meister ward sie mir vertraut,
+Vor seinem Thron muß ich sie niederlegen,
+Ich darf sie zeigen, denn ich trug sie treu.
+
+König (mit abgewandtem Gesicht). Gebt ihr die Fahne!
+(Man reicht sie ihr. Sie steht ganz frei aufgerichtet,
+die Fahne in der Hand--Der Himmel ist von einem rosigten
+Schein beleuchtet)
+
+JOHANNA. Seht ihr den Regenbogen in der Luft,
+Der Himmel öffnet seine goldnen Tore,
+Im Chor der Engel steht sie glänzend da,
+Sie hält den ewgen Sohn an ihrer Brust,
+Die Arme streckt sie lächelnd mir entgegen.
+Wie wird mir--Leichte Wolken heben mich--
+der schwere Panzer wird zum Flügelkleide.
+Hinauf--hinauf--Die Erde flieht zurück--
+Kurz ist der Schmerz und ewig ist die Freude!
+
+(Die Fahne entfällt ihr, sie sinkt tot darauf nieder--
+Alle stehen lange in loser Rührung--Auf einen leisen Wink
+des Königs werden alle Fahnen sanft auf sie niedergelassen,
+daß sie ganz davon bedeckt wird)
+
+
+
+Ende dieses Projekt Gutenberg Etextes "Die Jungfrau von Orleans"
+von Friedrich Schiller

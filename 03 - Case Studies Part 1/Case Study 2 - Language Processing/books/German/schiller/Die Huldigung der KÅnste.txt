@@ -1,0 +1,737 @@
+﻿Project Gutenberg's Die Huldigung der Kuenste, by Friedrich Schiller
+#41 in our series by Friedrich Schiller
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Die Huldigung der Kuenste
+
+Author: Friedrich Schiller
+
+Release Date: April, 2005 [EBook #7939]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on June 3, 2003]
+
+Edition: 10
+
+Language: German
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK DIE HULDIGUNG DER KUENSTE ***
+
+
+
+
+Produced by Delphine Lettau and Mike Pullen
+
+
+
+
+This Etext is in German.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg.spiegel.de/.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfügung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.spiegel.de/ erreichbar.
+
+
+
+
+Die Huldigung der Künste.
+
+Friedrich Schiller.
+
+Ein lyrisches Spiel.
+
+Ihrer Kaiserl. Hoheit der Frau Erbprinzessin von Weimar Maria
+Paulowna Großfürstin von Rußland in Ehrfurcht gewidmet
+und vorgestellt auf dem Hoftheater zu Weimar am 12. November 1804.
+
+
+Personen.
+
+Vater.
+Mutter.
+Jüngling.
+Mädchen.
+Chor von Landleuten.
+Genius.
+
+Die sieben Künste.
+
+
+
+Die Scene ist eine freie ländliche Gegend; in der Mitte ein
+Orangenbaum, mit Früchten beladen und mit Bändern geschmückt.
+Landleute sind eben beschäftigt, ihn in die Erde zu pflanzen,
+indem die Mädchen und Kinder ihn zu beiden Seiten an
+Blumenketten halten.
+
+
+Vater.  Wachse, wachse, blühender Baum
+Mit der goldnen Früchtekrone,
+Den wir aus der fremden Zone,
+Pflanzen in dem heimischen Raum!
+Fülle süßer Früchte beuge
+Deine immer grünen Zweige!
+
+Alle Landleute.  Wachse, wachse, blühender Baum
+Strebend in den Himmelraum!
+
+Jüngling.  Mit der duft'gen Blüthe paare
+Prangend sich die goldne Frucht!
+Stehe in dem Sturm der Jahre,
+Daure in der Zeiten Flucht!
+
+Alle.  Stehe in dem Sturm der Jahre,
+Daure in der Zeiten Flucht!
+
+Mutter.  Nimm ihn auf, o heil'ge Erde,
+Nimm den zarten Fremdlich ein!
+Führer der gefleckten Heerde,
+Hoher Flurgott, pflege sein!
+
+Mädchen.  Pflegt ihn, zärtliche Dryaden!
+Schütz' ihn, schütz' ihn, Vater Pan!
+Und ihr freien Oreaden,
+Daß ihm keine Wetter schaden,
+Fesselt alle Stürme an!
+
+Alle.  Pflegt ihn, zärtliche Dryaden!
+Schütz' ihn, schütz' ihn, Vater Pan!
+
+Jüngling.  Lächle dir der warme Aether
+Ewig klar und ewig blau!
+Sonne, gib ihm deine Strahlen,
+Erde, gib ihm deinen Thau!
+
+Alle.  Sonne, gib ihm deine Strahlen,
+Erde, gib ihm deinen Thau!
+
+Vater.  Freude, Freude, neues Leben
+Mögst du jedem Wandrer geben;
+Denn die Freude pflanzte dich.
+Mögen deine Nektargaben
+Noch den spätsten Enkel laben,
+Und erquicket segn' er dich!
+
+Alle.  Freude, Freude, neues Leben
+Mögst du jedem Wandrer geben;
+Denn die Freude pflanzte dich.
+
+Sie tanzen in einem bunten Reihen um den Baum. Die Musik des
+Orchesters begleitet sie und geht allmählig in einen edlern Styl
+über, während daß man im Hintergrund den Genius mit den sieben
+Göttinnen herabsteigen sieht.  Die Landleute ziehen sich nach beiden
+Seiten der Bühne, indem der Genius in die Mitte tritt und die drei
+bildenden Künste sich zu seiner Rechten, die vier redenden und
+musikalischen sich zu seiner Linken stellen.
+
+Chor der Künste.  Wir kommen von fernher,
+Wir wandern und schreiten
+Von Völkern zu Völkern,
+Von Zeiten zu Zeiten;
+Wir suchen auf Erden ein bleibendes Haus.
+Um ewig zu wohnen
+Auf ruhigen Thronen,
+In schaffender Stille,
+In wirkender Fülle,
+Wir wandern und suchen und finden's nicht aus.
+
+Jüngling.  Sieh, wer sind sie, die hier nahen,
+Eine göttergleiche Schaar!
+Bilder, wie wir nie sie sahen;
+Es ergreift mich wunderbar.
+
+Genius.  Wo die Waffen erklirren
+Mit eisernem Klang,
+Wo der Haß und der Wahn die Herzen verwirren,
+Wo die Menschen wandeln im ewigen Irren
+Da wenden wir flüchtig den eilenden Gang.
+
+Chor der Künste.  Wir hassen die Falschen,
+Die Götterverächter;
+Wir suchen der Menschen
+Aufricht'ge Geschlechter;
+Wo kindliche Sitten
+Uns freundlich empfahn,
+Da bauen wir Hütten
+Und siedeln uns an!
+
+Mädchen.  Wie wird mir auf einmal!
+Wie ist mir geschehn!
+Es zieht mich zu ihnen mit dunkeln Gewalten;
+Es sind mir bekannte, geliebte Gestalten,
+Und weiß doch, ich habe sie niemals gesehn.
+
+Alle Landleute.  Wie wird mir auf einmal!
+Wie ist mir geschehn!
+
+Genius.  Aber, still! da seh' ich Menschen,
+Und sie scheinen hoch beglückt;
+Reich mit Bändern und mit Kränzen,
+Festlich ist der Baum geschmückt.
+--Sind dies nicht der Freude Spuren?
+Redet! Was begibt sich hier?
+
+Vater.  Hirten sind wir dieser Fluren,
+Und ein Fest begehen wir.
+
+Genius.  Welches Fest? O lasset hören!
+
+Mutter.  Unsrer Königin zu Ehren,
+Der erhabnen, gütigen,
+Die in unser stilles Thal
+Niederstieg, uns zu beglücken,
+Aus dem hohen Kaisersaal.
+
+Jüngling.  Sie, die alle Reize schmücken,
+Gütig, wie der Sonne Strahl.
+
+Genius. Warum pflanzt ihr diesen Baum?
+
+Jüngling.  Ach, sie kommt aus fernem Land,
+Und ihr Herz blickt in die Ferne!
+Fesseln möchten wir sie gerne
+An das neue Vaterland.
+
+Genius.  Darum grabt ihr diesen Baum
+Mit den Wurzeln in die Erde,
+Daß die Hohe heimisch werde
+In dem neuen Vaterland?
+
+Mädchen.  Ach, so viele zarte Bande
+Ziehen sie zum Jugendlande!
+Alles, was sie dort verließ,
+Ihrer Kindheit Paradies
+Und den heil'gen Schooß der Mutter
+Und das große Herz der Brüder
+Und der Schwestern zarte Brust--
+Können wir es ihr ersetzen?
+Ist ein Preis in der Natur
+Solchen Freuden, solchen Schätzen?
+
+Genius.  Liebe greift auch in die Ferne,
+Liebe fesselt ja kein Ort.
+Wie die Flamme nicht verarmet,
+Zündet sich an ihrem Feuer
+Eine andre wachsend fort--
+Was sie Theures dort besessen,
+Unverloren bleibt es ihr;
+Hat sie Liebe dort verlassen,
+Findet sie die Liebe hier.
+
+Mutter.  Ach, sie tritt aus Marmorhallen,
+Aus dem goldnen Saal der Pracht.
+Wir die Hohe sich gefallen
+Hier, wo über freien Auen
+Nur die goldne Sonne lacht?
+
+Genius.  Hirten, euch ist nicht gegeben,
+In ein schönes Herz zu schauen!
+Wissen ein erhabner Sinn
+Legt das Große in das Leben,
+Und er sucht es nicht darin.
+
+Jüngling.  O schöne Fremdlinge! lehrt uns sie binden,
+O lehrt uns, ihr wohlgefällig sein!
+Gern wollten wir ihr duft'ge Kränze winden
+Und führten sie in unsre Hütten ein!
+
+Genius.  Ein schönes Herz hat bald sich heim gefunden,
+Es schafft sich selbst, still wirkend, seine Welt.
+Und wie der Baum sich in die Erde schlingt
+Mit seiner Wurzeln Kraft und fest sich kettet,
+So rankt das Edle sich, das Treffliche,
+Mit seinen Thaten an das Leben an.
+Schnell knüpfen sich der Liebe zarte Bande,
+Wo man beglückt, ist man im Vaterlande.
+
+Alle Landleute.  O schöner Fremdling! sag, wie wir sie binden,
+Die Herrliche, in unsern stillen Gründen?
+
+Genius.  Es ist gefunden schon, das zarte Band,
+Nicht Alles ist ihr fremd in diesem Land;
+Mich wird sie wohl und mein Gefolge kennen,
+Wenn wir uns ihr verkündigen und nennen.
+
+(Hier tritt der Genius bis ans Proszenium, die sieben Göttinnen
+thun das Gleiche, so daß sie ganz vorn einen Halbkreis bilden.  In
+dem Augenblick, wo sie vortreten, enthüllen sie ihre Attribute, die
+sie bis jetzt unter den Gewändern verborgen gehalten.)
+
+Genius (gegen die Fürstin).
+Ich bin der schaffende Genius des Schönen,
+Und die mir folget, ist der Künste Schaar.
+Wir sind's, die alle Menschenwerke krönen,
+Wir schmücken den Palast und den Altar.
+Längst wohnten wir bei deinem Kaiserstamme,
+Und sie, die Herrliche, die dich gebar,
+Sie nährt uns selbst die heil'ge Opferflamme
+Mit reiner Hand auf ihrem Hausaltar.
+Wir sind dir nachgefolgt, von ihr gesendet;
+Denn alles Glück wird nur durch uns vollendet.
+
+Architektur (mit einer Mauerkrone auf dem Haupt, ein goldnes Schiff
+in der Rechten).
+Mich sahst du thronen an der Newa Strom!
+Dein großer Ahnherr rief mich nach dem Norden,
+Und dort erbaut' ich ihm ein zweites Rom;
+Durch mich ist es ein Kaisersitz geworden.
+Ein Paradies der Herrlichkeit und Größe
+Stieg unter meiner Zauberruthe Schlag.
+Jetzt rauscht des Lebens lustiges Getöse,
+Wo vormals nur ein düstrer Nebel lag;
+Die stolze Flottenrüstung seiner Maste
+Erschreckt den alten Belt in seinem Meerpalaste.
+
+Sculptur (mit einer Victoria in der Hand).
+Auch mich hast du mit Staunen oft gesehen,
+Die ernste Bildnerin der alten Götterwelt.
+Auf einen Felsen--er wird ewig stehen--
+Hab' ich sein großes Heldenbild gestellt;
+Und dieses Siegesbild, das ich erschaffen, (die Victoria zeigend)
+Dein hoher Bruder schwingt's in mächt'ger Hand;
+Es fliegt einher vor Alexanders Waffen,
+Er hat's auf ewig an sein Heer gebannt.
+Ich kann aus Thon nur Lebenloses bilden,
+Er schafft sich ein gesittet Volk aus Wilden.
+
+Malerei.  Auch mich, Erhabne! wirst du nicht verkennen,
+Die heitre Schöpferin der täuschenden Gestalt.
+Von Leben blitzt es, und die Farben brennen
+Auf meinem Tuch mit glühender Gewalt.
+Die Sinne weiß ich lieblich zu betrügen,
+Ja, durch die Augen täusch' ich selbst das Herz;
+Mit des Geliebten nachgeahmten Zügen
+Versüß' ich oft der Sehnsucht bittern Schmerz.
+Die sich getrennt nach Norden und nach Süden,
+Sie haben mich--und sind nicht ganz geschieden.
+
+Poesie.  Mich hält kein Band, mich fesselt keine Schranke,
+Frei schwing' ich mich durch alle Räume fort.
+Mein unermeßlich Reich ist der Gedanke,
+Und mein geflügelt Werkzeug ist das Wort.
+Was sich bewegt im Himmel und auf Erden,
+Was die Natur tief im Verborgnen schafft,
+Muß mir entschleiert und entsiegelt werden,
+Denn nichts beschränkt die freie Dichterkraft;
+Doch Schönres find' ich nichts, wie lang ich wähle,
+Als in der schönen Form--die schöne Seele.
+
+Musik (mit der Leier).
+Der Töne Macht, die aus den Saiten quillet,
+Du kennst sie wohl, du übst sie mächtig aus.
+Was ahnungsvoll den tiefen Busen füllet,
+Es spricht sich nur in meinen Tönen aus;
+Ein holder Zauber spielt um deine Sinnen,
+Ergieß' ich meinen Strom von Harmonien,
+In süßer Wehmuth will das Herz zerrinnen,
+Und von den Lippen will die Seele fliehn,
+Und setz' ich meine Leiter an von Tönen,
+Ich trage dich hinauf zum höchsten Schönen.
+
+Tanz (mit der Cymbale).
+Das hohe Göttliche, es ruht in ernster Stille,
+Mit stillem Geist will es empfunden sein.
+Das Leben regt sich gern in üpp'ger Fülle;
+Die Jugend will sich äußern, will sich freun.
+Die Freude führ' ich an der Schönheit Zügel,
+Die gern die zarten Grenzen übertritt;
+Dem schweren Körper geb' ich Zephyrs Flügel,
+Das Gleichmaß leg' ich in des Tanzes Schritt.
+Was sich bewegt, lenk' ich mit meinem Stabe,
+Die Grazie ist meine schöne Gabe.
+
+Schauspielkunst (mit einer Doppelmaske).
+Ein Janusbild lass' ich vor dir erscheinen,
+Die Freude zeigt es hier und hier den Schmerz.
+Die Menschheit wechselt zwischen Lust und Weinen,
+Und mit dem Ernste gattet sich der Scherz.
+Mit allen seinen Tiefen, seinen Höhen
+Roll' ich das Leben ab vor deinem Blick.
+Wenn du das große Spiel der Welt gesehen,
+So kehrst du reicher in dich selbst zurück;
+Denn, wer den Sinn aufs Ganze hält gerichtet,
+Dem ist der Streit in seiner Brust geschlichtet.
+
+Genius.  Und Alle, die wir hier vor dir erschienen,
+Der hohen Künste heil'ger Götterkreis,
+Sind wir bereit, o Fürstin, dir zu dienen.
+Gebiete du, und schnell, auf dein Geheiß,
+Wie Thebens Mauer beider Leier Tönen,
+Belebt sich der empfindungslose Stein,
+Entfaltet sich dir eine Welt des Schönen.
+
+Architektur.  Die Säule soll sich an die Säule reihn.
+
+Sculptur.  Der Marmor schmelzen unter Hammers Schlägen.
+
+Malerei.  Das Leben frisch sich auf der Leinwand regen.
+
+Musik.  Der Strom der Harmonieen dir erklingen.
+
+Tanz.  Der leichte Tanz den muntern Reigen schlingen.
+
+Schauspielkunst.  Die Welt sich dir auf dieser Bühne spiegeln.
+
+Poesie.  Die Phantasie auf ihren mächt'gen Flügeln
+Dich zaubern in das himmlische Gefild!
+
+Malerei.  Und wie der Iris schönes Farbenbild
+Sich glänzend aufbaut aus der Sonne Strahlen,
+So wollen wir mit schön vereintem Streben,
+Der hohen Schönheit sieben heil'ge Zahlen,
+Dir, Herrliche, den Lebensteppich weben!
+
+Alle Künste (sich umfassend).
+Denn aus der Kräfte schön vereintem Streben
+Erhebt sich, wirkend, erst das wahre Leben.
+
+
+Ende dieses Projekt Gutenberg Etextes Die Huldigung der Künste,
+von Friedrich Schiller.
+
+
+
+
+
+End of Project Gutenberg's Die Huldigung der Kuenste, by Friedrich Schiller
+
+*** END OF THE PROJECT GUTENBERG EBOOK DIE HULDIGUNG DER KUENSTE ***
+
+This file should be named 7939-8.txt or 7939-8.zip
+
+Produced by Delphine Lettau and Mike Pullen
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

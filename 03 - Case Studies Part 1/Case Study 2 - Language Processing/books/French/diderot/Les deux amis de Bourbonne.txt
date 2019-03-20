@@ -1,0 +1,1028 @@
+﻿The Project Gutenberg EBook of Les deux amis de Bourbonne, by Denis Diderot
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Les deux amis de Bourbonne
+
+Author: Denis Diderot
+
+Editor: Jules Assézat
+
+Release Date: April 25, 2009 [EBook #28603]
+
+Language: French
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LES DEUX AMIS DE BOURBONNE ***
+
+
+
+
+Produced by Laurent Vogel and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by the
+Bibliothèque nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr)
+
+
+
+
+
+
+
+[Extrait des OEuvres complètes de Diderot, éditées par Jules Assézat,
+5ème volume, Paris, Garnier Frères, 1875.]
+
+
+
+
+LES DEUX AMIS DE BOURBONNE
+
+(Écrit en 1770--Publié en 1773)
+
+
+
+
+NOTICE PRÉLIMINAIRE
+
+
+Voici la Notice qui précède ce conte dans l'édition Brière:
+
+«Au mois d'août 1770, Diderot[1] vint à Bourbonne-les-Bains, près de
+Langres, pour y voir une amie qui avait mené sa fille aux eaux dans
+l'espérance de lui rendre la santé altérée par les suites d'une première
+couche. Il trouva ces dames occupées, pour se désennuyer, à écrire des
+contes qu'elles adressaient à leurs correspondants de Paris. L'un d'eux
+venait à son tour de leur envoyer les _Deux Amis, conte iroquois_ que
+Saint-Lambert avait fait paraître peu de jours après sa réception à
+l'Académie française. Diderot eut l'idée de riposter par l'histoire des
+_Deux Amis de Bourbonne_, dont la simplicité contraste d'une manière si
+touchante avec la prétention du conte de Saint-Lambert. Cet écrit,
+échappé sans effort à la plume du philosophe, et dans lequel on retrouve
+des personnages contemporains, fut adressé par la jeune malade, ou la
+_petite soeur_, au _petit frère_, son correspondant, qui lui avait
+envoyé le conte iroquois.»
+
+Nous n'avons à ajouter à ce qui précède que deux mots. Les dames que
+retrouva Diderot à Bourbonne étaient Mme de Meaux et Mme de Prunevaux,
+sa fille. Le conte passa pour être de cette dernière, et comme son
+correspondant le croyait vrai, elle dut avoir de nouveau recours à
+Diderot pour le compléter. C'est à ce même moment que Diderot fit une
+courte excursion à Langres. Il revint de ce voyage ayant en
+portefeuille, outre les _Deux Amis de Bourbonne_, l'_Entretien d'un père
+avec ses enfants_, inspiré par la visite de la maison paternelle. Sur
+ces entrefaites, Gessner lui fit demander, comme une faveur, quelques
+pages pour accompagner la traduction de ses _Nouvelles Idylles_. Il lui
+donna les deux morceaux qui furent insérés en tête des _Contes moraux et
+Nouvelles Idylles de MM. D... et Gessner_ (Zuric, chez Orel, Gessner,
+Fuessli et Cie, 1773, petit in-8º), sous ce titre: _Contes moraux_ de M.
+D... Ils ont été souvent réimprimés.
+
+Voici ce que dit à ce sujet Gessner, dans la préface de l'édition in-4º
+ornée de frontispice, figures, en-têtes et culs-de-lampe gravés à
+l'eau-forte par lui-même (1773, IV, 184 pages. Zuric, chez l'auteur):
+
+«Les premiers ouvrages de M. Gessner ont été reçus si favorablement dans
+les païs étrangers et surtout en France, qu'il ne s'intéresse pas moins
+à la traduction[2] de celui-ci qu'à l'original même...
+
+«M. Gessner a communiqué son projet aux amis qu'il a à Paris, et
+particulièrement à M. D..., dont l'approbation lui a toujours été si
+précieuse. Cet homme célèbre a eu la bonté de lui envoyer en manuscript
+les deux contes moraux qui précèdent la traduction des _Nouvelles
+Idylles_. M. Gessner se trouve heureux de pouvoir offrir à la France un
+présent qu'elle recevra sans doute avec plaisir et qui sera le monument
+d'une amitié que la seule culture des lettres a fait naître entre deux
+hommes que des contrées éloignées ont toujours tenus séparés.»
+
+Dans la préface de l'édition des _Idylles_ de Gessner, illustrées par
+Moreau (1795), Renouard dit qu'il a pu corriger sur les manuscrits
+annotés par Diderot, _et qui étaient en sa possession_, le texte des
+_Deux Amis de Bourbonne_ et de l'_Entretien d'un père et de ses
+enfants_.
+
+C'est de ces deux contes que l'abbé de Vauxcelles, dont nous avons déjà
+parlé (_Notice_ du _Supplément au voyage de Bougainville_), disait
+qu'ils faisaient au milieu des _Idylles_ de Gessner l'effet «de satyres
+parmi des nymphes!»
+
+Disons, par contre, que Goethe, dans ses _Mémoires_, constate que les
+_Deux Amis_ firent une vive impression dans le petit cercle des
+étudiants allemands, à Strasbourg, où il était alors. «Nous fûmes ravis,
+dit-il, de ses braves braconniers, de ses vaillants contrebandiers,
+canaille poétique, qui ne tarda pas à venir faire des siennes sur le
+théâtre allemand:» dans _les Brigands_ de Schiller d'abord.
+
+                   *       *       *       *       *
+
+Nous recommanderons, comme complétant ce que nous avons pu dire à propos
+de l'annexe de la _Religieuse_, l'annexe des _Amis de Bourbonne_: «Et
+puis, il y a trois sortes de contes...»
+
+
+
+
+LES DEUX AMIS DE BOURBONNE
+
+
+Il y avait ici deux hommes, qu'on pourrait appeler les Oreste et Pylade
+de Bourbonne. L'un se nommait Olivier, et l'autre Félix; ils étaient nés
+le même jour, dans la même maison, et des deux soeurs. Ils avaient été
+nourris du même lait; car l'une des mères étant morte en couche, l'autre
+se chargea des deux enfants. Ils avaient été élevés ensemble; ils
+étaient toujours séparés des autres: ils s'aimaient comme on existe,
+comme on vit, sans s'en douter; ils le sentaient à tout moment, et ils
+ne se l'étaient peut-être jamais dit. Olivier avait une fois sauvé la
+vie à Félix, qui se piquait d'être grand nageur, et qui avait failli de
+se noyer: ils ne s'en souvenaient ni l'un ni l'autre. Cent fois Félix
+avait tiré Olivier des aventures fâcheuses où son caractère impétueux
+l'avait engagé; et jamais celui-ci n'avait songé à l'en remercier: ils
+s'en retournaient ensemble à la maison, sans se parler, ou en parlant
+d'autre chose.
+
+Lorsqu'on tira pour la milice, le premier billet fatal étant tombé sur
+Félix, Olivier dit: «L'autre est pour moi.» Ils firent leur temps de
+service; ils revinrent au pays: plus chers l'un à l'autre qu'ils ne
+l'étaient encore auparavant, c'est ce que je ne saurais vous assurer:
+car, petit frère, si les bienfaits réciproques cimentent les amitiés
+réfléchies, peut-être ne font-ils rien à celles que j'appellerais
+volontiers des amitiés animales et domestiques. À l'armée, dans une
+rencontre, Olivier étant menacé d'avoir la tête fendue d'un coup de
+sabre, Félix se mit machinalement au-devant du coup, et en resta
+balafré: on prétend qu'il était fier de cette blessure; pour moi, je
+n'en crois rien. À Hastembeck[3], Olivier avait retiré Félix d'entre la
+foule des morts, où il était demeuré. Quand on les interrogeait, ils
+parlaient quelquefois des secours qu'ils avaient reçus l'un de l'autre,
+jamais de ceux qu'ils avaient rendus l'un à l'autre. Olivier disait de
+Félix, Félix disait d'Olivier; mais ils ne se louaient pas. Au bout de
+quelque temps de séjour au pays, ils aimèrent; et le hasard voulut que
+ce fût la même fille. Il n'y eut entre eux aucune rivalité; le premier
+qui s'aperçut de la passion de son ami se retira: ce fut Félix. Olivier
+épousa; et Félix dégoûté de la vie sans savoir pourquoi, se précipita
+dans toutes sortes de métiers dangereux; le dernier fut de se faire
+contrebandier[4].
+
+Vous n'ignorez pas, petit frère, qu'il y a quatre tribunaux en France,
+Caen, Reims, Valence et Toulouse, où les contrebandiers sont jugés; et
+que le plus sévère des quatre, c'est celui de Reims, où préside un nommé
+Coleau, l'âme la plus féroce que la nature ait encore formée. Félix fut
+pris les armes à la main, conduit devant le terrible Coleau, et condamné
+à mort, comme cinq cents autres qui l'avaient précédé. Olivier apprit le
+sort de Félix. Une nuit, il se lève d'à côté de sa femme, et, sans lui
+rien dire, il s'en va à Reims. Il s'adresse au juge Coleau; il se jette
+à ses pieds, et lui demande la grâce de voir et d'embrasser Félix.
+Coleau le regarde, se tait un moment, et lui fait signe de s'asseoir.
+Olivier s'assied. Au bout d'une demi-heure, Coleau tire sa montre et dit
+à Olivier: «Si tu veux voir et embrasser ton ami vivant, dépêche-toi, il
+est en chemin; et si ma montre va bien, avant qu'il soit dix minutes il
+sera pendu.» Olivier, transporté de fureur, se lève, décharge sur la
+nuque du cou au juge Coleau un énorme coup de bâton, dont il l'étend
+presque mort; court vers la place, arrive, crie, frappe le bourreau,
+frappe les gens de la justice, soulève la populace indignée de ces
+exécutions. Les pierres volent; Félix délivré s'enfuit; Olivier songe à
+son salut: mais un soldat de maréchaussée lui avait percé les flancs
+d'un coup de baïonnette, sans qu'il s'en fût aperçu. Il gagna la porte
+de la ville, mais il ne put aller plus loin; des voituriers charitables
+le jetèrent sur leur charrette, et le déposèrent à la porte de sa maison
+un moment avant qu'il expirât; il n'eut que le temps de dire à sa femme:
+«Femme, approche, que je t'embrasse; je me meurs, mais le balafré est
+sauvé.»
+
+Un soir que nous allions à la promenade, selon notre usage, nous vîmes
+au-devant d'une chaumière une grande femme debout, avec quatre petits
+enfants à ses pieds; sa contenance triste et ferme attira notre
+attention, et notre attention fixa la sienne. Après un moment de
+silence, elle nous dit: «Voilà quatre petits enfants, je suis leur mère,
+et je n'ai plus de mari.» Cette manière haute de solliciter la
+commisération était bien faite pour nous toucher. Nous lui offrîmes nos
+secours, qu'elle accepta avec honnêteté: c'est à cette occasion que nous
+avons appris l'histoire de son mari Olivier et de Félix son ami. Nous
+avons parlé d'elle, et j'espère que notre recommandation ne lui aura pas
+été inutile. Vous voyez, petit frère, que la grandeur d'âme et les
+hautes qualités sont de toutes les conditions et de tous les pays; que
+tel meurt obscur, à qui il n'a manqué qu'un autre théâtre; et qu'il ne
+faut pas aller jusque chez les Iroquois pour trouver deux amis.
+
+Dans le temps que le brigand Testalunga infestait la Sicile avec sa
+troupe, Romano, son ami et son confident, fut pris. C'était le
+lieutenant de Testalunga, et son second. Le père de ce Romano fut arrêté
+et emprisonné pour crimes. On lui promit sa grâce et sa liberté, pourvu
+que Romano trahît et livrât son chef Testalunga. Le combat entre la
+tendresse filiale et l'amitié jurée fut violent. Mais Romano père
+persuada son fils de donner la préférence à l'amitié, honteux de devoir
+la vie à une trahison. Romano se rendit à l'avis de son père. Romano
+père fut mis à mort; et jamais les tortures les plus cruelles ne purent
+arracher de Romano fils la délation de ses complices.
+
+                   *       *       *       *       *
+
+Vous avez désiré, petit frère, de savoir ce qu'est devenu Félix; c'est
+une curiosité si simple, et le motif en est si louable, que nous nous
+sommes un peu reproché de ne l'avoir pas eue. Pour réparer cette faute,
+nous avons pensé d'abord à M. Papin, docteur en théologie, et curé de
+Sainte-Marie à Bourbonne: mais maman s'est ravisée; et nous avons donné
+la préférence au subdélégué Aubert, qui est un bon homme, bien rond, et
+qui nous a envoyé le récit suivant, sur la vérité duquel vous pouvez
+compter:
+
+«Le nommé Félix vit encore. Échappé des mains de la justice, il se jeta
+dans les forêts de la province, dont il avait appris à connaître les
+tours et les détours pendant qu'il faisait la contrebande, cherchant à
+s'approcher peu à peu de la demeure d'Olivier, dont il ignorait le sort.
+
+«Il y avait au fond d'un bois, où vous vous êtes promenée quelquefois,
+un charbonnier dont la cabane servait d'asile à ces sortes de gens;
+c'était aussi l'entrepôt de leurs marchandises et de leurs armes: ce fut
+là que Félix se rendit, non sans avoir couru le danger de tomber dans
+les embûches de la maréchaussée, qui le suivait à la piste. Quelques-uns
+de ses associés y avaient porté la nouvelle de son emprisonnement à
+Reims; et le charbonnier et la charbonnière le croyaient justicié,
+lorsqu'il leur apparut.
+
+«Je vais vous raconter la chose, comme je la tiens de la charbonnière,
+qui est décédée ici il n'y a pas longtemps.
+
+«Ce furent ses enfants, en rôdant autour de la cabane, qui le virent les
+premiers. Tandis qu'il s'arrêtait à caresser le plus jeune, dont il
+était le parrain, les autres entrèrent dans la cabane en criant: Félix!
+Félix! Le père et la mère sortirent en répétant le même cri de joie;
+mais ce misérable était si harassé de fatigue et de besoin, qu'il n'eut
+pas la force de répondre, et qu'il tomba presque défaillant entre leurs
+bras.
+
+«Ces bonnes gens le secoururent de ce qu'ils avaient, lui donnèrent du
+pain, du vin, quelques légumes: il mangea, et s'endormit.
+
+«À son réveil, son premier mot fut: «Olivier! Enfants, ne savez-vous
+rien d'Olivier?--Non,» lui répondirent-ils. Il leur raconta l'aventure
+de Reims; il passa la nuit et le jour suivant avec eux. Il soupirait, il
+prononçait le nom d'Olivier; il le croyait dans les prisons de Reims; il
+voulait y aller, il voulait aller mourir avec lui; et ce ne fut pas sans
+peine que le charbonnier et la charbonnière le détournèrent de ce
+dessein.
+
+«Sur le milieu de la seconde nuit, il prit un fusil, il mit un sabre
+sous son bras, et s'adressant à voix basse au charbonnier...
+«Charbonnier!
+
+«--Félix!
+
+«--Prends ta cognée, et marchons.
+
+«--Où!
+
+«--Belle demande! chez Olivier.»
+
+«Ils vont; mais tout en sortant de la forêt, les voilà enveloppés d'un
+détachement de maréchaussée.
+
+«Je m'en rapporte à ce que m'en a dit la charbonnière; mais il est inouï
+que deux hommes à pied aient pu tenir contre une vingtaine d'hommes à
+cheval: apparemment que ceux-ci étaient épars, et qu'ils voulaient se
+saisir de leur proie en vie. Quoi qu'il en soit, l'action fut
+très-chaude; il y eut cinq chevaux d'estropiés et sept cavaliers de
+hachés ou sabrés. Le pauvre charbonnier resta mort sur la place d'un
+coup de feu à la tempe; Félix regagna la forêt; et comme il est d'une
+agilité incroyable, il courait d'un endroit à l'autre; en courant, il
+chargeait son fusil, tirait, donnait un coup de sifflet. Ces coups de
+sifflet, ces coups de fusil donnés, tirés à différents intervalles et de
+différents côtés, firent craindre aux cavaliers de maréchaussée qu'il
+n'y eût là une horde de contrebandiers; et ils se retirèrent en
+diligence.
+
+«Lorsque Félix les vit éloignés, il revint sur le champ de bataille; il
+mit le cadavre du charbonnier sur ses épaules, et reprit le chemin de la
+cabane, où la charbonnière et ses enfants dormaient encore. Il s'arrête
+à la porte, il étend le cadavre à ses pieds, et s'assied le dos appuyé
+contre un arbre et le visage tourné vers l'entrée de la cabane. Voilà le
+spectacle qui attendait la charbonnière au sortir de sa baraque.
+
+«Elle s'éveille, elle ne trouve point son mari à côté d'elle; elle
+cherche des yeux Félix, point de Félix. Elle se lève, elle sort, elle
+voit, elle crie, elle tombe à la renverse. Ses enfants accourent, ils
+voient, ils crient; ils se roulent sur leur père, ils se roulent sur
+leur mère. La charbonnière, rappelée à elle-même par le tumulte et les
+cris de ses enfants, s'arrache les cheveux, se déchire les joues. Félix,
+immobile au pied de son arbre, les yeux fermés, la tête renversée en
+arrière, leur disait d'une voix éteinte: «Tuez-moi.» Il se faisait un
+moment de silence; ensuite la douleur et les cris reprenaient, et Félix
+leur redisait: «Tuez-moi; enfants, par pitié, tuez-moi.»
+
+«Ils passèrent ainsi trois jours et trois nuits à se désoler; le
+quatrième, Félix dit à la charbonnière: «Femme, prends ton bissac,
+mets-y du pain, et suis-moi.» Après un long circuit à travers nos
+montagnes et nos forêts, ils arrivèrent à la maison d'Olivier, qui est
+située, comme vous savez, à l'extrémité du bourg, à l'endroit où la voie
+se partage en deux routes, dont l'une conduit en Franche-Comté et
+l'autre en Lorraine[5].
+
+«C'est là que Félix va apprendre la mort d'Olivier et se trouver entre
+les veuves de deux hommes massacrés à son sujet. Il entre et dit
+brusquement à la femme Olivier: «Où est Olivier?» Au silence de cette
+femme, à son vêtement, à ses pleurs, il comprit qu'Olivier n'était plus.
+Il se trouva mal; il tomba et se fendit la tête contre la huche à pétrir
+le pain. Les deux veuves le relevèrent; son sang coulait sur elles; et
+tandis qu'elles s'occupaient à l'étancher avec leurs tabliers, il leur
+disait: «Et vous êtes leurs femmes, et vous me secourez!» Puis il
+défaillait, puis il revenait et disait en soupirant: «Que ne me
+laissait-il? Pourquoi s'en venir à Reims? Pourquoi l'y laisser
+venir?...» Puis sa tête se perdait, il entrait en fureur, il se roulait
+à terre et déchirait ses vêtements. Dans un de ces accès, il tira son
+sabre, et il allait s'en frapper; mais les deux femmes se jetèrent sur
+lui, crièrent au secours; les voisins accoururent: on le lia avec des
+cordes, et il fut saigné sept à huit fois. Sa fureur tomba avec
+l'épuisement de ses forces; et il resta comme mort pendant trois ou
+quatre jours, au bout desquels la raison lui revint. Dans le premier
+moment, il tourna ses yeux autour de lui, comme un homme qui sort d'un
+profond sommeil, et il dit: «Où suis-je? Femmes, qui êtes-vous?» La
+charbonnière lui répondit: «Je suis la charbonnière...» Il reprit: «Ah!
+oui, la charbonnière... Et vous?...» La femme Olivier se tut. Alors il
+se mit à pleurer, il se tourna du côté de la muraille, et dit en
+sanglotant: «Je suis chez Olivier... ce lit est celui d'Olivier... et
+cette femme qui est là, c'était la sienne! Ah!»
+
+«Ces deux femmes en eurent tant de soin, elles lui inspirèrent tant de
+pitié, elles le prièrent si instamment de vivre, elles lui remontrèrent
+d'une manière si touchante qu'il était leur unique ressource, qu'il se
+laissa persuader.
+
+«Pendant tout le temps qu'il resta dans cette maison, il ne se coucha
+plus. Il sortait la nuit, il errait dans les champs, il se roulait sur
+la terre, il appelait Olivier; une des femmes le suivait et le ramenait
+au point du jour.
+
+«Plusieurs personnes le savaient dans la maison d'Olivier; et parmi ces
+personnes il y en avait de malintentionnées. Les deux veuves
+l'avertirent du péril qu'il courait: c'était une après-midi, il était
+assis sur un banc, son sabre sur ses genoux, les coudes appuyés sur une
+table et ses deux poings sur ses deux yeux. D'abord il ne répondit rien.
+La femme Olivier avait un garçon de dix-sept à dix-huit ans, la
+charbonnière une fille de quinze. Tout à coup il dit à la charbonnière:
+«La charbonnière, va chercher ta fille et amène-la ici...» Il avait
+quelques fauchées de prés, il les vendit. La charbonnière revint avec sa
+fille, le fils d'Olivier l'épousa: Félix leur donna l'argent de ses
+prés, les embrassa, leur demanda pardon en pleurant; et ils allèrent
+s'établir dans la cabane où ils sont encore et où ils servent de père et
+de mère aux autres enfants. Les deux veuves demeurèrent ensemble; et les
+enfants d'Olivier eurent un père et deux mères.
+
+«Il y a à peu près un an et demi que la charbonnière est morte; la femme
+d'Olivier la pleure encore tous les jours.
+
+«Un soir qu'elles épiaient Félix (car il y en avait une des deux qui le
+gardait toujours à vue), elles le virent qui fondait en larmes; il
+tournait en silence ses bras vers la porte qui le séparait d'elles, et
+il se remettait ensuite à faire son sac. Elles ne lui dirent rien, car
+elles comprenaient de reste combien son départ était nécessaire. Ils
+soupèrent tous les trois sans parler. La nuit, il se leva; les femmes ne
+dormaient point: il s'avança vers la porte sur la pointe des pieds. Là,
+il s'arrêta, regarda vers le lit des deux femmes, essuya ses yeux de ses
+mains et sortit. Les deux femmes se serrèrent dans les bras l'une de
+l'autre et passèrent le reste de la nuit à pleurer. On ignore où il se
+réfugia; mais il n'y a guère eu de semaines qu'il ne leur ait envoyé
+quelques secours.
+
+«La forêt où la fille de la charbonnière vit avec le fils d'Olivier,
+appartient à un M. Leclerc de Rançonnières, homme fort riche et seigneur
+d'un autre village de ces cantons, appelé Courcelles[6]. Un jour que M.
+de Rançonnières ou de Courcelles, comme il vous plaira, faisait une
+chasse dans sa forêt, il arriva à la cabane du fils d'Olivier; il y
+entra, il se mit à jouer avec les enfants, qui sont jolis; il les
+questionna; la figure de la femme, qui n'est pas mal, lui revint; le ton
+ferme du mari, qui tient beaucoup de son père, l'intéressa; il apprit
+l'aventure de leurs parents, il promit de solliciter la grâce de Félix;
+il la sollicita et l'obtint.
+
+«Félix passa au service de M. de Rançonnières, qui lui donna une place
+de garde-chasse.
+
+«Il y avait environ deux ans qu'il vivait dans le château de
+Rançonnières, envoyant aux veuves une bonne partie de ses gages, lorsque
+l'attachement à son maître et la fierté de son caractère l'impliquèrent
+dans une affaire qui n'était rien dans son origine, mais qui eut les
+suites les plus fâcheuses.
+
+«M. de Rançonnières avait pour voisin à Courcelles, un M. Fourmont,
+conseiller au présidial de Ch...[7]. Les deux maisons n'étaient séparées
+que par une borne; cette borne gênait la porte de M. de Rançonnières et
+en rendait l'entrée difficile aux voitures. M. de Rançonnières la fit
+reculer de quelques pieds du côté de M. Fourmont; celui-ci renvoya la
+borne d'autant sur M. de Rançonnières; et puis voilà de la haine, des
+insultes, un procès entre les deux voisins. Le procès de la borne en
+suscita deux ou trois autres plus considérables. Les choses en étaient
+là, lorsqu'un soir M. de Rançonnières, revenant de la chasse, accompagné
+de son garde Félix, fit rencontre, sur le grand chemin, de M. Fourmont
+le magistrat et de son frère le militaire. Celui-ci dit à son frère:
+«Mon frère, si l'on coupait le visage à ce vieux bougre-là, qu'en
+pensez-vous?» Ce propos ne fut pas entendu de M. de Rançonnières, mais
+il le fut malheureusement de Félix, qui s'adressant fièrement au jeune
+homme, lui dit: «Mon officier, seriez-vous assez brave pour vous mettre
+seulement en devoir de faire ce que vous avez dit?» Au même instant, il
+pose son fusil à terre et met la main sur la garde de son sabre, car il
+n'allait jamais sans son sabre. Le jeune militaire tire son épée,
+s'avance sur Félix; M. de Rançonnières accourt, s'interpose, saisit son
+garde. Cependant le militaire s'empare du fusil qui était à terre, tire
+sur Félix, le manque; celui-ci riposte d'un coup de sabre, fait tomber
+l'épée de la main au jeune homme, et avec l'épée la moitié du bras: et
+voilà un procès criminel en sus de trois ou quatre procès civils; Félix
+confiné dans les prisons; une procédure effrayante; et à la suite de
+cette procédure, un magistrat dépouillé de son état et presque
+déshonoré, un militaire exclus de son corps, M. de Rançonnières mort de
+chagrin, et Félix, dont la détention durait toujours, exposé à tout le
+ressentiment des Fourmont. Sa fin eût été malheureuse, si l'amour ne
+l'eût secouru; la fille du geôlier prit de la passion pour lui et
+facilita son évasion: si cela n'est pas vrai, c'est du moins l'opinion
+publique. Il s'en est allé en Prusse, où il sert aujourd'hui dans le
+régiment des gardes. On dit qu'il y est aimé de ses camarades, et même
+connu du roi. Son nom de guerre est le Triste; la veuve Olivier m'a dit
+qu'il continuait à la soulager.
+
+«Voilà, madame, tout ce que j'ai pu recueillir de l'histoire de Félix.
+Je joins à mon récit une lettre de M. Papin, notre curé. Je ne sais ce
+qu'elle contient; mais je crains bien que le pauvre prêtre, qui a la
+tête un peu étroite et le coeur assez mal tourné, ne vous parle
+d'Olivier et de Félix d'après ses préventions. Je vous conjure, madame,
+de vous en tenir aux faits sur la vérité desquels vous pouvez compter,
+et à la bonté de votre coeur, qui vous conseillera mieux que le premier
+casuiste de Sorbonne, qui n'est pas M. Papin.»
+
+
+LETTRE
+
+DE M. PAPIN, DOCTEUR EN THÉOLOGIE, ET CURÉ DE SAINTE-MARIE À BOURBONNE.
+
+J'ignore, madame, ce que M. le subdélégué a pu vous conter d'Olivier et
+de Félix, ni quel intérêt vous pouvez prendre à deux brigands, dont tous
+les pas dans ce monde ont été trempés de sang. La Providence qui a
+châtié l'un, a laissé à l'autre quelques moments de répit, dont je
+crains bien qu'il ne profite pas; mais que la volonté de Dieu soit
+faite! Je sais qu'il y a des gens ici (et je ne serais point étonné que
+M. le subdélégué fût de ce nombre) qui parlent de ces deux hommes comme
+de modèles d'une d'amitié rare; mais qu'est-ce aux yeux de Dieu que la
+plus sublime vertu, dénuée des sentiments de la piété, du respect dû à
+l'Église et à ses ministres, et de la soumission à la loi du souverain?
+Olivier est mort à la porte de sa maison, sans sacrements; quand je fus
+appelé auprès de Félix, chez les deux veuves, je n'en pus jamais tirer
+autre chose que le nom d'Olivier; aucun signe de religion, aucune marque
+de repentir. Je n'ai pas mémoire que celui-ci se soit présenté une fois
+au tribunal de la pénitence. La femme Olivier est une arrogante qui m'a
+manqué en plus d'une occasion; sous prétexte qu'elle sait lire et
+écrire, elle se croit en état d'élever ses enfants; et on ne les voit ni
+aux écoles de la paroisse, ni à mes instructions. Que madame juge
+d'après cela, si des gens de cette espèce sont bien dignes de ses
+bontés! L'Évangile ne cesse de nous recommander la commisération pour
+les pauvres; mais on double le mérite de sa charité par un bon choix des
+misérables; et personne ne connaît mieux les vrais indigents que le
+pasteur commun des indigents et des riches. Si madame daignait m'honorer
+de sa confiance, je placerais peut-être les marques de sa bienfaisance
+d'une manière plus utile pour les malheureux, et plus méritoire pour
+elle.
+
+Je suis avec respect, etc.
+
+
+Madame de *** remercia M. le subdélégué Aubert de ses intentions, et
+envoya ses aumônes à M. Papin, avec le billet qui suit:
+
+
+«Je vous suis très-obligée, monsieur, de vos sages conseils. Je vous
+avoue que l'histoire de ces deux hommes m'avait touchée; et vous
+conviendrez que l'exemple d'une amitié aussi rare était bien faite pour
+séduire une âme honnête et sensible: mais vous m'avez éclairée, et j'ai
+conçu qu'il valait mieux porter ses secours à des vertus chrétiennes et
+malheureuses, qu'à des vertus naturelles et païennes. Je vous prie
+d'accepter la somme modique que je vous envoie, et de la distribuer
+d'après une charité mieux entendue que la mienne.
+
+«J'ai l'honneur d'être, etc.»
+
+
+On pense bien que la veuve Olivier et Félix n'eurent aucune part aux
+aumônes de madame de ***. Félix mourut; et la pauvre femme aurait péri
+de misère avec ses enfants, si elle ne s'était réfugiée dans la forêt,
+chez son fils aîné, où elle travaille, malgré son grand âge, et subsiste
+comme elle peut à côté de ses enfants et de ses petits-enfants[8].
+
+
+
+
+Et puis, il y a trois sortes de contes... Il y en a bien davantage, me
+direz-vous... À la bonne heure; mais je distingue le conte à la manière
+d'Homère, de Virgile, du Tasse, et je l'appelle le conte merveilleux. La
+nature y est exagérée; la vérité y est hypothétique: et si le conteur a
+bien gardé le module qu'il a choisi, si tout répond à ce module, et dans
+les actions, et dans les discours, il a obtenu le degré de perfection
+que le genre de son ouvrage comportait, et vous n'avez rien de plus à
+lui demander. En entrant dans son poëme, vous mettez le pied dans une
+terre inconnue, où rien ne se passe comme dans celle que vous habitez,
+mais où tout se fait en grand comme les choses se font autour de vous en
+petit. Il y a le conte plaisant à la façon de La Fontaine, de Vergier,
+de l'Arioste, d'Hamilton, où le conteur ne se propose ni l'imitation de
+la nature, ni la vérité, ni l'illusion; il s'élance dans les espaces
+imaginaires. Dites à celui-ci: Soyez gai, ingénieux, varié, original,
+même extravagant, j'y consens; mais séduisez-moi par les détails; que le
+charme de la forme me dérobe toujours l'invraisemblance du fond: et si
+ce conteur fait ce que vous exigez ici, il a tout fait. Il y a enfin le
+conte historique, tel qu'il est écrit dans les Nouvelles de Scarron, de
+Cervantes, de Marmontel...
+
+--Au diable le conte et le conteur historiques! c'est un menteur plat et
+froid...
+
+--Oui, s'il ne sait pas son métier. Celui-ci se propose de vous tromper;
+il est assis au coin de votre âtre; il a pour objet la vérité
+rigoureuse; il veut être cru; il veut intéresser, toucher, entraîner,
+émouvoir, faire frissonner la peau et couler les larmes; effet qu'on
+n'obtient point sans éloquence et sans poésie. Mais l'éloquence est une
+sorte de mensonge, et rien de plus contraire à l'illusion que la poésie;
+l'une et l'autre exagèrent, surfont, amplifient, inspirent la méfiance:
+comment s'y prendra donc ce conteur-ci pour vous tromper? Le voici. Il
+parsèmera son récit de petites circonstances si liées à la chose, de
+traits si simples, si naturels, et toutefois si difficiles à imaginer,
+que vous serez forcé de vous dire en vous-même: Ma foi, cela est vrai:
+on n'invente pas ces choses-là. C'est ainsi qu'il sauvera l'exagération
+de l'éloquence et de la poésie; que la vérité de la nature couvrira le
+prestige de l'art; et qu'il satisfera à deux conditions qui semblent
+contradictoires, d'être en même temps historien et poëte, véridique et
+menteur.
+
+Un exemple emprunté d'un autre art rendra peut-être plus sensible ce que
+je veux vous dire. Un peintre exécute sur la toile une tête. Toutes les
+formes en sont fortes, grandes et régulières; c'est l'ensemble le plus
+parfait et le plus rare. J'éprouve, en le considérant, du respect, de
+l'admiration, de l'effroi. J'en cherche le modèle dans la nature, et ne
+l'y trouve pas; en comparaison, tout y est faible, petit et mesquin;
+c'est une tête idéale; je le sens, je me le dis. Mais que l'artiste me
+fasse apercevoir au front de cette tête une cicatrice légère, une verrue
+à l'une de ses tempes, une coupure imperceptible à la lèvre inférieure;
+et, d'idéale qu'elle était, à l'instant la tête devient un portrait; une
+marque de petite vérole au coin de l'oeil ou à côté du nez, et ce visage
+de femme n'est plus celui de Vénus; c'est le portrait de quelqu'une de
+mes voisines. Je dirai donc à nos conteurs historiques: Vos figures sont
+belles, si vous voulez; mais il y manque la verrue à la tempe, la
+coupure à la lèvre, la marque de petite vérole à côté du nez, qui les
+rendraient vraies; et, comme disait mon ami Caillot[9]: «Un peu de
+poussière sur mes souliers, et je ne sors pas de ma loge, je reviens de
+la campagne.»
+
+    Atque ita mentitur, sic veris falsa remiscet,
+    Primo ne medium, medio ne discrepet imum.
+
+  HORAT. _De Art. poet._, v. 151.
+
+Et puis un peu de morale après un peu de poétique, cela va si bien!
+Félix était un gueux qui n'avait rien; Olivier était un autre gueux qui
+n'avait rien: dites-en autant du charbonnier, de la charbonnière, et des
+autres personnages de ce conte; et concluez qu'en général il ne peut
+guère y avoir d'amitiés entières et solides qu'entre des hommes qui
+n'ont rien. Un homme alors est toute la fortune de son ami, et son ami
+est toute la sienne. De là la vérité de l'expérience, que le malheur
+resserre les liens; et la matière d'un petit paragraphe de plus pour la
+première édition du livre de _l'Esprit_[10].
+
+
+
+
+NOTES
+
+
+  [1] Il n'y alla pas seul, il était avec Grimm, qui raconte les faits
+    (_Correspondance littéraire_, 1er décembre 1770) et donne comme
+    motifs ayant déterminé le titre et le sujet du conte, non-seulement
+    les _Deux Amis_, de Saint-Lambert, mais encore les _Deux Amis_,
+    drame de Beaumarchais, et les _Deux Amis_ ou _le Comte de Meralbi_
+    (par Sellier de Moranville), roman en 4 volumes, tous ouvrages dont
+    on s'occupait alors et qui n'avaient pas eu de succès.
+
+  [2] C'était Meister le traducteur.
+
+  [3] Cette bataille, livrée le 26 juillet 1757, fut gagnée par le
+    maréchal d'Estrées contre le duc de Cumberland. (Note de l'édition
+    BRIÈRE.)
+
+  [4] Bourbonne, alors chef-lieu de subdélégation, était frontière de la
+    Champagne, de la Lorraine et de la Franche-Comté, et il s'y faisait
+    beaucoup de contrebande. (Note de l'édition BRIÈRE.)
+
+  [5] La route de _Villars_ et celle d'_Iche_. (Note de l'édition
+    BRIÈRE.)
+
+  [6] Sur une copie qui est en notre possession, _Rançonnières_ est
+    remplacé par _Romainville_, et _Courcelles_ par _Jolibois_.
+
+  [7] Toutes les éditions portent _Lh..._ au lieu de _Ch..._ Diderot a
+    voulu désigner Chaumont. (Note de l'édition BRIÈRE.)
+
+  [8] Il est à supposer que nous n'avons pas ici la première version du
+    conte. Nous trouvons dans une lettre à Grimm, du 21 octobre 1770, la
+    preuve qu'il doit avoir subi divers remaniements. Voici, en effet,
+    ce que nous y lisons:
+
+    «J'avais pensé comme vous que l'atrocité du prêtre ôtait tout le
+    pathétique de l'histoire de _Félix_. Envoyez-moi une copie de cette
+    histoire et de celle d'_Olivier_, et ce que vous me demandez sera
+    fait; mais dépêchez-vous.»
+
+    Dans une autre lettre du 2 novembre au même, Diderot écrit:
+
+    «On m'a envoyé le papier de _Félix_, mais on aurait bien fait d'y
+    joindre celui d'_Olivier_ que j'avais demandé, afin de donner aux
+    deux contes un peu d'unité. N'importe, je me passerai de celui qui
+    me manque et je ferai de mon mieux.»
+
+    Quelle fut la nature des corrections opérées? Nous ne savons; mais
+    peut-être la lettre de M. Papin a-t-elle remplacé une intervention
+    plus directe et plus _atroce_ du prêtre.
+
+  [9] L'un des meilleurs acteurs de la comédie italienne, deviné par
+    Garrick, et dont Grimm disait qu'il était sublime sans effort.
+    «Personne, écrit-il, ne faisait avec une mesure plus juste tout ce
+    qu'il voulait faire. Le Kain est un homme prodigieusement rare;
+    peut-être Caillot est-il plus rare que lui. Caillot ne se doutait
+    point de son talent; il se croyait fait pour chanter avec beaucoup
+    d'agrément, jouer avec beaucoup de gaieté, avec une belle mine bien
+    réjouie; mais il ne se croyait pas pathétique. Garrick, l'ayant vu
+    jouer pendant son séjour en France, lui apprit qu'il serait acteur
+    quand il lui plairait...» Caillot quitta le théâtre en 1772 et fut
+    remplacé par un jeune abbé appelé Narbonne, échappé de la musique de
+    Notre-Dame.
+
+  [10] Cette édition ne se fit pas attendre. Condamné en 1759,
+    l'_Esprit_ reparut en 1771 (Londres). Diderot était sans doute au
+    courant de ce qui se préparait.
+
+
+
+
+
+
+End of Project Gutenberg's Les deux amis de Bourbonne, by Denis Diderot
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LES DEUX AMIS DE BOURBONNE ***
+
+***** This file should be named 28603-8.txt or 28603-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/8/6/0/28603/
+
+Produced by Laurent Vogel and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by the
+Bibliothèque nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
